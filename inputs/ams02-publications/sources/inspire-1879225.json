@@ -1,0 +1,3565 @@
+{
+  "metadata": {
+    "citation_count": 46,
+    "citation_count_without_self_citations": 22,
+    "publication_info": [
+      {
+        "year": 2021,
+        "artid": "02101",
+        "journal_issue": "2",
+        "journal_title": "Phys.Rev.Lett.",
+        "journal_record": {
+          "$ref": "https://inspirehep.net/api/journals/1214495"
+        },
+        "journal_volume": "127",
+        "curated_relation": true
+      },
+      {
+        "year": 2021,
+        "artid": "159901",
+        "material": "erratum",
+        "journal_issue": "15",
+        "journal_title": "Phys.Rev.Lett.",
+        "journal_volume": "127",
+        "curated_relation": true
+      }
+    ],
+    "documents": [
+      {
+        "key": "7e93df819aa31d880dc744a68723e0ef",
+        "url": "https://inspirehep.net/files/7e93df819aa31d880dc744a68723e0ef",
+        "filename": "PhysRevLett.127.021101.pdf",
+        "fulltext": true,
+        "description": "Fulltext"
+      }
+    ],
+    "core": false,
+    "dois": [
+      {
+        "value": "10.1103/PhysRevLett.127.021101",
+        "source": "APS"
+      },
+      {
+        "value": "10.1103/PhysRevLett.127.159901",
+        "material": "erratum"
+      }
+    ],
+    "titles": [
+      {
+        "title": "Properties of a New Group of Cosmic Nuclei: Results from the Alpha Magnetic Spectrometer on Sodium, Aluminum, and Nitrogen",
+        "source": "APS"
+      },
+      {
+        "title": "Erratum: Properties of a New Group of Cosmic Nuclei: Results from the Alpha Magnetic Spectrometer on Sodium, Aluminum, and Nitrogen [Phys. Rev. Lett. 127, 021101 (2021)]",
+        "source": "APS"
+      }
+    ],
+    "$schema": "https://inspirehep.net/schemas/records/hep.json",
+    "authors": [
+      {
+        "uuid": "334357d2-4f96-4fff-9d0b-1a3a2a7569dd",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1026157"
+        },
+        "full_name": "Aguilar, M.",
+        "signature_block": "AGALARm"
+      },
+      {
+        "uuid": "7096d8a3-d33b-4a02-8feb-deef4b5ca722",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879226"
+        },
+        "full_name": "Cavasonza, L. Ali",
+        "signature_block": "CAVASANSl"
+      },
+      {
+        "uuid": "dc1c7020-f961-4f5d-85c4-63dff1587a13",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1018580"
+        },
+        "full_name": "Alpat, B.",
+        "signature_block": "ALPATb"
+      },
+      {
+        "uuid": "ab46a65a-ed31-4cba-90d2-69471d5968d1",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1018508"
+        },
+        "full_name": "Ambrosi, G.",
+        "signature_block": "ANBRASg"
+      },
+      {
+        "uuid": "7f821163-2361-4e49-96a5-dbac32d0e1c8",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1511368"
+        },
+        "full_name": "Arruda, L.",
+        "signature_block": "ARADl"
+      },
+      {
+        "uuid": "4e831b07-5fee-4f08-b851-c6ea20a36377",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879227"
+        },
+        "full_name": "Attig, N.",
+        "signature_block": "ATAGn"
+      },
+      {
+        "uuid": "4064064f-44f4-48f5-8523-af04eb3a2c7f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1017419"
+        },
+        "full_name": "Barao, F.",
+        "signature_block": "BARf"
+      },
+      {
+        "uuid": "b57d2ad3-b1ef-4011-baee-b651dfdfd0a0",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1017260"
+        },
+        "full_name": "Barrin, L.",
+        "signature_block": "BARANl"
+      },
+      {
+        "uuid": "a001da7a-3cb1-4e11-a308-2e35dd845425",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1062220"
+        },
+        "full_name": "Bartoloni, A.",
+        "signature_block": "BARTALANa"
+      },
+      {
+        "uuid": "4d1f2266-4c84-4138-9819-8d3fed8ba566",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1064439"
+        },
+        "full_name": "Başeğmez-du Pree, S.",
+        "signature_block": "PRYs"
+      },
+      {
+        "uuid": "9ced1c9e-ec0a-401c-bb39-f999c0a0fc31",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1017123"
+        },
+        "full_name": "Battiston, R.",
+        "signature_block": "BATASTANr"
+      },
+      {
+        "uuid": "a9a92053-05a4-4b1f-a8c6-e23ec30151db",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879228"
+        },
+        "full_name": "Behlmann, M.",
+        "signature_block": "BALNANm"
+      },
+      {
+        "uuid": "5c9467c5-7a86-4be8-9534-4623d4596255",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879229"
+        },
+        "full_name": "Beranek, B.",
+        "signature_block": "BARANACb"
+      },
+      {
+        "uuid": "7864170d-bb1a-4864-8738-895f46cac1f7",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1016693"
+        },
+        "full_name": "Berdugo, J.",
+        "signature_block": "BARDAGj"
+      },
+      {
+        "uuid": "dba49ae0-59ca-4996-8d51-a244da237434",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1016515"
+        },
+        "full_name": "Bertucci, B.",
+        "signature_block": "BARTACb"
+      },
+      {
+        "uuid": "f0960f65-e53d-456e-9c19-3ee6f0a3bda4",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879230"
+        },
+        "full_name": "Bindi, V.",
+        "signature_block": "BANDv"
+      },
+      {
+        "uuid": "e9741513-4e4d-4a4b-aa10-2ccd09cabb2a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879231"
+        },
+        "full_name": "Bollweg, K.",
+        "signature_block": "BALWAGk"
+      },
+      {
+        "uuid": "e277c768-cac4-44c5-99ae-201319781767",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1015771"
+        },
+        "full_name": "Borgia, B.",
+        "signature_block": "BARGb"
+      },
+      {
+        "uuid": "67321838-4f2f-43de-b312-527221b02294",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1259906"
+        },
+        "full_name": "Boschini, M.J.",
+        "signature_block": "BASANm"
+      },
+      {
+        "uuid": "99cd21d7-8697-49e7-9b74-bb723a0c2a2c",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1015594"
+        },
+        "full_name": "Bourquin, M.",
+        "signature_block": "BARGANm"
+      },
+      {
+        "uuid": "ca809f7b-6bdb-4318-ab1e-abddba8f9b48",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2040505"
+        },
+        "full_name": "Bueno, E.F.",
+        "signature_block": "BANe",
+        "curated_relation": true
+      },
+      {
+        "uuid": "ec994530-44f1-4e30-9b01-068c8c313902",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1014956"
+        },
+        "full_name": "Burger, J.",
+        "signature_block": "BARGARj"
+      },
+      {
+        "uuid": "0069ae52-f523-42f6-8fd8-dc49871d082f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879234"
+        },
+        "full_name": "Burger, W.J.",
+        "signature_block": "BARGARw"
+      },
+      {
+        "uuid": "f94b900e-8f85-47ea-a38d-b91489146bef",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879235"
+        },
+        "full_name": "Burmeister, S.",
+        "signature_block": "BARNASTARs"
+      },
+      {
+        "uuid": "51ddd123-5836-43fa-a327-47e221fbd900",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1014766"
+        },
+        "full_name": "Cai, X.D.",
+        "signature_block": "Cx"
+      },
+      {
+        "uuid": "d2e0ccf3-a56c-4668-89fa-0e1f5dbb5e8d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879236"
+        },
+        "full_name": "Capell, M.",
+        "signature_block": "CAPALm"
+      },
+      {
+        "uuid": "58bd6624-cf1d-401b-abba-f566b0b14dff",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1014356"
+        },
+        "full_name": "Casaus, J.",
+        "signature_block": "CASj"
+      },
+      {
+        "uuid": "2f342fce-7030-40f2-82e6-ee2697dbebb6",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1014304"
+        },
+        "full_name": "Castellini, G.",
+        "signature_block": "CASTALANg"
+      },
+      {
+        "uuid": "fe3dcabf-41aa-4b7c-86e8-615c4fdb0223",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1059554"
+        },
+        "full_name": "Cervelli, F.",
+        "signature_block": "CARVALf"
+      },
+      {
+        "uuid": "8b82e449-265d-4257-b7ed-9ba6be03b899",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1014040"
+        },
+        "full_name": "Chang, Y.H.",
+        "signature_block": "CANGy"
+      },
+      {
+        "uuid": "0b702e3a-6571-470d-99d5-d43c073144ac",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1013883"
+        },
+        "full_name": "Chen, G.M.",
+        "signature_block": "CANg"
+      },
+      {
+        "uuid": "3115df00-8f84-4448-b29c-591f1dc7798f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879237"
+        },
+        "full_name": "Chen, G.R.",
+        "signature_block": "CANg"
+      },
+      {
+        "uuid": "ffd0a101-2455-41bb-98e0-df318d117b65",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1013882"
+        },
+        "full_name": "Chen, H.S.",
+        "signature_block": "CANh"
+      },
+      {
+        "uuid": "148607b6-408b-44ea-bbc0-75b4aebd1d42",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1735761"
+        },
+        "full_name": "Chen, Y.",
+        "signature_block": "CANy"
+      },
+      {
+        "uuid": "e04c2bd9-1ff5-44aa-ab52-e9a0a0707301",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1333620"
+        },
+        "full_name": "Cheng, L.",
+        "signature_block": "CANGl"
+      },
+      {
+        "uuid": "5a82f916-19d2-4bc2-b386-5a8d413a0a69",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879239"
+        },
+        "full_name": "Chou, H.Y.",
+        "signature_block": "Ch"
+      },
+      {
+        "uuid": "c2865854-06d8-4dea-b912-08b8f36e33ef",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1013599"
+        },
+        "full_name": "Chouridou, S.",
+        "signature_block": "CARADs"
+      },
+      {
+        "uuid": "25d418dc-f38f-48ed-bc39-a01c26c32b37",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1013598"
+        },
+        "full_name": "Choutko, V.",
+        "signature_block": "CATCv"
+      },
+      {
+        "uuid": "d778f818-09d5-4325-96fe-e15c543ca23a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1013526"
+        },
+        "full_name": "Chung, C.H.",
+        "signature_block": "CANGc"
+      },
+      {
+        "uuid": "86da211e-0692-4551-b90f-62c6746b5681",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1013426"
+        },
+        "full_name": "Clark, C.",
+        "signature_block": "CLARCc"
+      },
+      {
+        "uuid": "3cf162d3-246d-4c78-930a-24ab1e10f13a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1013284"
+        },
+        "full_name": "Coignet, G.",
+        "affiliations": [
+          {
+            "value": "Annecy, LAPP",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903421"
+            },
+            "curated_relation": true
+          }
+        ],
+        "signature_block": "CAGNATg"
+      },
+      {
+        "uuid": "90fb2517-146a-4bc7-b00e-7d0855ffc856",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879241"
+        },
+        "full_name": "Consolandi, C.",
+        "signature_block": "CANSALANDc"
+      },
+      {
+        "uuid": "128f3cbd-a729-4aac-863c-31742c34a609",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1013119"
+        },
+        "full_name": "Contin, A.",
+        "signature_block": "CANTANa"
+      },
+      {
+        "uuid": "5744030c-278d-4c56-a684-d61fa0c6c11b",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1270306"
+        },
+        "full_name": "Corti, C.",
+        "signature_block": "CARTc"
+      },
+      {
+        "uuid": "646162a5-4970-444e-87fc-deac45f41476",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1913049"
+        },
+        "full_name": "Cui, Z.",
+        "signature_block": "Cz",
+        "curated_relation": true
+      },
+      {
+        "uuid": "fa4a51b7-41eb-43a2-a9f8-df09be776155",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879242"
+        },
+        "full_name": "Dadzie, K.",
+        "signature_block": "DADSYk"
+      },
+      {
+        "uuid": "42a1330a-9fbf-4096-bcb6-8d8eade31d57",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1058099"
+        },
+        "full_name": "Delgado, C.",
+        "signature_block": "DALGADc"
+      },
+      {
+        "uuid": "afebdde3-7129-4542-b8ed-c90acbd69281",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1415227"
+        },
+        "full_name": "Della Torre, S.",
+        "signature_block": "TARs"
+      },
+      {
+        "uuid": "803a4ada-fbdc-4513-bca8-f6202711c282",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879243"
+        },
+        "full_name": "Demirköz, M.B.",
+        "signature_block": "DANARCm"
+      },
+      {
+        "uuid": "4862dcaf-7a84-44b9-985a-54add89c772f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1026161"
+        },
+        "full_name": "Derome, L.",
+        "affiliations": [
+          {
+            "value": "LPSC, Grenoble",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902828"
+            },
+            "curated_relation": true
+          }
+        ],
+        "signature_block": "DARANl"
+      },
+      {
+        "uuid": "3d4041a4-d169-4d6b-b74b-c2e5d9cd34be",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1031268"
+        },
+        "full_name": "Di Falco, S.",
+        "signature_block": "FALCs"
+      },
+      {
+        "uuid": "61e0a173-c50b-4c78-849d-a582f95729a1",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1053472"
+        },
+        "full_name": "Di Felice, V.",
+        "signature_block": "FALACv"
+      },
+      {
+        "uuid": "89c5a96f-cf4d-4c99-83e7-036251dee88e",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1932112"
+        },
+        "full_name": "Díaz, C.",
+        "signature_block": "Dc"
+      },
+      {
+        "uuid": "d3874d66-e721-47f9-b918-473d586d5b33",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1423642"
+        },
+        "full_name": "Dimiccoli, F.",
+        "signature_block": "DANACALf"
+      },
+      {
+        "uuid": "09629bf0-65f2-4724-8aff-2712b99efe7b",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1046260"
+        },
+        "full_name": "von Doetinchem, P.",
+        "signature_block": "DATANCANp"
+      },
+      {
+        "uuid": "60055c8f-3b07-494d-b2fa-859aa3f938f3",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879245"
+        },
+        "full_name": "Dong, F.",
+        "signature_block": "DANGf"
+      },
+      {
+        "uuid": "356013ed-2e5e-4a5b-80d6-bf68866220e6",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1423740"
+        },
+        "full_name": "Donnini, F.",
+        "signature_block": "DANANf"
+      },
+      {
+        "uuid": "7ebe0c95-ef21-49ce-941b-2f954f24faa0",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1207367"
+        },
+        "full_name": "Duranti, M.",
+        "signature_block": "DARANTm"
+      },
+      {
+        "uuid": "9d19978f-e14a-4e47-82c6-a1cfe0eed5d4",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1010956"
+        },
+        "full_name": "Egorov, A.",
+        "signature_block": "EGARAVa"
+      },
+      {
+        "uuid": "af5aebc7-950b-4696-81c9-d3a532f5d38e",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1074030"
+        },
+        "full_name": "Eline, A.",
+        "signature_block": "ELANa"
+      },
+      {
+        "uuid": "538d55a5-bf3a-4604-ba04-394c5cdfa55e",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1676789"
+        },
+        "full_name": "Feng, J.",
+        "signature_block": "FANGj"
+      },
+      {
+        "uuid": "dac0acd3-a0be-4b03-98ec-b5bd98a79e01",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1010041"
+        },
+        "full_name": "Fiandrini, E.",
+        "signature_block": "FANDRANe"
+      },
+      {
+        "uuid": "bdab53ba-19ad-4e48-b61e-d81a00c6d667",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1009891"
+        },
+        "full_name": "Fisher, P.",
+        "signature_block": "FASARp"
+      },
+      {
+        "uuid": "2d6a191b-4e22-40cd-ad81-73593ebcdf88",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1288226"
+        },
+        "full_name": "Formato, V.",
+        "signature_block": "FARNATv"
+      },
+      {
+        "uuid": "9735b2f1-c2e3-4e01-b8da-61550757e763",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879246"
+        },
+        "full_name": "Freeman, C.",
+        "signature_block": "FRANANc"
+      },
+      {
+        "uuid": "31b11b5b-f654-4731-8f29-45e28c4e7543",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879247"
+        },
+        "full_name": "Gámez, C.",
+        "signature_block": "GANc"
+      },
+      {
+        "uuid": "93b3c90c-a067-4c97-b949-e1a79dbf3dba",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1026163"
+        },
+        "full_name": "García-López, R.J.",
+        "signature_block": "LAPr"
+      },
+      {
+        "uuid": "95a366ea-2cf7-4592-a8c4-9a764d3872f2",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1062197"
+        },
+        "full_name": "Gargiulo, C.",
+        "signature_block": "GARGALc"
+      },
+      {
+        "uuid": "029f0c79-ba60-4120-a885-66addfcf5ca0",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1034690"
+        },
+        "full_name": "Gast, H.",
+        "signature_block": "GASTh"
+      },
+      {
+        "uuid": "1074e368-067a-4486-96f1-ff6e481313c6",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1423937"
+        },
+        "full_name": "Gervasi, M.",
+        "signature_block": "GARVASm"
+      },
+      {
+        "uuid": "d27c754b-5bec-4edd-87d5-a65774e61801",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879248"
+        },
+        "full_name": "Giovacchini, F.",
+        "signature_block": "GAVACANf"
+      },
+      {
+        "uuid": "2873def0-d49b-440b-a52b-f87b560486ac",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879249"
+        },
+        "full_name": "Gómez-Coral, D.M.",
+        "signature_block": "GANd"
+      },
+      {
+        "uuid": "77f39ad3-1552-4ab6-a1c4-79ae2104be70",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1065917"
+        },
+        "full_name": "Gong, J.",
+        "signature_block": "GANGj"
+      },
+      {
+        "uuid": "ed14793d-5bf2-4489-ad53-f929f1a3ff67",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1007808"
+        },
+        "full_name": "Goy, C.",
+        "affiliations": [
+          {
+            "value": "Annecy, LAPP",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903421"
+            },
+            "curated_relation": true
+          }
+        ],
+        "signature_block": "GYc"
+      },
+      {
+        "uuid": "a7d690bf-c7aa-41a6-8bda-cb24abc35bef",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1007788"
+        },
+        "full_name": "Grabski, V.",
+        "signature_block": "GRABSCv"
+      },
+      {
+        "uuid": "53ea57e8-05f4-43d8-8c2d-989d4574653a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1259908"
+        },
+        "full_name": "Grandi, D.",
+        "signature_block": "GRANDd"
+      },
+      {
+        "uuid": "c4881c72-cec6-472b-bf7a-6e35d4446ef6",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1423826"
+        },
+        "full_name": "Graziani, M.",
+        "signature_block": "GRASANm"
+      },
+      {
+        "uuid": "48718fe7-4e30-433b-9a27-367fbe951bc9",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1044269"
+        },
+        "full_name": "Haino, S.",
+        "signature_block": "HANs"
+      },
+      {
+        "uuid": "ece34175-08d5-4a59-811b-3aea42f2373a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1084026"
+        },
+        "full_name": "Han, K.C.",
+        "signature_block": "HANk"
+      },
+      {
+        "uuid": "c198338d-a7f3-40a6-b3bf-b214b893895c",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879250"
+        },
+        "full_name": "Hashmani, R.K.",
+        "signature_block": "HASNANr"
+      },
+      {
+        "uuid": "61f029d7-8c60-404d-9b73-a50324d4e532",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879251"
+        },
+        "full_name": "He, Z.H.",
+        "signature_block": "Hz"
+      },
+      {
+        "uuid": "92832d11-42b0-4a39-8dd0-f079e427576d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879252"
+        },
+        "full_name": "Heber, B.",
+        "signature_block": "HABARb"
+      },
+      {
+        "uuid": "01c3bb57-ce7c-4f6e-b256-52574c41cb54",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1026500"
+        },
+        "full_name": "Hsieh, T.H.",
+        "signature_block": "HSt"
+      },
+      {
+        "uuid": "77206757-ec83-483e-9751-63240d490fec",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1340885"
+        },
+        "full_name": "Hu, J.Y.",
+        "signature_block": "Hj"
+      },
+      {
+        "uuid": "41f16575-f503-487e-bc75-c88192be4376",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1021840"
+        },
+        "full_name": "Incagli, M.",
+        "signature_block": "INCAGLm"
+      },
+      {
+        "uuid": "ef4059e2-2fed-4de4-9e14-4782eb9a6151",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879253"
+        },
+        "full_name": "Jang, W.Y.",
+        "signature_block": "JANGw"
+      },
+      {
+        "uuid": "5a7e2a30-5fb6-4496-8dd8-919685d6d644",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1597953"
+        },
+        "full_name": "Jia, Yi",
+        "signature_block": "Jy",
+        "curated_relation": true
+      },
+      {
+        "uuid": "13796695-0f33-4140-9bf5-a37f67b3279f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879254"
+        },
+        "full_name": "Jinchi, H.",
+        "signature_block": "JANCh"
+      },
+      {
+        "uuid": "7ec78f49-b976-4b05-9f29-3849cbfbb13c",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1839165"
+        },
+        "full_name": "Khiali, B.",
+        "signature_block": "CALb"
+      },
+      {
+        "uuid": "e6aa8a16-9c37-4727-82a5-0933fc11cc14",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1002967"
+        },
+        "full_name": "Kim, G.N.",
+        "signature_block": "CANg"
+      },
+      {
+        "uuid": "ce1c82f8-5220-4745-bb4e-3a483fcd4380",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1002799"
+        },
+        "full_name": "Kirn, Th.",
+        "signature_block": "CARNt"
+      },
+      {
+        "uuid": "6dc26dbe-ff98-49c8-92cd-1dce92d70718",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1065096"
+        },
+        "full_name": "Konyushikhin, M.",
+        "signature_block": "CANASACANm"
+      },
+      {
+        "uuid": "aefdade6-bb77-49d6-9223-44b1a8f33a25",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879255"
+        },
+        "full_name": "Kounina, O.",
+        "signature_block": "CANANo"
+      },
+      {
+        "uuid": "865b18f8-a20b-4775-87c1-59df8e98d669",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1002036"
+        },
+        "full_name": "Kounine, A.",
+        "signature_block": "CANANa"
+      },
+      {
+        "uuid": "cfb9acd3-b7c3-452b-928f-3cf0cffe3b4e",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879256"
+        },
+        "full_name": "Koutsenko, V.",
+        "signature_block": "CATSANCv"
+      },
+      {
+        "uuid": "83cc8e86-748d-4d4f-a0b9-7d5b07b12f46",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1122104"
+        },
+        "full_name": "Krasnopevtsev, D.",
+        "signature_block": "CRASNAPAFTSAFd"
+      },
+      {
+        "uuid": "2e92925a-ee42-4516-8d71-bb58e3f51f0d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1032325"
+        },
+        "full_name": "Kuhlman, A.",
+        "signature_block": "CALNANa"
+      },
+      {
+        "uuid": "23497790-03ca-4279-8488-8f06a8006dd4",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879257"
+        },
+        "full_name": "Kulemzin, A.",
+        "signature_block": "CALANSANa"
+      },
+      {
+        "uuid": "b3e62dfb-eafc-4c8f-90e5-2ddbf518b78a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1273965"
+        },
+        "full_name": "La Vacca, G.",
+        "signature_block": "VACg"
+      },
+      {
+        "uuid": "29ef0448-a871-4f3e-a8b4-d4bbbf1e7d5f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1343712"
+        },
+        "full_name": "Laudi, E.",
+        "signature_block": "LADe"
+      },
+      {
+        "uuid": "bbcb96cf-bee7-465a-8996-7ec59853c9e1",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1000961"
+        },
+        "full_name": "Laurenti, G.",
+        "signature_block": "LARANTg"
+      },
+      {
+        "uuid": "44e2fabf-3c77-4ecf-8b16-77ef5f99bed5",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1000886"
+        },
+        "full_name": "Lazzizzera, I.",
+        "signature_block": "LASASARi"
+      },
+      {
+        "uuid": "f7cc8a95-e347-4802-bc08-85a0a7fb84fe",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1065807"
+        },
+        "full_name": "Lebedev, A.",
+        "signature_block": "LABADAFa"
+      },
+      {
+        "uuid": "78b54530-fb4f-4c76-931c-ea0eed4153b3",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1000728"
+        },
+        "full_name": "Lee, H.T.",
+        "signature_block": "LYh"
+      },
+      {
+        "uuid": "3f347cb2-022c-4540-b8c5-f710c59c5f55",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1068627"
+        },
+        "full_name": "Lee, S.C.",
+        "signature_block": "LYs"
+      },
+      {
+        "uuid": "e47bb820-9fe5-4c0f-bff2-fc5771999c25",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1042598"
+        },
+        "full_name": "Li, J.Q.",
+        "signature_block": "Lj"
+      },
+      {
+        "uuid": "e8fe892e-d905-4aa2-b693-1f5cdfba196e",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1000348"
+        },
+        "full_name": "Li, M.",
+        "signature_block": "Lm"
+      },
+      {
+        "uuid": "96e481a5-787e-455e-b4ae-46887ae898b6",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879259"
+        },
+        "full_name": "Li, Q.",
+        "signature_block": "Lq"
+      },
+      {
+        "uuid": "aab20ca5-48a1-4c49-bd37-8d7c88d998de",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1020963"
+        },
+        "full_name": "Li, S.",
+        "signature_block": "Ls"
+      },
+      {
+        "uuid": "df42b46b-8fe4-40c6-89cc-cd8efc06ff66",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1078880"
+        },
+        "full_name": "Li, J.H.",
+        "signature_block": "Lj"
+      },
+      {
+        "uuid": "14982be3-31dd-4209-ae67-1a05c112464a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879260"
+        },
+        "full_name": "Li, Z.H.",
+        "signature_block": "Lz"
+      },
+      {
+        "uuid": "36a03ea8-06d0-4b2e-983b-73ae0de47196",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879261"
+        },
+        "full_name": "Liang, J.",
+        "signature_block": "LANGj"
+      },
+      {
+        "uuid": "f3c62fa7-d062-41e4-820a-282d01d2d0d8",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879262"
+        },
+        "full_name": "Light, C.",
+        "signature_block": "LAGTc"
+      },
+      {
+        "uuid": "e4851c22-303e-488d-80d6-16e1127968ed",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1000209"
+        },
+        "full_name": "Lin, C.H.",
+        "signature_block": "LANc"
+      },
+      {
+        "uuid": "3bb1a1d5-6a27-4f64-bbd5-6e81d9e3525e",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1000081"
+        },
+        "full_name": "Lippert, T.",
+        "signature_block": "LAPADt"
+      },
+      {
+        "uuid": "e3e672ad-7080-4f92-82a9-4b82974de44b",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1259273"
+        },
+        "full_name": "Liu, J.H.",
+        "signature_block": "Lj"
+      },
+      {
+        "uuid": "067105ad-3331-45b5-a6c2-f6ed3b27a3a9",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1513081"
+        },
+        "full_name": "Liu, Z.",
+        "signature_block": "Lz",
+        "curated_relation": true
+      },
+      {
+        "uuid": "6644d303-a6d7-4ffe-ac4c-1264f5b80163",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1303840"
+        },
+        "full_name": "Lu, S.Q.",
+        "signature_block": "Ls"
+      },
+      {
+        "uuid": "88e16950-3f4c-4536-8a75-722cc805c0b8",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1068465"
+        },
+        "full_name": "Lu, Y.S.",
+        "signature_block": "Ly"
+      },
+      {
+        "uuid": "ac73d1f2-a284-4f27-865a-7277c1e2b4d4",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879264"
+        },
+        "full_name": "Luebelsmeyer, K.",
+        "signature_block": "LABALSNYARk"
+      },
+      {
+        "uuid": "db312854-a871-4925-a691-35d022f10722",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879265"
+        },
+        "full_name": "Luo, J.Z.",
+        "signature_block": "Lj"
+      },
+      {
+        "uuid": "f4c737e6-7fcc-497a-a8b6-f4870f254cf3",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1916629"
+        },
+        "full_name": "Luo, Xi",
+        "signature_block": "Lx"
+      },
+      {
+        "uuid": "3a862ddf-904e-47c3-b3e5-ab87665aa741",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879267"
+        },
+        "full_name": "Machate, F.",
+        "signature_block": "MCATf"
+      },
+      {
+        "uuid": "a3bae329-3125-4b77-a009-0796b3ae5a71",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1907273"
+        },
+        "full_name": "Mañá, C.",
+        "signature_block": "MANc"
+      },
+      {
+        "uuid": "290b1074-a53c-4568-a5eb-a0dd901897e7",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1064598"
+        },
+        "full_name": "Marín, J.",
+        "signature_block": "MARANj"
+      },
+      {
+        "uuid": "f3e10c6c-53a6-4f51-a03a-5d0708972e91",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879269"
+        },
+        "full_name": "Marquardt, J.",
+        "signature_block": "MARGARDj"
+      },
+      {
+        "uuid": "a708a69e-eb6f-488e-82d2-e89cf757b335",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1022978"
+        },
+        "full_name": "Martin, T.",
+        "signature_block": "MARTANt"
+      },
+      {
+        "uuid": "aaa68066-d09c-4a9b-bfa1-7bf5d67cf2c0",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/998584"
+        },
+        "full_name": "Martínez, G.",
+        "signature_block": "MARTANg"
+      },
+      {
+        "uuid": "ac4ddeeb-f249-4f68-aafc-e4062fa3160d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1355315"
+        },
+        "full_name": "Masi, N.",
+        "signature_block": "MASn"
+      },
+      {
+        "uuid": "6d7c6248-9141-4747-9216-d0400cf9d346",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1038235"
+        },
+        "full_name": "Maurin, D.",
+        "affiliations": [
+          {
+            "value": "LPSC, Grenoble",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902828"
+            },
+            "curated_relation": true
+          }
+        ],
+        "signature_block": "MARANd"
+      },
+      {
+        "uuid": "16597703-3925-4711-b69e-29442142b44a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1041235"
+        },
+        "full_name": "Medvedeva, T.",
+        "signature_block": "MADVADAFt"
+      },
+      {
+        "uuid": "df7d27a2-e124-4cd3-971a-634810133a87",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1068829"
+        },
+        "full_name": "Menchaca-Rocha, A.",
+        "signature_block": "RACa"
+      },
+      {
+        "uuid": "2ab3b122-3aa6-4af8-a6db-2c67749b4144",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1823102"
+        },
+        "full_name": "Meng, Q.",
+        "signature_block": "MANGq"
+      },
+      {
+        "uuid": "900014db-10b0-4819-a7e3-dab076c8a317",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1038889"
+        },
+        "full_name": "Mikhailov, V.V.",
+        "signature_block": "MACALAVv"
+      },
+      {
+        "uuid": "e732e860-9188-4e87-aee1-d553dedb2db5",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1935036"
+        },
+        "full_name": "Molero, M.",
+        "signature_block": "MALARm",
+        "curated_relation": true
+      },
+      {
+        "uuid": "4b464759-bf28-44c8-9269-2cf38357065d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879272"
+        },
+        "full_name": "Mott, P.",
+        "signature_block": "MATp"
+      },
+      {
+        "uuid": "c06dd88e-4cdf-490f-8368-658a3f9614ca",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879273"
+        },
+        "full_name": "Mussolin, L.",
+        "signature_block": "MASALANl"
+      },
+      {
+        "uuid": "9682bd22-178b-422a-9bd7-fdedbb87353f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879274"
+        },
+        "full_name": "Negrete, J.",
+        "signature_block": "NAGRATj"
+      },
+      {
+        "uuid": "cb76d237-7da2-40ed-8de1-1a5606abedfc",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1038893"
+        },
+        "full_name": "Nikonov, N.",
+        "signature_block": "NACANAVn"
+      },
+      {
+        "uuid": "4f9788c6-0331-4546-b2f9-e047383b4de5",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1025592"
+        },
+        "full_name": "Nozzoli, F.",
+        "signature_block": "NASALf"
+      },
+      {
+        "uuid": "a8fe87a5-a6fe-4805-a9d9-c22acccd5449",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1271872"
+        },
+        "full_name": "Oliva, A.",
+        "signature_block": "OLAVa",
+        "curated_relation": true
+      },
+      {
+        "uuid": "8a742160-6d6c-4414-8f58-459b41e349d0",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1650811"
+        },
+        "full_name": "Orcinha, M.",
+        "signature_block": "ORCANm",
+        "curated_relation": true
+      },
+      {
+        "uuid": "62181470-a247-4074-8277-57a2b1668af3",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1415491"
+        },
+        "full_name": "Palermo, M.",
+        "signature_block": "PALARNm"
+      },
+      {
+        "uuid": "6a4673bd-ee3c-44b7-b005-aa9762abbb83",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1061969"
+        },
+        "full_name": "Palmonari, F.",
+        "signature_block": "PALNANARf"
+      },
+      {
+        "uuid": "d9496260-785b-4419-9b40-a25aef2e27b0",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1058701"
+        },
+        "full_name": "Paniccia, M.",
+        "signature_block": "PANACm"
+      },
+      {
+        "uuid": "65ae150e-25d8-47b1-b908-5db7ce6c968c",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1076456"
+        },
+        "full_name": "Pashnin, A.",
+        "signature_block": "PASNANa"
+      },
+      {
+        "uuid": "caf26b47-2011-4d7c-9cb1-37f2b2e1dcd6",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/994029"
+        },
+        "full_name": "Pauluzzi, M.",
+        "signature_block": "PALASm"
+      },
+      {
+        "uuid": "1bf54e51-947b-49ae-a4b5-3eec5860c837",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1423777"
+        },
+        "full_name": "Pensotti, S.",
+        "signature_block": "PANSATs"
+      },
+      {
+        "uuid": "eb975ed7-7097-498c-96e0-e95f7629f881",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879275"
+        },
+        "full_name": "Phan, H.D.",
+        "signature_block": "FANh"
+      },
+      {
+        "uuid": "0bffc8ba-e003-4952-8d3b-343dd14b74ca",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/993145"
+        },
+        "full_name": "Plyaskin, V.",
+        "signature_block": "PLASCANv"
+      },
+      {
+        "uuid": "1aca758f-81a8-40fa-a7fb-a1613872cca4",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/993105"
+        },
+        "full_name": "Pohl, M.",
+        "signature_block": "PALm"
+      },
+      {
+        "uuid": "762265ba-de0f-498e-a6c6-1ee6788f06ad",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879276"
+        },
+        "full_name": "Poluianov, S.",
+        "signature_block": "PALANAVs"
+      },
+      {
+        "uuid": "e14da38b-68f8-4643-8ddd-6045cdfaa832",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1909276"
+        },
+        "full_name": "Qin, X.",
+        "signature_block": "QANx"
+      },
+      {
+        "uuid": "1fb470c0-6dea-40f1-953c-7bf9c23ce1ac",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879277"
+        },
+        "full_name": "Qu, Z.Y.",
+        "signature_block": "Qz"
+      },
+      {
+        "uuid": "d0b854a5-4823-4d60-a3d2-7c4cee687dfe",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879278"
+        },
+        "full_name": "Quadrani, L.",
+        "signature_block": "QADRANl"
+      },
+      {
+        "uuid": "23bd1700-2003-46e0-b677-1e4ba2d99005",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/992316"
+        },
+        "full_name": "Rancoita, P.G.",
+        "signature_block": "RANCATp"
+      },
+      {
+        "uuid": "2fdbad72-ea8a-4324-81f6-3173f5c9d87b",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/992275"
+        },
+        "full_name": "Rapin, D.",
+        "signature_block": "RAPANd"
+      },
+      {
+        "uuid": "64855393-bf60-41bd-8e02-e40ae97a361f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879279"
+        },
+        "full_name": "Conde, A. Reina",
+        "signature_block": "CANDa"
+      },
+      {
+        "uuid": "d50d7710-d1a5-4a21-9140-0ec8d9cf735d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879280"
+        },
+        "full_name": "Robyn, E.",
+        "signature_block": "RABANe"
+      },
+      {
+        "uuid": "aa0f2b53-fcc9-45f8-853b-644a8d4fad61",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1025196"
+        },
+        "full_name": "Rosier-Lees, S.",
+        "affiliations": [
+          {
+            "value": "Annecy, LAPP",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903421"
+            },
+            "curated_relation": true
+          }
+        ],
+        "signature_block": "LYs"
+      },
+      {
+        "uuid": "3fa8c6d2-85cd-4b03-9254-5509f9b9d40a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879281"
+        },
+        "full_name": "Rozhkov, A.",
+        "signature_block": "RASHCAVa"
+      },
+      {
+        "uuid": "cbe2c175-b73b-49b0-a1ab-d4599b51b187",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1423656"
+        },
+        "full_name": "Rozza, D.",
+        "signature_block": "RASd"
+      },
+      {
+        "uuid": "3fd02084-bbe8-4fca-a1e1-8172f67bcacb",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1051956"
+        },
+        "full_name": "Sagdeev, R.",
+        "signature_block": "SAGDAFr"
+      },
+      {
+        "uuid": "70f9a00b-05e7-4130-ac40-5d7ab76dbc01",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/990044"
+        },
+        "full_name": "Schael, S.",
+        "signature_block": "SALs"
+      },
+      {
+        "uuid": "eb29c2f5-b26d-4e44-bb85-c6fec45742eb",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1063897"
+        },
+        "full_name": "von Dratzig, A. Schulz",
+        "signature_block": "DRATSAGa"
+      },
+      {
+        "uuid": "a8a84e71-7c2c-4c11-882a-b593a494513c",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/989564"
+        },
+        "full_name": "Schwering, G.",
+        "signature_block": "SWARANGg"
+      },
+      {
+        "uuid": "9a60a1e1-78a4-4ce5-aa42-143ff4d7b46d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/989299"
+        },
+        "full_name": "Seo, E.S.",
+        "signature_block": "Se"
+      },
+      {
+        "uuid": "fdc1fc0c-e131-4499-9901-e7fde88de797",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879282"
+        },
+        "full_name": "Shakfa, Z.",
+        "signature_block": "SACFz"
+      },
+      {
+        "uuid": "67fdd3fe-81cd-41d2-bacf-857bc6952cdb",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879283"
+        },
+        "full_name": "Shan, B.S.",
+        "signature_block": "SANb"
+      },
+      {
+        "uuid": "0cb5fd59-fee7-4c15-86ba-03b26cf71460",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/988760"
+        },
+        "full_name": "Siedenburg, T.",
+        "signature_block": "SADANBARGt"
+      },
+      {
+        "uuid": "70eed6fd-7dc0-4f1a-acc1-efd6fb49ad99",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/988155"
+        },
+        "full_name": "Solano, C.",
+        "signature_block": "SALANc"
+      },
+      {
+        "uuid": "837b2736-188b-418d-a05f-8ac194ee5179",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879284"
+        },
+        "full_name": "Song, J.W.",
+        "signature_block": "SANGj"
+      },
+      {
+        "uuid": "6d9de87f-901c-440f-8759-d08ddbc40cce",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1023555"
+        },
+        "full_name": "Song, X.J.",
+        "signature_block": "SANGx"
+      },
+      {
+        "uuid": "fbe1e9d3-f193-4bce-af59-a33c9d45e83d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879285"
+        },
+        "full_name": "Sonnabend, R.",
+        "signature_block": "SANABADr"
+      },
+      {
+        "uuid": "6f0d411c-7037-40f4-ba5c-48771f9d706f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2609724"
+        },
+        "full_name": "Strigari, L.",
+        "signature_block": "STRAGARl"
+      },
+      {
+        "uuid": "d12639d1-c86a-4817-ad1a-44b810b3a42a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1834582"
+        },
+        "full_name": "Su, T.",
+        "signature_block": "St"
+      },
+      {
+        "uuid": "bc3dac1a-59f1-4df5-8900-ea3b698f0cf1",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1739123"
+        },
+        "full_name": "Sun, Q.",
+        "signature_block": "SANq"
+      },
+      {
+        "uuid": "43db4803-950e-4ead-9f34-3e717fd6cafd",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1233245"
+        },
+        "full_name": "Sun, Z.T.",
+        "signature_block": "SANz"
+      },
+      {
+        "uuid": "73bbdffa-5778-4d92-b8a9-1758259bf13b",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1259910"
+        },
+        "full_name": "Tacconi, M.",
+        "signature_block": "TACANm"
+      },
+      {
+        "uuid": "bcee40f1-59d9-4dcf-b956-185025677f82",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1019872"
+        },
+        "full_name": "Tang, X.W.",
+        "signature_block": "TANGx"
+      },
+      {
+        "uuid": "e2cc58ee-f098-40e4-b024-27da9b12556a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1257693"
+        },
+        "full_name": "Tang, Z.C.",
+        "signature_block": "TANGz"
+      },
+      {
+        "uuid": "ae8f0b43-cb7a-466f-b4d8-7d453bbbfd1b",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1054051"
+        },
+        "full_name": "Tian, J.",
+        "signature_block": "TANj"
+      },
+      {
+        "uuid": "d68dc8c1-cc88-46e0-8cf8-846b74d7ae02",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/986072"
+        },
+        "full_name": "Ting, Samuel C.C.",
+        "signature_block": "TANGs"
+      },
+      {
+        "uuid": "2928eb82-73ea-4f52-b685-9ff9d05f5349",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1074009"
+        },
+        "full_name": "Ting, S.M.",
+        "signature_block": "TANGs"
+      },
+      {
+        "uuid": "7fc1e94b-6691-42c1-834c-395bff53fddf",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1347338"
+        },
+        "full_name": "Tomassetti, N.",
+        "signature_block": "TANASATn"
+      },
+      {
+        "uuid": "162b775d-ab8b-488b-967e-225295d887b3",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879287"
+        },
+        "full_name": "Torsti, J.",
+        "signature_block": "TARSTj"
+      },
+      {
+        "uuid": "bbd8e54e-a438-4207-9e1b-09f9e825180b",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1776884"
+        },
+        "full_name": "Tüysüz, C.",
+        "signature_block": "TYSc",
+        "curated_relation": true
+      },
+      {
+        "uuid": "1b7f725c-ac20-4c1f-a591-0030e4364446",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879288"
+        },
+        "full_name": "Urban, T.",
+        "signature_block": "URBANt"
+      },
+      {
+        "uuid": "8c1ca55b-52ce-49aa-8824-fdf00f352ba2",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879289"
+        },
+        "full_name": "Usoskin, I.",
+        "signature_block": "USASCANi"
+      },
+      {
+        "uuid": "f4ff1ee1-8b5d-4f57-8e16-6eda7e59518e",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1067852"
+        },
+        "full_name": "Vagelli, V.",
+        "signature_block": "VAGALv"
+      },
+      {
+        "uuid": "52656817-5092-4996-bbcf-a908065fdba9",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1876403"
+        },
+        "full_name": "Vainio, R.",
+        "signature_block": "VANr"
+      },
+      {
+        "uuid": "de6e4ac2-8ab0-4793-acbe-a3aad1ecb5ae",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879291"
+        },
+        "full_name": "Valencia-Otero, M.",
+        "signature_block": "OTARm"
+      },
+      {
+        "uuid": "21a47f48-e67c-484c-81b6-f58a43472fa5",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/985088"
+        },
+        "full_name": "Valente, E.",
+        "signature_block": "VALANTe"
+      },
+      {
+        "uuid": "3893d38b-8dd1-449d-a438-404f8fb941c8",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879292"
+        },
+        "full_name": "Valtonen, E.",
+        "signature_block": "VALTANANe"
+      },
+      {
+        "uuid": "338cc9e8-51a9-4200-85e7-8248ae0d3f7b",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1021037"
+        },
+        "full_name": "Vázquez Acosta, M.",
+        "signature_block": "ACASTm",
+        "curated_relation": true
+      },
+      {
+        "uuid": "bdbb00c7-e8c5-45b5-8014-dd1dc978e34d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1271167"
+        },
+        "full_name": "Vecchi, M.",
+        "signature_block": "VACm"
+      },
+      {
+        "uuid": "5f61ff28-48cb-4a00-899e-32f6db9041d3",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1322660"
+        },
+        "full_name": "Velasco, M.",
+        "signature_block": "VALASCm",
+        "curated_relation": true
+      },
+      {
+        "uuid": "377c924c-861a-4b00-9471-10a314351d4b",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879293"
+        },
+        "full_name": "Vialle, J.P.",
+        "affiliations": [
+          {
+            "value": "Annecy, LAPP",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903421"
+            },
+            "curated_relation": true
+          }
+        ],
+        "signature_block": "VALj"
+      },
+      {
+        "uuid": "3de9d1ee-42f7-4c5f-aacb-38878d2cc8e9",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/984177"
+        },
+        "full_name": "Wang, C.X.",
+        "signature_block": "WANGc"
+      },
+      {
+        "uuid": "2b76fe7d-4daa-453a-94f3-6e58abd38134",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1029270"
+        },
+        "full_name": "Wang, L.",
+        "signature_block": "WANGl"
+      },
+      {
+        "uuid": "d024c79d-3e7a-4ed3-9d81-418b144c67ae",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879295"
+        },
+        "full_name": "Wang, L.Q.",
+        "signature_block": "WANGl"
+      },
+      {
+        "uuid": "f06c3035-47fe-4750-b557-d0015900e66f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1519874"
+        },
+        "full_name": "Wang, N.H.",
+        "signature_block": "WANGn"
+      },
+      {
+        "uuid": "610e353f-87c9-425c-8312-e0d9e156503c",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1511993"
+        },
+        "full_name": "Wang, Q.L.",
+        "signature_block": "WANGq"
+      },
+      {
+        "uuid": "19dcfb5f-c0c2-4f3c-a8e2-0d96cdf5d7ce",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1284900"
+        },
+        "full_name": "Wang, S.",
+        "signature_block": "WANGs"
+      },
+      {
+        "uuid": "c41df224-1ebf-4a34-85d0-023391f076e2",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1338024"
+        },
+        "full_name": "Wang, X.",
+        "signature_block": "WANGx"
+      },
+      {
+        "uuid": "9853c0c9-04ed-40ce-b860-0a234a0aa8ea",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1502977"
+        },
+        "full_name": "Wang, Yu",
+        "signature_block": "WANGy"
+      },
+      {
+        "uuid": "6bded831-299f-406b-bad1-31b47866eb89",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879297"
+        },
+        "full_name": "Wang, Z.M.",
+        "signature_block": "WANGz"
+      },
+      {
+        "uuid": "32fb574c-7a5c-4402-8023-9ad7b5c8840a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1785059"
+        },
+        "full_name": "Wei, J.",
+        "signature_block": "Wj",
+        "curated_relation": true
+      },
+      {
+        "uuid": "2d5dd1a9-d5e4-47bd-aa91-d7710b245664",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1071677"
+        },
+        "full_name": "Weng, Z.L.",
+        "signature_block": "WANGz"
+      },
+      {
+        "uuid": "9bc3319c-cb31-4fb6-8e65-06a2e096728c",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1078703"
+        },
+        "full_name": "Wu, H.",
+        "signature_block": "Wh"
+      },
+      {
+        "uuid": "d5a0bc35-ae4c-4b08-b05f-4087f4ca3e34",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879298"
+        },
+        "full_name": "Xiong, R.Q.",
+        "signature_block": "XANGr"
+      },
+      {
+        "uuid": "565354c8-6800-48b3-8120-199d80f4fbfd",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1338029"
+        },
+        "full_name": "Xu, W.",
+        "signature_block": "Xw",
+        "curated_relation": true
+      },
+      {
+        "uuid": "8b7ab263-c094-47f1-b973-32d92578d376",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1372678"
+        },
+        "full_name": "Yan, Q.",
+        "signature_block": "YANq",
+        "curated_relation": true
+      },
+      {
+        "uuid": "52f70486-7b5c-4977-aa8f-610dfa9b217a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1062605"
+        },
+        "full_name": "Yang, Y.",
+        "signature_block": "YANGy"
+      },
+      {
+        "uuid": "6c4fc5bf-0502-41b9-8569-869e5057abb4",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879300"
+        },
+        "full_name": "Yashin, I.I.",
+        "signature_block": "YASANi"
+      },
+      {
+        "uuid": "03d6b4e8-4689-4dea-92c2-9940fab51b50",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1695422"
+        },
+        "full_name": "Yi, H.",
+        "signature_block": "Yh"
+      },
+      {
+        "uuid": "4c28ee35-7b4e-4f77-9c73-4d5e1c8d4628",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879301"
+        },
+        "full_name": "Yu, Y.M.",
+        "signature_block": "Yy"
+      },
+      {
+        "uuid": "cc7a9af2-ab41-469c-b389-d98ae0c6f00a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1393705"
+        },
+        "full_name": "Yu, Z.Q.",
+        "signature_block": "Yz"
+      },
+      {
+        "uuid": "6dc17452-c725-4a4c-aac9-d37ece288de4",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879302"
+        },
+        "full_name": "Zannoni, M.",
+        "signature_block": "ZANANm"
+      },
+      {
+        "uuid": "8f8fe95c-9265-47d7-860a-e908ec78e0b0",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/982225"
+        },
+        "full_name": "Zhang, C.",
+        "signature_block": "ZANGc"
+      },
+      {
+        "uuid": "2c7518a7-5465-412b-89ec-07aff9467811",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1096940"
+        },
+        "full_name": "Zhang, F.",
+        "signature_block": "ZANGf"
+      },
+      {
+        "uuid": "395a1868-1872-419b-9493-bd648773cbe4",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1042806"
+        },
+        "full_name": "Zhang, F.Z.",
+        "signature_block": "ZANGf"
+      },
+      {
+        "uuid": "434fefb5-5429-4203-a6e8-2a57d74db149",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1061615"
+        },
+        "full_name": "Zhang, J.H.",
+        "signature_block": "ZANGj"
+      },
+      {
+        "uuid": "e4453f1e-3d1f-4914-a6ca-91c9a61dc9c3",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/982165"
+        },
+        "full_name": "Zhang, Z.",
+        "signature_block": "ZANGz"
+      },
+      {
+        "uuid": "429e6eec-f4fb-40ff-8a28-366de39d3f46",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1076353"
+        },
+        "full_name": "Zhao, F.",
+        "signature_block": "Zf"
+      },
+      {
+        "uuid": "3c8f4091-4d4d-4f3f-b03c-91ec59e2ed04",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879304"
+        },
+        "full_name": "Zheng, C.",
+        "signature_block": "ZANGc"
+      },
+      {
+        "uuid": "850dc0c1-37e9-42cb-903c-3ec02ab1e625",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879305"
+        },
+        "full_name": "Zheng, Z.M.",
+        "signature_block": "ZANGz"
+      },
+      {
+        "uuid": "fba99101-1dbf-42f0-95d5-15f2c8e27a3d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/982050"
+        },
+        "full_name": "Zhuang, H.L.",
+        "signature_block": "ZANGh"
+      },
+      {
+        "uuid": "9bd79c5c-3066-4971-afa0-92f931aa8fc2",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1064675"
+        },
+        "full_name": "Zhukov, V.",
+        "signature_block": "ZACAVv"
+      },
+      {
+        "uuid": "1eb093f1-b269-4e92-b66c-b3d488bb18cc",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1062046"
+        },
+        "full_name": "Zichichi, A.",
+        "signature_block": "ZACACa"
+      },
+      {
+        "uuid": "3dd71743-3416-41e2-82a5-8928517f577e",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/981920"
+        },
+        "full_name": "Zuccon, P.",
+        "signature_block": "ZACANp"
+      }
+    ],
+    "curated": true,
+    "license": [
+      {
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "license": "CC BY 4.0",
+        "material": "erratum"
+      },
+      {
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "license": "CC BY 4.0",
+        "material": "publication"
+      }
+    ],
+    "texkeys": [
+      "AMS:2021brg"
+    ],
+    "citeable": true,
+    "imprints": [
+      {
+        "date": "2021-10-08"
+      },
+      {
+        "date": "2021-07-07"
+      }
+    ],
+    "refereed": true,
+    "abstracts": [
+      {
+        "value": "We report the properties of sodium (Na) and aluminum (Al) cosmic rays in the rigidity range 2.15 GV to 3.0 TV based on 0.46 million sodium and 0.51 million aluminum nuclei collected by the Alpha Magnetic Spectrometer experiment on the International Space Station. We found that Na and Al, together with nitrogen (N), belong to a distinct cosmic ray group. In this group, we observe that, similar to the N flux, both the Na flux and Al flux are well described by the sums of a primary cosmic ray component (proportional to the silicon flux) and a secondary cosmic ray component (proportional to the fluorine flux). The fraction of the primary component increases with rigidity for the N, Na, and Al fluxes and becomes dominant at the highest rigidities. The Na=Si and Al=Si abundance ratios at the source, $0.036 \\pm 0.003$ for Na/Si and $0.103 \\pm 0.004$ for Al/Si, are determined independent of cosmic ray propagation.",
+        "source": "APS"
+      }
+    ],
+    "copyright": [
+      {
+        "year": 2021,
+        "holder": "authors",
+        "material": "erratum",
+        "statement": "Published by the American Physical Society"
+      },
+      {
+        "year": 2021,
+        "holder": "authors",
+        "material": "publication"
+      }
+    ],
+    "references": [
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1414858"
+        },
+        "raw_refs": [
+          {
+            "value": "[1] I. A. Grenier, J. H. Black, and A. W. Strong, The nine lives of cosmic rays in galaxies, Annu. Rev. Astron. Astrophys. 53, 199 (2015); P. Blasi, The origin of galactic cosmic rays, Astron. Astrophys. Rev. 21, 70 (2013); A. W. Strong, I. V. Moskalenko, and V. S. Ptuskin, Cosmic-ray propagation and interactions in the galaxy, Annu. Rev. Nucl. Part. Sci. 57, 285 (2007); A. Castellina and F. Donato, Diffusion coefficient and acceleration spectrum from direct measurements of charged cosmic ray nuclei, Astropart. Phys. 24, 146 (2005); G. Jóhannesson et al., Bayesian analysis of cosmic ray propagation: Evidence against homogeneous diffusion, Astrophys. J. 824, 16 (2016).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "The nine lives of cosmic rays in galaxies"
+          ],
+          "label": "1",
+          "authors": [
+            {
+              "full_name": "Grenier, I.A."
+            },
+            {
+              "full_name": "Black, J.H."
+            },
+            {
+              "full_name": "Strong, A.W."
+            }
+          ],
+          "publication_info": {
+            "year": 2015,
+            "artid": "199",
+            "page_start": "199",
+            "journal_title": "Ann.Rev.Astron.Astrophys.",
+            "journal_volume": "53"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1266711"
+        },
+        "raw_refs": [
+          {
+            "value": "[1] I. A. Grenier, J. H. Black, and A. W. Strong, The nine lives of cosmic rays in galaxies, Annu. Rev. Astron. Astrophys. 53, 199 (2015); P. Blasi, The origin of galactic cosmic rays, Astron. Astrophys. Rev. 21, 70 (2013); A. W. Strong, I. V. Moskalenko, and V. S. Ptuskin, Cosmic-ray propagation and interactions in the galaxy, Annu. Rev. Nucl. Part. Sci. 57, 285 (2007); A. Castellina and F. Donato, Diffusion coefficient and acceleration spectrum from direct measurements of charged cosmic ray nuclei, Astropart. Phys. 24, 146 (2005); G. Jóhannesson et al., Bayesian analysis of cosmic ray propagation: Evidence against homogeneous diffusion, Astrophys. J. 824, 16 (2016).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "The origin of galactic cosmic rays"
+          ],
+          "label": "1",
+          "authors": [
+            {
+              "full_name": "Blasi, P."
+            }
+          ],
+          "publication_info": {
+            "year": 2013,
+            "artid": "70",
+            "page_start": "70",
+            "journal_title": "Astron.Astrophys.Rev.",
+            "journal_volume": "21"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/742625"
+        },
+        "raw_refs": [
+          {
+            "value": "[1] I. A. Grenier, J. H. Black, and A. W. Strong, The nine lives of cosmic rays in galaxies, Annu. Rev. Astron. Astrophys. 53, 199 (2015); P. Blasi, The origin of galactic cosmic rays, Astron. Astrophys. Rev. 21, 70 (2013); A. W. Strong, I. V. Moskalenko, and V. S. Ptuskin, Cosmic-ray propagation and interactions in the galaxy, Annu. Rev. Nucl. Part. Sci. 57, 285 (2007); A. Castellina and F. Donato, Diffusion coefficient and acceleration spectrum from direct measurements of charged cosmic ray nuclei, Astropart. Phys. 24, 146 (2005); G. Jóhannesson et al., Bayesian analysis of cosmic ray propagation: Evidence against homogeneous diffusion, Astrophys. J. 824, 16 (2016).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Cosmic-ray propagation and interactions in the galaxy"
+          ],
+          "label": "1",
+          "authors": [
+            {
+              "full_name": "Strong, A.W."
+            },
+            {
+              "full_name": "Moskalenko, I.V."
+            },
+            {
+              "full_name": "Ptuskin, V.S."
+            }
+          ],
+          "publication_info": {
+            "year": 2007,
+            "artid": "285",
+            "page_start": "285",
+            "journal_title": "Ann.Rev.Nucl.Part.Sci.",
+            "journal_volume": "57"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/679774"
+        },
+        "raw_refs": [
+          {
+            "value": "[1] I. A. Grenier, J. H. Black, and A. W. Strong, The nine lives of cosmic rays in galaxies, Annu. Rev. Astron. Astrophys. 53, 199 (2015); P. Blasi, The origin of galactic cosmic rays, Astron. Astrophys. Rev. 21, 70 (2013); A. W. Strong, I. V. Moskalenko, and V. S. Ptuskin, Cosmic-ray propagation and interactions in the galaxy, Annu. Rev. Nucl. Part. Sci. 57, 285 (2007); A. Castellina and F. Donato, Diffusion coefficient and acceleration spectrum from direct measurements of charged cosmic ray nuclei, Astropart. Phys. 24, 146 (2005); G. Jóhannesson et al., Bayesian analysis of cosmic ray propagation: Evidence against homogeneous diffusion, Astrophys. J. 824, 16 (2016).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Diffusion coefficient and acceleration spectrum from direct measurements of charged cosmic ray nuclei"
+          ],
+          "label": "1",
+          "authors": [
+            {
+              "full_name": "Castellina, A."
+            },
+            {
+              "full_name": "Donato, F."
+            }
+          ],
+          "publication_info": {
+            "year": 2005,
+            "artid": "146",
+            "page_start": "146",
+            "journal_title": "Astropart.Phys.",
+            "journal_volume": "24"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1420103"
+        },
+        "raw_refs": [
+          {
+            "value": "[1] I. A. Grenier, J. H. Black, and A. W. Strong, The nine lives of cosmic rays in galaxies, Annu. Rev. Astron. Astrophys. 53, 199 (2015); P. Blasi, The origin of galactic cosmic rays, Astron. Astrophys. Rev. 21, 70 (2013); A. W. Strong, I. V. Moskalenko, and V. S. Ptuskin, Cosmic-ray propagation and interactions in the galaxy, Annu. Rev. Nucl. Part. Sci. 57, 285 (2007); A. Castellina and F. Donato, Diffusion coefficient and acceleration spectrum from direct measurements of charged cosmic ray nuclei, Astropart. Phys. 24, 146 (2005); G. Jóhannesson et al., Bayesian analysis of cosmic ray propagation: Evidence against homogeneous diffusion, Astrophys. J. 824, 16 (2016).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Bayesian analysis of cosmic ray propagation: Evidence against homogeneous diffusion"
+          ],
+          "label": "1",
+          "authors": [
+            {
+              "full_name": "Jóhannesson, G."
+            }
+          ],
+          "publication_info": {
+            "year": 2016,
+            "artid": "16",
+            "page_start": "16",
+            "journal_title": "Astrophys.J.",
+            "journal_volume": "824"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1685026"
+        },
+        "raw_refs": [
+          {
+            "value": "[2] M. Aguilar et al., Precision Measurement of Cosmic-Ray Nitrogen and its Primary and Secondary Components with the Alpha Magnetic Spectrometer on the International Space Station, Phys. Rev. Lett. 121, 051103 (2018).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Precision Measurement of Cosmic-Ray Nitrogen and its Primary and Secondary Components with the Alpha Magnetic Spectrometer on the International Space Station"
+          ],
+          "label": "2",
+          "authors": [
+            {
+              "full_name": "Aguilar, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2018,
+            "artid": "051103",
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "121"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1841796"
+        },
+        "raw_refs": [
+          {
+            "value": "[3] M. Aguilar et al., The Alpha Magnetic Spectrometer (AMS) on the International Space Station: Part II-results from the first seven years, Phys. Rep. 894, 1 (2021). Note that in this Letter, we have used the He-C-O, Li-Be-B, Ne-Mg-Si, F, and N data covering the same collection time as Na and Al.",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "The Alpha Magnetic Spectrometer (AMS) on the International Space Station: Part II-results from the first seven years",
+            "Note that in this Letter, we have used the He-C-O, Li-Be-B, Ne-Mg-Si, F, and N data covering the same collection time as Na and Al"
+          ],
+          "label": "3",
+          "authors": [
+            {
+              "full_name": "Aguilar, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2021,
+            "artid": "1",
+            "page_start": "1",
+            "journal_title": "Phys.Rept.",
+            "journal_volume": "894"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1644260"
+        },
+        "raw_refs": [
+          {
+            "value": "[4] M. Aguilar et al., Observation of the Identical Rigidity Dependence of He, C, and O Cosmic Rays at High Rigidities by the Alpha Magnetic Spectrometer on the International Space Station, Phys. Rev. Lett. 119, 251101 (2017).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Observation of the Identical Rigidity Dependence of He, C, and O Cosmic Rays at High Rigidities by the Alpha Magnetic Spectrometer on the International Space Station"
+          ],
+          "label": "4",
+          "authors": [
+            {
+              "full_name": "Aguilar, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2017,
+            "artid": "251101",
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "119"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1648089"
+        },
+        "raw_refs": [
+          {
+            "value": "[5] M. Aguilar et al., Observation of New Properties of Secondary Cosmic Rays Lithium, Beryllium, and Boron by the Alpha Magnetic Spectrometer on the International Space Station, Phys. Rev. Lett. 120, 021101 (2018).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Observation of New Properties of Secondary Cosmic Rays Lithium, Beryllium, and Boron by the Alpha Magnetic Spectrometer on the International Space Station"
+          ],
+          "label": "5",
+          "authors": [
+            {
+              "full_name": "Aguilar, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2018,
+            "artid": "021101",
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "120"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1798811"
+        },
+        "raw_refs": [
+          {
+            "value": "[6] M. Aguilar et al., Properties of Neon, Magnesium, and Silicon Primary Cosmic Rays Results from the Alpha Magnetic Spectrometer, Phys. Rev. Lett. 124, 211102 (2020).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Properties of Neon, Magnesium, and Silicon Primary Cosmic Rays Results from the Alpha Magnetic Spectrometer"
+          ],
+          "label": "6",
+          "authors": [
+            {
+              "full_name": "Aguilar, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2020,
+            "artid": "211102",
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "124"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1849433"
+        },
+        "raw_refs": [
+          {
+            "value": "[7] M. Aguilar et al., Properties of Heavy Secondary Fluorine Cosmic Rays: Results from the Alpha Magnetic Spectrometer, Phys. Rev. Lett. 126, 081102 (2021).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Properties of Heavy Secondary Fluorine Cosmic Rays: Results from the Alpha Magnetic Spectrometer"
+          ],
+          "label": "7",
+          "authors": [
+            {
+              "full_name": "Aguilar, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2021,
+            "artid": "081102",
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "126"
+          }
+        }
+      },
+      {
+        "raw_refs": [
+          {
+            "value": "[8] E. Juliusson, Charge composition and energy spectra of cosmic-ray nuclei at energies above 20 GeV per nucleon, Astrophys. J. 191, 331 (1974).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Charge composition and energy spectra of cosmic-ray nuclei at energies above 20 GeV per nucleon"
+          ],
+          "label": "8",
+          "authors": [
+            {
+              "full_name": "Juliusson, E."
+            }
+          ],
+          "publication_info": {
+            "year": 1974,
+            "artid": "331",
+            "page_start": "331",
+            "journal_title": "Astrophys.J.",
+            "journal_volume": "191"
+          }
+        }
+      },
+      {
+        "raw_refs": [
+          {
+            "value": "[9] R. C. Maehl, J. F. Ormes, A. J. Fisher, and F. A. Hagen, Energy spectra of cosmic ray nuclei: 4 ≤ Z ≤ 26 and 0.3 ≤ E ≤ 2 GeV amu−1, Astrophys. Space Sci. 47, 163 (1977).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Energy spectra of cosmic ray nuclei: 4 ≤ Z ≤ 26 and 0.3 ≤ E ≤ 2 GeV amu-1"
+          ],
+          "label": "9",
+          "authors": [
+            {
+              "full_name": "Maehl, R.C."
+            },
+            {
+              "full_name": "Ormes, J.F."
+            },
+            {
+              "full_name": "Fisher, A.J."
+            },
+            {
+              "full_name": "Hagen, F.A."
+            }
+          ],
+          "publication_info": {
+            "year": 1977,
+            "artid": "163",
+            "page_start": "163",
+            "journal_title": "Astrophys.Space Sci.",
+            "journal_volume": "47"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/129607"
+        },
+        "raw_refs": [
+          {
+            "value": "[10] C. D. Orth, A. Buffington, G. F. Smoot, and T. S. Mast, Abundances and spectra for cosmic-ray nuclei from lithium to iron for 2 to 150 GeV per nucleon, Astrophys. J. 226, 1147 (1978).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Abundances and spectra for cosmic-ray nuclei from lithium to iron for 2 to 150 GeV per nucleon"
+          ],
+          "label": "10",
+          "authors": [
+            {
+              "full_name": "Orth, C.D."
+            },
+            {
+              "full_name": "Buffington, A."
+            },
+            {
+              "full_name": "Smoot, G.F."
+            },
+            {
+              "full_name": "Mast, T.S."
+            }
+          ],
+          "publication_info": {
+            "year": 1978,
+            "artid": "1147",
+            "page_start": "1147",
+            "journal_title": "Astrophys.J.",
+            "journal_volume": "226"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/135230"
+        },
+        "raw_refs": [
+          {
+            "value": "[11] J. A. Lezniak and W. R. Webber, The charge composition and energy spectra of cosmic-ray nuclei from 3000 MeV per nucleon to 50 GeV per nucleon, Astrophys. J. 223, 676 (1978).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "The charge composition and energy spectra of cosmic-ray nuclei from 3000 MeV per nucleon to 50 GeV per nucleon"
+          ],
+          "label": "11",
+          "authors": [
+            {
+              "full_name": "Lezniak, J.A."
+            },
+            {
+              "full_name": "Webber, W.R."
+            }
+          ],
+          "publication_info": {
+            "year": 1978,
+            "artid": "676",
+            "page_start": "676",
+            "journal_title": "Astrophys.J.",
+            "journal_volume": "223"
+          }
+        }
+      },
+      {
+        "raw_refs": [
+          {
+            "value": "[12] J. S. Young, P. S. Freier, C. J. Waddington, N. R. Brewster, and R. K. Fickle, The elemental and isotopic composition of cosmic rays—Silicon to nickel, Astrophys. J. 246, 1014 (1981).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "The elemental and isotopic composition of cosmic rays—Silicon to nickel"
+          ],
+          "label": "12",
+          "authors": [
+            {
+              "full_name": "Young, J.S."
+            },
+            {
+              "full_name": "Freier, P.S."
+            },
+            {
+              "full_name": "Waddington, C.J."
+            },
+            {
+              "full_name": "Brewster, N.R."
+            },
+            {
+              "full_name": "Fickle, R.K."
+            }
+          ],
+          "publication_info": {
+            "year": 1981,
+            "artid": "1014",
+            "page_start": "1014",
+            "journal_title": "Astrophys.J.",
+            "journal_volume": "246"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/313704"
+        },
+        "raw_refs": [
+          {
+            "value": "[13] J. J. Engelmann et al., Charge composition and energy spectra of cosmic-ray nuclei for elements from Be to NiResults from HEAO-3-C2, Astron. Astrophys. 233, 96 (1990).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Charge composition and energy spectra of cosmic-ray nuclei for elements from Be to NiResults from HEAO-3-C2"
+          ],
+          "label": "13",
+          "authors": [
+            {
+              "full_name": "Engelmann, J.J."
+            }
+          ],
+          "publication_info": {
+            "year": 1990,
+            "artid": "96",
+            "page_start": "96",
+            "journal_title": "Astron.Astrophys.",
+            "journal_volume": "233"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/2736450"
+        },
+        "raw_refs": [
+          {
+            "value": "[14] K. Lave et al., Galactic cosmic-ray energy spectra and composition during the 2009–2010 solar minimum period, Astrophys. J. 770, 117 (2013). This important paper provides measurements of Na and Al fluxes below 300 MeV=n.",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Galactic cosmic-ray energy spectra and composition during the 2009-2010 solar minimum period",
+            "This important paper provides measurements of Na and Al fluxes below 300 MeV=n"
+          ],
+          "label": "14",
+          "authors": [
+            {
+              "full_name": "Lave, K."
+            }
+          ],
+          "publication_info": {
+            "year": 2013,
+            "artid": "117",
+            "page_start": "117",
+            "journal_title": "Astrophys.J.",
+            "journal_volume": "770"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1262252"
+        },
+        "raw_refs": [
+          {
+            "value": "[15] A. Kounine, The alpha magnetic spectrometer on the International Space Station, Int. J. Mod. Phys. E 21, 1230005 (2012); S. Rosier-Lees, New results from AMS, in Proceedings of Astroparticle Physics TEVPA/IDM, Amsterdam, 2014 (unpublished); S. Ting, The alpha magnetic spectrometer on the international space station, Nucl. Phys. B, Proc. Suppl. 243–244, 12 (2013); S.-C. Lee, Latest results from AMS, in Proceedings of the 20th International Conference on Supersymmetry and Unification of Fundamental Interactions (SUSY 2012), Beijing, 2012 (unpublished); M. Aguilar, The AMS experiment on the ISS, in Proceedings of the XL International Meeting on Fundamental Physics, Centro de Ciencias de Benasque Pedro Pascual, 2012 (unpublished); S. Schael, Status of the AMS02 experiment on the ISS, in Proceedings of the 10th Symposium on Sources and Detection of Dark Matter and Dark Energy in the Universe, Los Angeles, 2012 (unpublished); B. Bertucci, The AMS-02 detector operation in space, Proc. Sci. EPS-HEP2011 (2011) 067; M. Incagli, Astroparticle Physiscs with AMS02, AIP Conf. Proc. 1223, 43 (2010); R. Battiston, The antimatter spectrometer (AMS02): A particle physics detector in space, Nucl. Instrum. Methods Phys. Res., Sect. A 588, 227 (2008).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "The alpha magnetic spectrometer on the International Space Station"
+          ],
+          "label": "15",
+          "authors": [
+            {
+              "full_name": "Kounine, A."
+            }
+          ],
+          "publication_info": {
+            "year": 2012,
+            "artid": "1230005",
+            "journal_title": "Int.J.Mod.Phys.E",
+            "journal_volume": "21"
+          }
+        }
+      },
+      {
+        "raw_refs": [
+          {
+            "value": "[15] A. Kounine, The alpha magnetic spectrometer on the International Space Station, Int. J. Mod. Phys. E 21, 1230005 (2012); S. Rosier-Lees, New results from AMS, in Proceedings of Astroparticle Physics TEVPA/IDM, Amsterdam, 2014 (unpublished); S. Ting, The alpha magnetic spectrometer on the international space station, Nucl. Phys. B, Proc. Suppl. 243–244, 12 (2013); S.-C. Lee, Latest results from AMS, in Proceedings of the 20th International Conference on Supersymmetry and Unification of Fundamental Interactions (SUSY 2012), Beijing, 2012 (unpublished); M. Aguilar, The AMS experiment on the ISS, in Proceedings of the XL International Meeting on Fundamental Physics, Centro de Ciencias de Benasque Pedro Pascual, 2012 (unpublished); S. Schael, Status of the AMS02 experiment on the ISS, in Proceedings of the 10th Symposium on Sources and Detection of Dark Matter and Dark Energy in the Universe, Los Angeles, 2012 (unpublished); B. Bertucci, The AMS-02 detector operation in space, Proc. Sci. EPS-HEP2011 (2011) 067; M. Incagli, Astroparticle Physiscs with AMS02, AIP Conf. Proc. 1223, 43 (2010); R. Battiston, The antimatter spectrometer (AMS02): A particle physics detector in space, Nucl. Instrum. Methods Phys. Res., Sect. A 588, 227 (2008).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "New results from AMS, in Proceedings of Astroparticle Physics TEVPA/IDM, Amsterdam,(unpublished)"
+          ],
+          "label": "15",
+          "authors": [
+            {
+              "full_name": "Rosier-Lees, S."
+            }
+          ],
+          "publication_info": {
+            "year": 2014
+          }
+        }
+      },
+      {
+        "raw_refs": [
+          {
+            "value": "[15] A. Kounine, The alpha magnetic spectrometer on the International Space Station, Int. J. Mod. Phys. E 21, 1230005 (2012); S. Rosier-Lees, New results from AMS, in Proceedings of Astroparticle Physics TEVPA/IDM, Amsterdam, 2014 (unpublished); S. Ting, The alpha magnetic spectrometer on the international space station, Nucl. Phys. B, Proc. Suppl. 243–244, 12 (2013); S.-C. Lee, Latest results from AMS, in Proceedings of the 20th International Conference on Supersymmetry and Unification of Fundamental Interactions (SUSY 2012), Beijing, 2012 (unpublished); M. Aguilar, The AMS experiment on the ISS, in Proceedings of the XL International Meeting on Fundamental Physics, Centro de Ciencias de Benasque Pedro Pascual, 2012 (unpublished); S. Schael, Status of the AMS02 experiment on the ISS, in Proceedings of the 10th Symposium on Sources and Detection of Dark Matter and Dark Energy in the Universe, Los Angeles, 2012 (unpublished); B. Bertucci, The AMS-02 detector operation in space, Proc. Sci. EPS-HEP2011 (2011) 067; M. Incagli, Astroparticle Physiscs with AMS02, AIP Conf. Proc. 1223, 43 (2010); R. Battiston, The antimatter spectrometer (AMS02): A particle physics detector in space, Nucl. Instrum. Methods Phys. Res., Sect. A 588, 227 (2008).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "The alpha magnetic spectrometer on the international space station"
+          ],
+          "label": "15",
+          "authors": [
+            {
+              "full_name": "Ting, S."
+            }
+          ],
+          "publication_info": {
+            "year": 2013,
+            "artid": "12",
+            "page_start": "12",
+            "journal_title": "Nucl.Phys.B Proc.Suppl.",
+            "journal_volume": "243"
+          }
+        }
+      },
+      {
+        "raw_refs": [
+          {
+            "value": "[15] A. Kounine, The alpha magnetic spectrometer on the International Space Station, Int. J. Mod. Phys. E 21, 1230005 (2012); S. Rosier-Lees, New results from AMS, in Proceedings of Astroparticle Physics TEVPA/IDM, Amsterdam, 2014 (unpublished); S. Ting, The alpha magnetic spectrometer on the international space station, Nucl. Phys. B, Proc. Suppl. 243–244, 12 (2013); S.-C. Lee, Latest results from AMS, in Proceedings of the 20th International Conference on Supersymmetry and Unification of Fundamental Interactions (SUSY 2012), Beijing, 2012 (unpublished); M. Aguilar, The AMS experiment on the ISS, in Proceedings of the XL International Meeting on Fundamental Physics, Centro de Ciencias de Benasque Pedro Pascual, 2012 (unpublished); S. Schael, Status of the AMS02 experiment on the ISS, in Proceedings of the 10th Symposium on Sources and Detection of Dark Matter and Dark Energy in the Universe, Los Angeles, 2012 (unpublished); B. Bertucci, The AMS-02 detector operation in space, Proc. Sci. EPS-HEP2011 (2011) 067; M. Incagli, Astroparticle Physiscs with AMS02, AIP Conf. Proc. 1223, 43 (2010); R. Battiston, The antimatter spectrometer (AMS02): A particle physics detector in space, Nucl. Instrum. Methods Phys. Res., Sect. A 588, 227 (2008).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Latest results from AMS, in Proceedings of the 20th International Conference on Supersymmetry and Unification of Fundamental Interactions (SUSY), Beijing,(unpublished)"
+          ],
+          "label": "15",
+          "authors": [
+            {
+              "full_name": "Lee, S.-C."
+            }
+          ],
+          "publication_info": {
+            "year": 2012
+          }
+        }
+      },
+      {
+        "raw_refs": [
+          {
+            "value": "[15] A. Kounine, The alpha magnetic spectrometer on the International Space Station, Int. J. Mod. Phys. E 21, 1230005 (2012); S. Rosier-Lees, New results from AMS, in Proceedings of Astroparticle Physics TEVPA/IDM, Amsterdam, 2014 (unpublished); S. Ting, The alpha magnetic spectrometer on the international space station, Nucl. Phys. B, Proc. Suppl. 243–244, 12 (2013); S.-C. Lee, Latest results from AMS, in Proceedings of the 20th International Conference on Supersymmetry and Unification of Fundamental Interactions (SUSY 2012), Beijing, 2012 (unpublished); M. Aguilar, The AMS experiment on the ISS, in Proceedings of the XL International Meeting on Fundamental Physics, Centro de Ciencias de Benasque Pedro Pascual, 2012 (unpublished); S. Schael, Status of the AMS02 experiment on the ISS, in Proceedings of the 10th Symposium on Sources and Detection of Dark Matter and Dark Energy in the Universe, Los Angeles, 2012 (unpublished); B. Bertucci, The AMS-02 detector operation in space, Proc. Sci. EPS-HEP2011 (2011) 067; M. Incagli, Astroparticle Physiscs with AMS02, AIP Conf. Proc. 1223, 43 (2010); R. Battiston, The antimatter spectrometer (AMS02): A particle physics detector in space, Nucl. Instrum. Methods Phys. Res., Sect. A 588, 227 (2008).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "The AMS experiment on the ISS, in Proceedings of the XL International Meeting on Fundamental Physics, Centro de Ciencias de Benasque Pedro Pascual,(unpublished)"
+          ],
+          "label": "15",
+          "authors": [
+            {
+              "full_name": "Aguilar, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2012
+          }
+        }
+      },
+      {
+        "raw_refs": [
+          {
+            "value": "[15] A. Kounine, The alpha magnetic spectrometer on the International Space Station, Int. J. Mod. Phys. E 21, 1230005 (2012); S. Rosier-Lees, New results from AMS, in Proceedings of Astroparticle Physics TEVPA/IDM, Amsterdam, 2014 (unpublished); S. Ting, The alpha magnetic spectrometer on the international space station, Nucl. Phys. B, Proc. Suppl. 243–244, 12 (2013); S.-C. Lee, Latest results from AMS, in Proceedings of the 20th International Conference on Supersymmetry and Unification of Fundamental Interactions (SUSY 2012), Beijing, 2012 (unpublished); M. Aguilar, The AMS experiment on the ISS, in Proceedings of the XL International Meeting on Fundamental Physics, Centro de Ciencias de Benasque Pedro Pascual, 2012 (unpublished); S. Schael, Status of the AMS02 experiment on the ISS, in Proceedings of the 10th Symposium on Sources and Detection of Dark Matter and Dark Energy in the Universe, Los Angeles, 2012 (unpublished); B. Bertucci, The AMS-02 detector operation in space, Proc. Sci. EPS-HEP2011 (2011) 067; M. Incagli, Astroparticle Physiscs with AMS02, AIP Conf. Proc. 1223, 43 (2010); R. Battiston, The antimatter spectrometer (AMS02): A particle physics detector in space, Nucl. Instrum. Methods Phys. Res., Sect. A 588, 227 (2008).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Status of the AMS02 experiment on the ISS, in Proceedings of the 10th Symposium on Sources and Detection of Dark Matter and Dark Energy in the Universe, Los Angeles,(unpublished)"
+          ],
+          "label": "15",
+          "authors": [
+            {
+              "full_name": "Schael, S."
+            }
+          ],
+          "publication_info": {
+            "year": 2012
+          }
+        }
+      },
+      {
+        "raw_refs": [
+          {
+            "value": "[15] A. Kounine, The alpha magnetic spectrometer on the International Space Station, Int. J. Mod. Phys. E 21, 1230005 (2012); S. Rosier-Lees, New results from AMS, in Proceedings of Astroparticle Physics TEVPA/IDM, Amsterdam, 2014 (unpublished); S. Ting, The alpha magnetic spectrometer on the international space station, Nucl. Phys. B, Proc. Suppl. 243–244, 12 (2013); S.-C. Lee, Latest results from AMS, in Proceedings of the 20th International Conference on Supersymmetry and Unification of Fundamental Interactions (SUSY 2012), Beijing, 2012 (unpublished); M. Aguilar, The AMS experiment on the ISS, in Proceedings of the XL International Meeting on Fundamental Physics, Centro de Ciencias de Benasque Pedro Pascual, 2012 (unpublished); S. Schael, Status of the AMS02 experiment on the ISS, in Proceedings of the 10th Symposium on Sources and Detection of Dark Matter and Dark Energy in the Universe, Los Angeles, 2012 (unpublished); B. Bertucci, The AMS-02 detector operation in space, Proc. Sci. EPS-HEP2011 (2011) 067; M. Incagli, Astroparticle Physiscs with AMS02, AIP Conf. Proc. 1223, 43 (2010); R. Battiston, The antimatter spectrometer (AMS02): A particle physics detector in space, Nucl. Instrum. Methods Phys. Res., Sect. A 588, 227 (2008).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "The AMS-02 detector operation in space, Proc. Sci. EPS-HEP067"
+          ],
+          "label": "15",
+          "authors": [
+            {
+              "full_name": "Bertucci, B."
+            }
+          ],
+          "publication_info": {
+            "year": 2011
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/853820"
+        },
+        "raw_refs": [
+          {
+            "value": "[15] A. Kounine, The alpha magnetic spectrometer on the International Space Station, Int. J. Mod. Phys. E 21, 1230005 (2012); S. Rosier-Lees, New results from AMS, in Proceedings of Astroparticle Physics TEVPA/IDM, Amsterdam, 2014 (unpublished); S. Ting, The alpha magnetic spectrometer on the international space station, Nucl. Phys. B, Proc. Suppl. 243–244, 12 (2013); S.-C. Lee, Latest results from AMS, in Proceedings of the 20th International Conference on Supersymmetry and Unification of Fundamental Interactions (SUSY 2012), Beijing, 2012 (unpublished); M. Aguilar, The AMS experiment on the ISS, in Proceedings of the XL International Meeting on Fundamental Physics, Centro de Ciencias de Benasque Pedro Pascual, 2012 (unpublished); S. Schael, Status of the AMS02 experiment on the ISS, in Proceedings of the 10th Symposium on Sources and Detection of Dark Matter and Dark Energy in the Universe, Los Angeles, 2012 (unpublished); B. Bertucci, The AMS-02 detector operation in space, Proc. Sci. EPS-HEP2011 (2011) 067; M. Incagli, Astroparticle Physiscs with AMS02, AIP Conf. Proc. 1223, 43 (2010); R. Battiston, The antimatter spectrometer (AMS02): A particle physics detector in space, Nucl. Instrum. Methods Phys. Res., Sect. A 588, 227 (2008).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Astroparticle Physiscs with AMS02"
+          ],
+          "label": "15",
+          "authors": [
+            {
+              "full_name": "Incagli, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2010,
+            "artid": "43",
+            "page_start": "43",
+            "journal_title": "AIP Conf.Proc.",
+            "journal_volume": "1223"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/786971"
+        },
+        "raw_refs": [
+          {
+            "value": "[15] A. Kounine, The alpha magnetic spectrometer on the International Space Station, Int. J. Mod. Phys. E 21, 1230005 (2012); S. Rosier-Lees, New results from AMS, in Proceedings of Astroparticle Physics TEVPA/IDM, Amsterdam, 2014 (unpublished); S. Ting, The alpha magnetic spectrometer on the international space station, Nucl. Phys. B, Proc. Suppl. 243–244, 12 (2013); S.-C. Lee, Latest results from AMS, in Proceedings of the 20th International Conference on Supersymmetry and Unification of Fundamental Interactions (SUSY 2012), Beijing, 2012 (unpublished); M. Aguilar, The AMS experiment on the ISS, in Proceedings of the XL International Meeting on Fundamental Physics, Centro de Ciencias de Benasque Pedro Pascual, 2012 (unpublished); S. Schael, Status of the AMS02 experiment on the ISS, in Proceedings of the 10th Symposium on Sources and Detection of Dark Matter and Dark Energy in the Universe, Los Angeles, 2012 (unpublished); B. Bertucci, The AMS-02 detector operation in space, Proc. Sci. EPS-HEP2011 (2011) 067; M. Incagli, Astroparticle Physiscs with AMS02, AIP Conf. Proc. 1223, 43 (2010); R. Battiston, The antimatter spectrometer (AMS02): A particle physics detector in space, Nucl. Instrum. Methods Phys. Res., Sect. A 588, 227 (2008).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "The antimatter spectrometer (AMS02): A particle physics detector in space"
+          ],
+          "label": "15",
+          "authors": [
+            {
+              "full_name": "Battiston, R."
+            }
+          ],
+          "publication_info": {
+            "year": 2008,
+            "artid": "227",
+            "page_start": "227",
+            "journal_title": "Nucl.Instrum.Meth.A",
+            "journal_volume": "588"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1879225"
+        },
+        "raw_refs": [
+          {
+            "value": "[16] See Supplemental material at http://link.aps.org/ supplemental/10.1103/PhysRevLett.127.021101 for the details of the detector description, event selection, and results of the study of cosmic ray propagation effects; tabulated Na and Al fluxes, and the Na=Si, Al=Si, Na=F and Al=F ratios as functions of rigidity; and figures regarding detector layout, charge selection, Na and Al survival probabilities, the AMS N=O, Na=Si, Na=F, Al=Si, and Al=F flux ratios.",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "dois": [
+            "10.1103/PhysRevLett.127.021101"
+          ],
+          "misc": [
+            "See Supplemental material at",
+            "for the details of the detector description, event selection, and results of the study of cosmic ray propagation effects"
+          ],
+          "urls": [
+            {
+              "value": "http://link.aps.org/supplemental/"
+            }
+          ],
+          "label": "16"
+        }
+      },
+      {
+        "raw_refs": [
+          {
+            "value": "[16] See Supplemental material at http://link.aps.org/ supplemental/10.1103/PhysRevLett.127.021101 for the details of the detector description, event selection, and results of the study of cosmic ray propagation effects; tabulated Na and Al fluxes, and the Na=Si, Al=Si, Na=F and Al=F ratios as functions of rigidity; and figures regarding detector layout, charge selection, Na and Al survival probabilities, the AMS N=O, Na=Si, Na=F, Al=Si, and Al=F flux ratios.",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "tabulated Na and Al fluxes, and the Na=Si, Al=Si, Na=F and Al=F ratios as functions of rigidity; and figures regarding detector layout, charge selection, Na and Al survival probabilities, the AMS N=O, Na=Si, Na=F, Al=Si, and Al=F flux ratios"
+          ],
+          "label": "16"
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/945726"
+        },
+        "raw_refs": [
+          {
+            "value": "[17] K. Lübelsmeyer et al., Upgrade of the Alpha Magnetic Spectrometer (AMS-02) for long term operation on the International Space Station (ISS), Nucl. Instrum. Methods Phys. Res., Sect. A 654, 639 (2011).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Upgrade of the Alpha Magnetic Spectrometer (AMS-02) for long term operation on the International Space Station (ISS)"
+          ],
+          "label": "17",
+          "authors": [
+            {
+              "full_name": "Lübelsmeyer, K."
+            }
+          ],
+          "publication_info": {
+            "year": 2011,
+            "artid": "639",
+            "page_start": "639",
+            "journal_title": "Nucl.Instrum.Meth.A",
+            "journal_volume": "654"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/853944"
+        },
+        "raw_refs": [
+          {
+            "value": "[18] B. Alpat et al., The internal alignment and position resolution of the AMS-02 silicon tracker determined with cosmic-ray muons, Nucl. Instrum. Methods Phys. Res., Sect. A 613, 207 (2010).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "The internal alignment and position resolution of the AMS-02 silicon tracker determined with cosmic-ray muons"
+          ],
+          "label": "18",
+          "authors": [
+            {
+              "full_name": "Alpat, B."
+            }
+          ],
+          "publication_info": {
+            "year": 2010,
+            "artid": "207",
+            "page_start": "207",
+            "journal_title": "Nucl.Instrum.Meth.A",
+            "journal_volume": "613"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1797585"
+        },
+        "raw_refs": [
+          {
+            "value": "[19] Y. Jia, Q. Yan, V. Choutko, H. Liu, and A. Oliva, Nuclei charge measurement by the Alpha Magnetic Spectrometer silicon tracker, Nucl. Instrum. Methods Phys. Res., Sect. A 972, 164169 (2020).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Nuclei charge measurement by the Alpha Magnetic Spectrometer silicon tracker"
+          ],
+          "label": "19",
+          "authors": [
+            {
+              "full_name": "Jia, Y."
+            },
+            {
+              "full_name": "Yan, Q."
+            },
+            {
+              "full_name": "Choutko, V."
+            },
+            {
+              "full_name": "Liu, H."
+            },
+            {
+              "full_name": "Oliva, A."
+            }
+          ],
+          "publication_info": {
+            "year": 2020,
+            "artid": "164169",
+            "journal_title": "Nucl.Instrum.Meth.A",
+            "journal_volume": "972"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1611499"
+        },
+        "raw_refs": [
+          {
+            "value": "[20] G. Ambrosi, V. Choutko, C. Delgado, A. Oliva, Q. Yan, and Y. Li, The spatial resolution of the silicon tracker of the Alpha Magnetic Spectrometer, Nucl. Instrum. Methods Phys. Res., Sect. A 869, 29 (2017).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "The spatial resolution of the silicon tracker of the Alpha Magnetic Spectrometer"
+          ],
+          "label": "20",
+          "authors": [
+            {
+              "full_name": "Ambrosi, G."
+            },
+            {
+              "full_name": "Choutko, V."
+            },
+            {
+              "full_name": "Delgado, C."
+            },
+            {
+              "full_name": "Oliva, A."
+            },
+            {
+              "full_name": "Yan, Q."
+            },
+            {
+              "full_name": "Li, Y."
+            }
+          ],
+          "publication_info": {
+            "year": 2017,
+            "artid": "29",
+            "page_start": "29",
+            "journal_title": "Nucl.Instrum.Meth.A",
+            "journal_volume": "869"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1286392"
+        },
+        "raw_refs": [
+          {
+            "value": "[21] V. Bindi et al., Calibration and performance of the AMS-02 time of flight detector in space, Nucl. Instrum. Methods Phys. Res., Sect. A 743, 22 (2014).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Calibration and performance of the AMS-02 time of flight detector in space"
+          ],
+          "label": "21",
+          "authors": [
+            {
+              "full_name": "Bindi, V."
+            }
+          ],
+          "publication_info": {
+            "year": 2014,
+            "artid": "22",
+            "page_start": "22",
+            "journal_title": "Nucl.Instrum.Meth.A",
+            "journal_volume": "743"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1488031"
+        },
+        "raw_refs": [
+          {
+            "value": "[22] J. Allison et al., Recent developments in GEANT4, Nucl. Instrum. Methods Phys. Res., Sect. A 835, 186 (2016); Geant4 developments and applications, IEEE Trans. Nucl. Sci. 53, 270 (2006); S. Agostinelli et al., GEANT4—a simulation toolkit, Nucl. Instrum. Methods Phys. Res., Sect. A 506, 250 (2003).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Recent developments in GEANT4"
+          ],
+          "label": "22",
+          "authors": [
+            {
+              "full_name": "Allison, J."
+            }
+          ],
+          "publication_info": {
+            "year": 2016,
+            "artid": "186",
+            "page_start": "186",
+            "journal_title": "Nucl.Instrum.Meth.A",
+            "journal_volume": "835"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/715388"
+        },
+        "raw_refs": [
+          {
+            "value": "[22] J. Allison et al., Recent developments in GEANT4, Nucl. Instrum. Methods Phys. Res., Sect. A 835, 186 (2016); Geant4 developments and applications, IEEE Trans. Nucl. Sci. 53, 270 (2006); S. Agostinelli et al., GEANT4—a simulation toolkit, Nucl. Instrum. Methods Phys. Res., Sect. A 506, 250 (2003).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Geant4 developments and applications"
+          ],
+          "label": "22",
+          "authors": [
+            {
+              "full_name": "Allison, J."
+            }
+          ],
+          "publication_info": {
+            "year": 2006,
+            "artid": "270",
+            "page_start": "270",
+            "journal_title": "IEEE Trans.Nucl.Sci.",
+            "journal_volume": "53"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/593382"
+        },
+        "raw_refs": [
+          {
+            "value": "[22] J. Allison et al., Recent developments in GEANT4, Nucl. Instrum. Methods Phys. Res., Sect. A 835, 186 (2016); Geant4 developments and applications, IEEE Trans. Nucl. Sci. 53, 270 (2006); S. Agostinelli et al., GEANT4—a simulation toolkit, Nucl. Instrum. Methods Phys. Res., Sect. A 506, 250 (2003).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "GEANT4—a simulation toolkit"
+          ],
+          "label": "22",
+          "authors": [
+            {
+              "full_name": "Agostinelli, S."
+            }
+          ],
+          "publication_info": {
+            "year": 2003,
+            "artid": "250",
+            "page_start": "250",
+            "journal_title": "Nucl.Instrum.Meth.A",
+            "journal_volume": "506"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1856490"
+        },
+        "raw_refs": [
+          {
+            "value": "[23] Q. Yan, V. Choutko, A. Oliva, and M. Paniccia, Measurements of nuclear interaction cross sections with the Alpha Magnetic Spectrometer on the International Space Station, Nucl. Phys. A996, 121712 (2020).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Measurements of nuclear interaction cross sections with the Alpha Magnetic Spectrometer on the International Space Station"
+          ],
+          "label": "23",
+          "authors": [
+            {
+              "full_name": "Yan, Q."
+            },
+            {
+              "full_name": "Choutko, V."
+            },
+            {
+              "full_name": "Oliva, A."
+            },
+            {
+              "full_name": "Paniccia, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2020,
+            "artid": "121712",
+            "journal_title": "Nucl.Phys.A",
+            "journal_volume": "996"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1405556"
+        },
+        "raw_refs": [
+          {
+            "value": "[24] M. Aguilar et al., Precision Measurement of the Helium Flux in Primary Cosmic Rays of Rigidities 1.9 GV to 3 TV with the Alpha Magnetic Spectrometer on the International Space Station, Phys. Rev. Lett. 115, 211101 (2015).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Precision Measurement of the Helium Flux in Primary Cosmic Rays of Rigidities 1.9 GV to 3 TV with the Alpha Magnetic Spectrometer on the International Space Station"
+          ],
+          "label": "24",
+          "authors": [
+            {
+              "full_name": "Aguilar, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2015,
+            "artid": "211101",
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "115"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1365898"
+        },
+        "raw_refs": [
+          {
+            "value": "[25] M. Aguilar et al., Precision Measurement of the Proton Flux in Primary Cosmic Rays from Rigidity 1 GV to 1.8 TV with the Alpha Magnetic Spectrometer on the International Space Station, Phys. Rev. Lett. 114, 171103 (2015).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Precision Measurement of the Proton Flux in Primary Cosmic Rays from Rigidity 1 GV to 1.8 TV with the Alpha Magnetic Spectrometer on the International Space Station"
+          ],
+          "label": "25",
+          "authors": [
+            {
+              "full_name": "Aguilar, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2015,
+            "artid": "171103",
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "114"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1501164"
+        },
+        "raw_refs": [
+          {
+            "value": "[26] M. Aguilar et al., Precision Measurement of the Boron to Carbon Flux Ratio in Cosmic Rays from 1.9 GV to 2.6 TV with the Alpha Magnetic Spectrometer on the International Space Station, Phys. Rev. Lett. 117, 231102 (2016).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Precision Measurement of the Boron to Carbon Flux Ratio in Cosmic Rays from 1.9 GV to 2.6 TV with the Alpha Magnetic Spectrometer on the International Space Station"
+          ],
+          "label": "26",
+          "authors": [
+            {
+              "full_name": "Aguilar, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2016,
+            "artid": "231102",
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "117"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/533073"
+        },
+        "raw_refs": [
+          {
+            "value": "[27] J. Alcaraz et al., Leptons in near earth orbit, Phys. Lett. B 484, 10 (2000).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Leptons in near earth orbit"
+          ],
+          "label": "27",
+          "authors": [
+            {
+              "full_name": "Alcaraz, J."
+            }
+          ],
+          "publication_info": {
+            "year": 2000,
+            "artid": "10",
+            "page_start": "10",
+            "journal_title": "Phys.Lett.B",
+            "journal_volume": "484"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/2736265"
+        },
+        "raw_refs": [
+          {
+            "value": "[28] C. C. Finlay et al., International Geomagnetic Reference Field: The eleventh generation, Geophys. J. Int. 183, 1216 (2010); E. Th´ebault et al., International geomagnetic reference field: The 12th generation, Earth Planets Space 67, 79 (2015); Geomagnetic Field Modeling Working Group, IGRF-13 model, 2019, https://www.ngdc.noaa.gov/IAGA/ vmod/igrf.html.",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "International Geomagnetic Reference Field: The eleventh generation"
+          ],
+          "label": "28",
+          "authors": [
+            {
+              "full_name": "Finlay, C.C."
+            }
+          ],
+          "publication_info": {
+            "year": 2010,
+            "artid": "1216",
+            "page_start": "1216",
+            "journal_title": "Geophys.J.Int.",
+            "journal_volume": "183"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/2732476"
+        },
+        "raw_refs": [
+          {
+            "value": "[28] C. C. Finlay et al., International Geomagnetic Reference Field: The eleventh generation, Geophys. J. Int. 183, 1216 (2010); E. Th´ebault et al., International geomagnetic reference field: The 12th generation, Earth Planets Space 67, 79 (2015); Geomagnetic Field Modeling Working Group, IGRF-13 model, 2019, https://www.ngdc.noaa.gov/IAGA/ vmod/igrf.html.",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "International geomagnetic reference field: The 12th generation"
+          ],
+          "label": "28",
+          "authors": [
+            {
+              "full_name": "Thébault, E."
+            }
+          ],
+          "publication_info": {
+            "year": 2015,
+            "artid": "79",
+            "page_start": "79",
+            "journal_title": "Earth Planets Space",
+            "journal_volume": "67"
+          }
+        }
+      },
+      {
+        "raw_refs": [
+          {
+            "value": "[28] C. C. Finlay et al., International Geomagnetic Reference Field: The eleventh generation, Geophys. J. Int. 183, 1216 (2010); E. Th´ebault et al., International geomagnetic reference field: The 12th generation, Earth Planets Space 67, 79 (2015); Geomagnetic Field Modeling Working Group, IGRF-13 model, 2019, https://www.ngdc.noaa.gov/IAGA/ vmod/igrf.html.",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Geomagnetic Field Modeling Working Group, IGRF-13 model",
+            "vmod/igrf.html"
+          ],
+          "urls": [
+            {
+              "value": "https://www.ngdc.noaa.gov/IAGA/"
+            }
+          ],
+          "label": "28",
+          "authors": [
+            {
+              "full_name": "Thébault, E."
+            }
+          ],
+          "publication_info": {
+            "year": 2019
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1611498"
+        },
+        "raw_refs": [
+          {
+            "value": "[29] J. Berdugo, V. Choutko, C. Delgado, and Q. Yan, Determination of the rigidity scale of the Alpha Magnetic Spectrometer, Nucl. Instrum. Methods Phys. Res., Sect. A 869, 10 (2017).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Determination of the rigidity scale of the Alpha Magnetic Spectrometer"
+          ],
+          "label": "29",
+          "authors": [
+            {
+              "full_name": "Berdugo, J."
+            },
+            {
+              "full_name": "Choutko, V."
+            },
+            {
+              "full_name": "Delgado, C."
+            },
+            {
+              "full_name": "Yan, Q."
+            }
+          ],
+          "publication_info": {
+            "year": 2017,
+            "artid": "10",
+            "page_start": "10",
+            "journal_title": "Nucl.Instrum.Meth.A",
+            "journal_volume": "869"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/374024"
+        },
+        "raw_refs": [
+          {
+            "value": "[30] G. D. Lafferty and T. R. Wyatt, Where to stick your data points: The treatment of measurements within wide bins, Nucl. Instrum. Methods Phys. Res., Sect. A 355, 541 (1995). We have used Eq. (6) with R˜ ≡ xlw.",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Where to stick your data points: The treatment of measurements within wide bins",
+            "We have used Eq. (6) with R˜ ≡ xlw"
+          ],
+          "label": "30",
+          "authors": [
+            {
+              "full_name": "Lafferty, G.D."
+            },
+            {
+              "full_name": "Wyatt, T.R."
+            }
+          ],
+          "publication_info": {
+            "year": 1995,
+            "artid": "541",
+            "page_start": "541",
+            "journal_title": "Nucl.Instrum.Meth.A",
+            "journal_volume": "355"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1220763"
+        },
+        "raw_refs": [
+          {
+            "value": "[31] D. Maurin, F. Melot, and R. Taillet, A database of charged cosmic rays, Astron. Astrophys. 569, A32 (2014).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "A database of charged cosmic rays"
+          ],
+          "label": "31",
+          "authors": [
+            {
+              "full_name": "Maurin, D."
+            },
+            {
+              "full_name": "Melot, F."
+            },
+            {
+              "full_name": "Taillet, R."
+            }
+          ],
+          "publication_info": {
+            "year": 2014,
+            "artid": "A32",
+            "page_start": "A32",
+            "journal_title": "Astron.Astrophys.",
+            "journal_volume": "569"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1798980"
+        },
+        "raw_refs": [
+          {
+            "value": "[32] M. J. Boschini et al., Inference of the local interstellar spectra of cosmic-ray nuclei Z ≤ 28 with the GALPROP– HELMOD framework, Astrophys. J. Suppl. Ser. 250, 27 (2020).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Inference of the local interstellar spectra of cosmic-ray nuclei Z ≤ 28 with the GALPROP- HELMOD framework"
+          ],
+          "label": "32",
+          "authors": [
+            {
+              "full_name": "Boschini, M.J."
+            }
+          ],
+          "publication_info": {
+            "year": 2020,
+            "artid": "27",
+            "page_start": "27",
+            "journal_title": "Astrophys.J.Suppl.",
+            "journal_volume": "250"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1844651"
+        },
+        "raw_refs": [
+          {
+            "value": "[33] M. Aguilar et al., Properties of Iron Primary Cosmic Rays: Results from the Alpha Magnetic Spectrometer, Phys. Rev. Lett. 126, 041104 (2021).",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Properties of Iron Primary Cosmic Rays: Results from the Alpha Magnetic Spectrometer"
+          ],
+          "label": "33",
+          "authors": [
+            {
+              "full_name": "Aguilar, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2021,
+            "artid": "041104",
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "126"
+          }
+        }
+      },
+      {
+        "raw_refs": [
+          {
+            "value": "[34] Including computing support on the JARA partition of the RWTH Aachen supercomputer.",
+            "schema": "text"
+          }
+        ],
+        "reference": {
+          "misc": [
+            "Including computing support on the JARA partition of the RWTH Aachen supercomputer"
+          ],
+          "label": "34"
+        }
+      }
+    ],
+    "document_type": [
+      "article"
+    ],
+    "collaborations": [
+      {
+        "value": "AMS",
+        "record": {
+          "$ref": "https://inspirehep.net/api/experiments/1110577"
+        }
+      }
+    ],
+    "control_number": 1879225,
+    "number_of_pages": 9,
+    "inspire_categories": [
+      {
+        "term": "Experiment-Nucl",
+        "source": "curator"
+      }
+    ],
+    "accelerator_experiments": [
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/experiments/1110577"
+        },
+        "legacy_name": "AMS"
+      }
+    ],
+    "external_system_identifiers": [
+      {
+        "value": "hal-03287582",
+        "schema": "HAL"
+      },
+      {
+        "value": "2776602",
+        "schema": "CDS"
+      }
+    ]
+  },
+  "id": "1879225",
+  "updated": "2025-11-20T21:24:00.692553+00:00",
+  "created": "2021-07-08T12:11:24.011802+00:00",
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/1879225?format=bibtex",
+    "latex-eu": "https://inspirehep.net/api/literature/1879225?format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/1879225?format=latex-us",
+    "json": "https://inspirehep.net/api/literature/1879225?format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/1879225?format=json-expanded",
+    "cv": "https://inspirehep.net/api/literature/1879225?format=cv",
+    "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1879225"
+  },
+  "uuid": "3daf3f22-99d9-452e-9866-760c54dc9556",
+  "revision_id": 37
+}

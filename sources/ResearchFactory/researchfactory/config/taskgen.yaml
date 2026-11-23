@@ -1,0 +1,20 @@
+# HEP 任务构建和独立审核；模型端点与密钥由本机模型配置提供。
+taskgen:
+  agent: deepseek_harness
+  task_type: researchclawbench
+  agent_configs:
+    deepseek_harness:
+      model: deepseek-chat
+      reasoning_effort: high
+  review:
+    agent: deepseek_harness
+    model: ""
+    reasoning_effort: high
+    jobs: 1
+    task_timeout: 1800
+    max_turns: 80
+    skill_path: ""
+  jobs: 1
+  task_timeout: 7200
+  max_turns: 200
+  skill_path: ""

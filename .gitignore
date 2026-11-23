@@ -1,0 +1,35 @@
+# 本机凭证与环境配置
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# 运行产物、论文缓存与日志
+/runs/
+/output/
+/dist/
+.cache/
+_paper_cache/
+agent_trace/
+*.log
+
+# 本地安装的依赖
+.venv/
+node_modules/
+
+# Python 缓存、测试报告与构建产物
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+*.egg-info/
+build/
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db

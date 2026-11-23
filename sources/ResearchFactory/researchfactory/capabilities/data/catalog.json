@@ -1,0 +1,182 @@
+{
+  "schema_version": 1,
+  "version": "2026.07.1",
+  "nodes": [
+    {
+      "id": "general.problem_solving",
+      "name": "Problem solving",
+      "description": "Translate an underspecified goal into a correct, verifiable sequence of actions.",
+      "prerequisites": [],
+      "aliases": ["general", "reasoning", "problem-solving"],
+      "keywords": ["diagnose and solve", "reason about", "complete the task"]
+    },
+    {
+      "id": "analysis.data",
+      "name": "Data analysis",
+      "description": "Transform and inspect data to derive reproducible findings.",
+      "prerequisites": ["general.problem_solving"],
+      "aliases": ["data-analysis", "data science", "data-science"],
+      "keywords": ["analyze data", "dataset", "dataframe", "aggregate", "data analysis"]
+    },
+    {
+      "id": "analysis.modeling",
+      "name": "Computational modeling",
+      "description": "Implement or apply a computational model and interpret its outputs.",
+      "prerequisites": ["analysis.data"],
+      "aliases": ["modeling", "modelling", "simulation"],
+      "keywords": ["fit a model", "computational model", "simulate", "simulation", "predict"]
+    },
+    {
+      "id": "analysis.reproduction",
+      "name": "Result reproduction",
+      "description": "Reproduce a reported method or result from supplied public inputs.",
+      "prerequisites": ["analysis.validation"],
+      "aliases": ["reproduce", "replication", "reproducibility"],
+      "keywords": ["reproduce", "replicate", "reproducible", "reproduction"]
+    },
+    {
+      "id": "analysis.statistical",
+      "name": "Statistical analysis",
+      "description": "Estimate effects or uncertainty using appropriate statistical methods.",
+      "prerequisites": ["analysis.data"],
+      "aliases": ["statistics", "statistical-analysis"],
+      "keywords": ["statistical", "regression", "confidence interval", "uncertainty", "hypothesis test", "bayesian"]
+    },
+    {
+      "id": "analysis.validation",
+      "name": "Validation and evaluation",
+      "description": "Check outputs against invariants, references, or quantitative criteria.",
+      "prerequisites": ["analysis.data"],
+      "aliases": ["validation", "evaluation", "verification"],
+      "keywords": ["validate", "evaluate", "benchmark", "compare against", "error analysis"]
+    },
+    {
+      "id": "analysis.visualization",
+      "name": "Data visualization",
+      "description": "Create interpretable plots, diagrams, or visual summaries from data.",
+      "prerequisites": ["analysis.data"],
+      "aliases": ["visualization", "plotting", "charts"],
+      "keywords": ["visualize", "plot", "figure", "chart", "heatmap", "diagram"]
+    },
+    {
+      "id": "research.experiment_design",
+      "name": "Experiment design",
+      "description": "Design a controlled, feasible experiment and its evaluation protocol.",
+      "prerequisites": ["general.problem_solving"],
+      "aliases": ["experimental-design", "study design"],
+      "keywords": ["design an experiment", "experimental design", "control group", "ablation"]
+    },
+    {
+      "id": "research.literature_synthesis",
+      "name": "Literature synthesis",
+      "description": "Compare and synthesize evidence across relevant prior work.",
+      "prerequisites": ["general.problem_solving"],
+      "aliases": ["literature-review", "evidence synthesis"],
+      "keywords": ["literature review", "related work", "synthesize evidence", "compare studies"]
+    },
+    {
+      "id": "software.build",
+      "name": "Build and packaging",
+      "description": "Build, package, or install software reproducibly.",
+      "prerequisites": ["software.implementation"],
+      "aliases": ["build", "packaging", "compilation"],
+      "keywords": ["compile", "build failure", "build system", "package", "cmake", "makefile"]
+    },
+    {
+      "id": "software.configuration",
+      "name": "System and application configuration",
+      "description": "Configure an application or operating environment to meet a stated behavior.",
+      "prerequisites": ["general.problem_solving"],
+      "aliases": ["configuration", "configure", "config"],
+      "keywords": ["configure", "configuration file", "environment variable", "settings", "yaml"]
+    },
+    {
+      "id": "software.data_pipeline",
+      "name": "Data pipeline implementation",
+      "description": "Implement and operate a multi-step data ingestion or transformation pipeline.",
+      "prerequisites": ["software.implementation", "analysis.data"],
+      "aliases": ["data-pipeline", "etl", "workflow"],
+      "keywords": ["data pipeline", "etl", "ingest", "transform pipeline", "workflow"]
+    },
+    {
+      "id": "software.debugging",
+      "name": "Software debugging",
+      "description": "Locate and repair defects in existing code or runtime behavior.",
+      "prerequisites": ["software.implementation"],
+      "aliases": ["debugging", "bug-fixing", "repair"],
+      "keywords": ["debug", "fix the bug", "repair", "root cause", "failing", "broken"]
+    },
+    {
+      "id": "software.dependency_management",
+      "name": "Dependency management",
+      "description": "Resolve, pin, or repair software dependencies and their compatibility.",
+      "prerequisites": ["software.build"],
+      "aliases": ["dependencies", "dependency-management"],
+      "keywords": ["dependency conflict", "dependencies", "package manager", "requirements", "lockfile"]
+    },
+    {
+      "id": "software.file_operations",
+      "name": "File and storage operations",
+      "description": "Manipulate, recover, or organize files and storage artifacts safely.",
+      "prerequisites": ["general.problem_solving"],
+      "aliases": ["file-operations", "filesystem", "file-system"],
+      "keywords": ["file operations", "filesystem", "recover files", "archive", "permissions"]
+    },
+    {
+      "id": "software.implementation",
+      "name": "Software implementation",
+      "description": "Write or extend code that satisfies a functional contract.",
+      "prerequisites": ["general.problem_solving"],
+      "aliases": ["implementation", "coding", "software-engineering", "swe"],
+      "keywords": ["implement", "write a program", "write code", "function", "command line tool"]
+    },
+    {
+      "id": "software.performance_optimization",
+      "name": "Performance optimization",
+      "description": "Measure and improve runtime, memory, throughput, or scalability.",
+      "prerequisites": ["software.debugging"],
+      "aliases": ["optimization", "performance"],
+      "keywords": ["optimize", "performance", "latency", "throughput", "memory usage", "profiling"]
+    },
+    {
+      "id": "software.security",
+      "name": "Security analysis and hardening",
+      "description": "Identify, exploit in a controlled setting, or remediate a security weakness.",
+      "prerequisites": ["general.problem_solving"],
+      "aliases": ["security", "hardening", "cybersecurity"],
+      "keywords": ["vulnerability", "exploit", "harden", "security", "injection", "authentication"]
+    },
+    {
+      "id": "software.service_operation",
+      "name": "Service operation",
+      "description": "Deploy, recover, and verify a local service or multi-service stack.",
+      "prerequisites": ["software.configuration"],
+      "aliases": ["service-operation", "operations", "devops"],
+      "keywords": ["daemon", "health check", "deploy service", "recover service", "service operation", "multi-service"]
+    },
+    {
+      "id": "software.system_administration",
+      "name": "System administration",
+      "description": "Administer users, processes, networking, permissions, or operating-system state.",
+      "prerequisites": ["software.configuration"],
+      "aliases": ["system-administration", "sysadmin", "sys-admin"],
+      "keywords": ["system administration", "process", "network", "user account", "permissions", "systemd"]
+    },
+    {
+      "id": "software.testing",
+      "name": "Software testing",
+      "description": "Design or implement tests that verify behavior and guard regressions.",
+      "prerequisites": ["software.implementation"],
+      "aliases": ["testing", "test-engineering", "qa"],
+      "keywords": ["unit test", "integration test", "pytest", "test suite", "regression test"]
+    },
+    {
+      "id": "software.version_control",
+      "name": "Version control",
+      "description": "Inspect or manipulate repository history, branches, and changes safely.",
+      "prerequisites": ["general.problem_solving"],
+      "aliases": ["version-control", "git"],
+      "keywords": ["git", "repository history", "merge conflict", "commit", "branch"]
+    }
+  ]
+}

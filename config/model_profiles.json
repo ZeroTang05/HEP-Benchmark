@@ -1,0 +1,13 @@
+{
+  "default_profile": "local",
+  "profiles": {
+    "local": {
+      "env_file": ".env",
+      "provider": "hep-local",
+      "input": [
+        "text"
+      ],
+      "api": "openai-completions"
+    }
+  }
+}

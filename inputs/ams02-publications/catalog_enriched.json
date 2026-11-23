@@ -1,0 +1,1406 @@
+[
+  {
+    "paper_id": "doi:10.1103/d2vf-fw3v",
+    "doi": "10.1103/d2vf-fw3v",
+    "title": "Properties of Heavy Cosmic Nuclei Phosphorus, Chlorine, Argon, Potassium, and Calcium: Results from the Alpha Magnetic Spectrometer",
+    "year": 2026,
+    "published_date": "2026-06-17",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/202601",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "3175455",
+    "venue": "Phys. Rev. Lett. 136 , 241002 (2026)",
+    "supplemental_links": [
+      {
+        "title": "SM-PClArKCa-REV.pdf",
+        "url": "https://ams02.space/sites/default/files/2026-06/SM-PClArKCa-REV_0.pdf"
+      },
+      {
+        "title": "Download the P flux table",
+        "url": "https://ams02.space/sites/default/files/publication/202601/table-s1.csv"
+      },
+      {
+        "title": "Download the Cl flux table",
+        "url": "https://ams02.space/sites/default/files/publication/202601/table-s2.csv"
+      },
+      {
+        "title": "Download the Ar flux table",
+        "url": "https://ams02.space/sites/default/files/publication/202601/table-s3.csv"
+      },
+      {
+        "title": "Download the K flux table",
+        "url": "https://ams02.space/sites/default/files/publication/202601/table-s4.csv"
+      },
+      {
+        "title": "Download the Ca flux table",
+        "url": "https://ams02.space/sites/default/files/publication/202601/table-s5.csv"
+      },
+      {
+        "title": "Download the Si flux table",
+        "url": "https://ams02.space/sites/default/files/publication/202601/table-s6.csv"
+      },
+      {
+        "title": "Download the F flux table",
+        "url": "https://ams02.space/sites/default/files/publication/202601/table-s7.csv"
+      },
+      {
+        "title": "Download the S flux table",
+        "url": "https://ams02.space/sites/default/files/publication/202601/table-s8.csv"
+      },
+      {
+        "title": "Download the phosphorus to sulfur flux ratio table",
+        "url": "https://ams02.space/sites/default/files/publication/202601/table-s9.csv"
+      },
+      {
+        "title": "Download the argon flux ratio table",
+        "url": "https://ams02.space/sites/default/files/publication/202601/table-s10.csv"
+      },
+      {
+        "title": "Download the potassium to calcium flux ratio table",
+        "url": "https://ams02.space/sites/default/files/publication/202601/table-s11.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "57b581bd1ced157bfd87c877170a62d5",
+        "url": "https://inspirehep.net/files/57b581bd1ced157bfd87c877170a62d5",
+        "filename": "document.pdf",
+        "fulltext": true,
+        "material": "publication"
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.134.201001",
+    "doi": "10.1103/PhysRevLett.134.201001",
+    "title": "Properties of Cosmic Lithium Isotopes Measured by the Alpha Magnetic Spectrometer",
+    "year": 2025,
+    "published_date": "2025-05-20",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/202404",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "2923260",
+    "venue": "Phys. Rev. Lett. 134 , 201001 (2025)",
+    "supplemental_links": [
+      {
+        "title": "SM-Li-Isotopes-REV.pdf",
+        "url": "https://ams02.space/sites/default/files/2025-05/SM-Li-Isotopes-REV.pdf"
+      },
+      {
+        "title": "SM-Tables-Li-Isotopes.pdf",
+        "url": "https://ams02.space/sites/default/files/2025-05/SM-Tables-Li-Isotopes.pdf"
+      },
+      {
+        "title": "Download the S1-S42 table",
+        "url": "https://ams02.space/sites/default/files/publication/202404/table-s1-s42.csv"
+      },
+      {
+        "title": "Download the S43 table",
+        "url": "https://ams02.space/sites/default/files/publication/202404/table-s43.csv"
+      },
+      {
+        "title": "Download the Helium 4BR table",
+        "url": "https://ams02.space/sites/default/files/publication/202404/helium-table-4BR.csv"
+      },
+      {
+        "title": "Download the Helium Average table",
+        "url": "https://ams02.space/sites/default/files/publication/202404/helium-table-average.csv"
+      },
+      {
+        "title": "Download the Oxygen Average table",
+        "url": "https://ams02.space/sites/default/files/publication/202404/oxygen-table-average.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "de206837bc0aeec058cfccb39fe0a667",
+        "url": "https://inspirehep.net/files/de206837bc0aeec058cfccb39fe0a667",
+        "filename": "publication.pdf",
+        "fulltext": true,
+        "material": "publication"
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.134.051002",
+    "doi": "10.1103/PhysRevLett.134.051002",
+    "title": "Antiprotons and Elementary Particles over a Solar Cycle: Results from the Alpha Magnetic Spectrometer",
+    "year": 2025,
+    "published_date": "2025-02-03",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/202402",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "2874917",
+    "venue": "Phys. Rev. Lett. 134 , 051002 (2025)",
+    "supplemental_links": [
+      {
+        "title": "SM-antip-BR-REV2.pdf",
+        "url": "https://ams02.space/sites/default/files/2025-02/SM-antip-BR-REV2.pdf"
+      },
+      {
+        "title": "SM-antip-BR-Tables.pdf",
+        "url": "https://ams02.space/sites/default/files/2025-02/SM-antip-BR-Tables.pdf"
+      },
+      {
+        "title": "Download the pbar-table-s1-s139 table",
+        "url": "https://ams02.space/sites/default/files/publication/202402/pbar-table-s1-s139.csv"
+      },
+      {
+        "title": "Download the pbar-table-s140.csv table",
+        "url": "https://ams02.space/sites/default/files/publication/202402/pbar-table-s140.csv"
+      },
+      {
+        "title": "Download the electron-table-Average table",
+        "url": "https://ams02.space/sites/default/files/publication/202402/electron-table-Average.csv"
+      },
+      {
+        "title": "Download the positron-table-Average table",
+        "url": "https://ams02.space/sites/default/files/publication/202402/positron-table-Average.csv"
+      },
+      {
+        "title": "Download the p-table-BR table",
+        "url": "https://ams02.space/sites/default/files/publication/202402/p-table-BR.csv"
+      },
+      {
+        "title": "Download the p-table-Average table",
+        "url": "https://ams02.space/sites/default/files/publication/202402/p-table-Average.csv"
+      },
+      {
+        "title": "Download the electron-table-BR table",
+        "url": "https://ams02.space/sites/default/files/publication/202402/electron-table-BR.csv"
+      },
+      {
+        "title": "Download the positron-table-BR table",
+        "url": "https://ams02.space/sites/default/files/publication/202402/positron-table-BR.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "a4613d675e296064662154eec63e72a6",
+        "url": "https://inspirehep.net/files/a4613d675e296064662154eec63e72a6",
+        "filename": "Publication.pdf",
+        "fulltext": true,
+        "material": "publication"
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.134.051001",
+    "doi": "10.1103/PhysRevLett.134.051001",
+    "title": "Solar Modulation of Cosmic Nuclei over a Solar Cycle: Results from the Alpha Magnetic Spectrometer",
+    "year": 2025,
+    "published_date": "2025-02-03",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/202403",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "2875088",
+    "venue": "Phys. Rev. Lett. 134 , 051001 (2025)",
+    "supplemental_links": [
+      {
+        "title": "SM-nuclei-BR.pdf",
+        "url": "https://ams02.space/sites/default/files/2025-02/SM-nuclei-BR.pdf"
+      },
+      {
+        "title": "SM-nuclei-BR-tables.pdf",
+        "url": "https://ams02.space/sites/default/files/2025-02/SM-nuclei-BR-tables.pdf"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202403/table-S1-S147.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202403/table-S148-S294.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202403/table-S295-S441.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202403/table-S442-S588.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202403/table-S589-S735.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202403/table-S736-S882.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202403/table-S883-S1029.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "52ea71672a416863a8d10e960ce08b34",
+        "url": "https://inspirehep.net/files/52ea71672a416863a8d10e960ce08b34",
+        "filename": "Publication.pdf",
+        "fulltext": true,
+        "material": "publication"
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.132.261001",
+    "doi": "10.1103/PhysRevLett.132.261001",
+    "title": "Properties of Cosmic Deuterons Measured by the Alpha Magnetic Spectrometer",
+    "year": 2024,
+    "published_date": "2024-06-25",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/202401",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "2802516",
+    "venue": "Phys. Rev. Lett. 132 , 261001 (2024)",
+    "supplemental_links": [
+      {
+        "title": "SM-D-REV.pdf",
+        "url": "https://ams02.space/sites/default/files/2024-06/SM-D-REV.pdf"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202401/table-s1-s99.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202401/table-s100.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202401/table-s101.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202401/table-s102.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [],
+    "metadata_urls": [
+      {
+        "value": "https://physics.aps.org/articles/v17/s74",
+        "description": "Physics Synopsis"
+      }
+    ]
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.131.151002",
+    "doi": "10.1103/PhysRevLett.131.151002",
+    "title": "Temporal Structures in Positron Spectra and Charge-Sign Effects in Galactic Cosmic Rays",
+    "year": 2023,
+    "published_date": "2023-10-12",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/202303",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "2710091",
+    "venue": "Phys. Rev. Lett. 131 , 151002 (2023)",
+    "supplemental_links": [
+      {
+        "title": "SM-Daily-positrons-REV.pdf",
+        "url": "https://ams02.space/sites/default/files/2023-10/SM-Daily-positrons-REV.pdf"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202307/table-s1-s3268.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "bee88d6a806f8bf0c1a3c01564b4f5b2",
+        "url": "https://inspirehep.net/files/bee88d6a806f8bf0c1a3c01564b4f5b2",
+        "filename": "Publication",
+        "fulltext": true,
+        "material": "publication"
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.130.211002",
+    "doi": "10.1103/PhysRevLett.130.211002",
+    "title": "Properties of Cosmic-Ray Sulfur and Determination of the Composition of Primary Cosmic-Ray Carbon, Neon, Magnesium, and Sulfur: Ten-Year Results from the Alpha Magnetic Spectrometer",
+    "year": 2023,
+    "published_date": "2023-05-25",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/202302",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "2662857",
+    "venue": "Phys. Rev. Lett. 130 , 211002 (2023)",
+    "supplemental_links": [
+      {
+        "title": "SM-S-p1.pdf",
+        "url": "https://ams02.space/sites/default/files/2023-05/SM-S-p1.pdf"
+      },
+      {
+        "title": "Download the S table",
+        "url": "https://ams02.space/sites/default/files/publication/202302/table-sm-i-S.csv"
+      },
+      {
+        "title": "Download the O table",
+        "url": "https://ams02.space/sites/default/files/publication/202302/table-sm-ii-O.csv"
+      },
+      {
+        "title": "Download the Ne table",
+        "url": "https://ams02.space/sites/default/files/publication/202302/table-sm-iii-Ne.csv"
+      },
+      {
+        "title": "Download the Mg table",
+        "url": "https://ams02.space/sites/default/files/publication/202302/table-sm-iv-Mg.csv"
+      },
+      {
+        "title": "Download the Si table",
+        "url": "https://ams02.space/sites/default/files/publication/202302/table-sm-v-Si.csv"
+      },
+      {
+        "title": "Download the F table",
+        "url": "https://ams02.space/sites/default/files/publication/202302/table-sm-vi-F.csv"
+      },
+      {
+        "title": "Download the C table",
+        "url": "https://ams02.space/sites/default/files/publication/202302/table-sm-vii-C.csv"
+      },
+      {
+        "title": "Download the O table",
+        "url": "https://ams02.space/sites/default/files/publication/202302/table-sm-viii-O.csv"
+      },
+      {
+        "title": "Download the B table",
+        "url": "https://ams02.space/sites/default/files/publication/202302/table-sm-ix-B.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "fdfd0c69eb796a5eafcf744ff35e3607",
+        "url": "https://inspirehep.net/files/fdfd0c69eb796a5eafcf744ff35e3607",
+        "filename": "PhysRevLett.130.211002.pdf",
+        "fulltext": true,
+        "material": "publication"
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.130.161001",
+    "doi": "10.1103/PhysRevLett.130.161001",
+    "title": "Temporal Structures in Electron Spectra and Charge Sign Effects in Galactic Cosmic Rays",
+    "year": 2023,
+    "published_date": "2023-04-17",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/202301",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "2651726",
+    "venue": "Phys. Rev. Lett. 130 , 161001 (2023)",
+    "supplemental_links": [
+      {
+        "title": "SM-Daily-e-REV2-p2.pdf",
+        "url": "https://ams02.space/sites/default/files/2023-04/SM-Daily-e-REV2-p2.pdf"
+      },
+      {
+        "title": "SM-Daily-e-Tables-REV.pdf",
+        "url": "https://ams02.space/sites/default/files/2023-04/SM-Daily-e-Tables-REV.pdf"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202209/table-s1-s3300.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "a97fec4c914cb6c672d50ab3d9b1e144",
+        "url": "https://inspirehep.net/files/a97fec4c914cb6c672d50ab3d9b1e144",
+        "filename": "PhysRevLett.130.161001.pdf",
+        "fulltext": true,
+        "material": "publication"
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.128.231102",
+    "doi": "10.1103/PhysRevLett.128.231102",
+    "title": "Properties of Daily Helium Fluxes",
+    "year": 2022,
+    "published_date": "2022-06-10",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/202201",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "2094254",
+    "venue": "Phys. Rev. Lett. 128 , 231102 (2022)",
+    "supplemental_links": [
+      {
+        "title": "SM-Daily-He-REV.pdf",
+        "url": "https://ams02.space/sites/default/files/2022-06/SM-Daily-He-REV.pdf"
+      },
+      {
+        "title": "SM-Daily-He-Tables.pdf",
+        "url": "https://ams02.space/sites/default/files/2022-06/SM-Daily-He-Tables.pdf"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202201/table-s1-s2824.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "c827dec07d6a15372e6846037cdfd7cb",
+        "url": "https://inspirehep.net/files/c827dec07d6a15372e6846037cdfd7cb",
+        "filename": "PhysRevLett.128.231102.pdf",
+        "fulltext": true,
+        "material": "publication"
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.127.271102",
+    "doi": "10.1103/PhysRevLett.127.271102",
+    "title": "Periodicities in the Daily Proton Fluxes from 2011 to 2019 Measured by the Alpha Magnetic Spectrometer on the International Space Station from 1 to 100 GV",
+    "year": 2021,
+    "published_date": "2021-12-27",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/202105",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1997584",
+    "venue": "Phys. Rev. Lett. 127 , 271102 (2021)",
+    "supplemental_links": [
+      {
+        "title": "SM-Daily-P-REV.pdf",
+        "url": "https://ams02.space/sites/default/files/2022-01/SM-Daily-P-REV.pdf"
+      },
+      {
+        "title": "SM-Daily-P-Tables-REV.pdf",
+        "url": "https://ams02.space/sites/default/files/2022-01/SM-Daily-P-Tables-REV.pdf"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202105/table-s1-s2824.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "ccf35ae74bfaf2ef612a4c81d5cd9aac",
+        "url": "https://inspirehep.net/files/ccf35ae74bfaf2ef612a4c81d5cd9aac",
+        "filename": "PhysRevLett.127.271102.pdf",
+        "fulltext": true,
+        "material": "publication",
+        "description": "Fulltext"
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.127.021101",
+    "doi": "10.1103/PhysRevLett.127.021101",
+    "title": "Properties of a New Group of Cosmic Nuclei: Results from the Alpha Magnetic Spectrometer on Sodium, Aluminum, and Nitrogen",
+    "year": 2021,
+    "published_date": "2021-07-07",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/202104",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1879225",
+    "venue": "Phys. Rev. Lett. 127 , 021101 (2021)",
+    "supplemental_links": [
+      {
+        "title": "SM-NaAl-REV_0.pdf",
+        "url": "https://ams02.space/sites/default/files/2022-03/SM-NaAl-REV_0.pdf"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202104/table-si.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202104/table-sii.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202104/table-siii.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202104/table-siv.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202104/table-sv.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202104/table-svi.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "7e93df819aa31d880dc744a68723e0ef",
+        "url": "https://inspirehep.net/files/7e93df819aa31d880dc744a68723e0ef",
+        "filename": "PhysRevLett.127.021101.pdf",
+        "fulltext": true,
+        "description": "Fulltext"
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.126.081102",
+    "doi": "10.1103/PhysRevLett.126.081102",
+    "title": "Properties of Heavy Secondary Fluorine Cosmic Rays: Results from the Alpha Magnetic Spectrometer",
+    "year": 2021,
+    "published_date": "2021-02-25",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/202103",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1849433",
+    "venue": "Phys. Rev. Lett. 126 , 081102 (2021)",
+    "supplemental_links": [
+      {
+        "title": "SM-F-REV_0.pdf",
+        "url": "https://ams02.space/sites/default/files/2021-02/SM-F-REV_0.pdf"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202103/table-si.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202103/table-sii.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202103/table-siii.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "d98a763e15ebd988e96160ca11534ffe",
+        "url": "https://inspirehep.net/files/d98a763e15ebd988e96160ca11534ffe",
+        "filename": "PhysRevLett.126.081102.pdf",
+        "fulltext": true
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1016/j.physrep.2020.09.003",
+    "doi": "10.1016/j.physrep.2020.09.003",
+    "title": "The Alpha Magnetic Spectrometer (AMS) on the International Space Station: Part II - Results from the First Seven Years",
+    "year": 2021,
+    "published_date": "2021-02-07",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/202102",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1841796",
+    "venue": "Phys. Rep. 894 , 1 (2021)",
+    "supplemental_links": [
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-1.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-2.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-3.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-4.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-5.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-6.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-7.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-8.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-9.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-10.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-11.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-12.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-13.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-14.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-15.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-16.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-17.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-18.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-19.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-20.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-21.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-22.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-23.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202102/table-24.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "802ee4f4581685d87d14465ee2315992",
+        "url": "https://inspirehep.net/files/802ee4f4581685d87d14465ee2315992",
+        "filename": "1-s2.0-S0370157320303434-main.pdf",
+        "fulltext": true
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.126.041104",
+    "doi": "10.1103/PhysRevLett.126.041104",
+    "title": "Properties of Iron Primary Cosmic Rays: Results from the Alpha Magnetic Spectrometer",
+    "year": 2021,
+    "published_date": "2021-01-28",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/202101",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1844651",
+    "venue": "Phys. Rev. Lett. 126 , 041104 (2021)",
+    "supplemental_links": [
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202101/table-si.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202101/table-sii.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202101/table-siii.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202101/table-siv.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "5f11df27950817a3d812c955b3fd9695",
+        "url": "https://inspirehep.net/files/5f11df27950817a3d812c955b3fd9695",
+        "filename": "PhysRevLett.126.pdf",
+        "fulltext": true
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.124.211102",
+    "doi": "10.1103/PhysRevLett.124.211102",
+    "title": "Properties of Neon, Magnesium, and Silicon Primary Cosmic Rays Results from the Alpha Magnetic Spectrometer",
+    "year": 2020,
+    "published_date": "2020-05-29",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/202001",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1798811",
+    "venue": "Phys. Rev. Lett. 124 , 211102 (2020)",
+    "supplemental_links": [
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202001/table-si.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202001/table-sii.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202001/table-siii.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202001/table-siv.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202001/table-sv.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202001/table-svi.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202001/table-svii.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/202001/table-sviii.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "9c450194994b132c3e0d4c0cddc6dd23",
+        "url": "https://inspirehep.net/files/9c450194994b132c3e0d4c0cddc6dd23",
+        "filename": "10.1103_PhysRevLett.124.211102.pdf",
+        "description": "Fulltext from Publisher"
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.123.181102",
+    "doi": "10.1103/PhysRevLett.123.181102",
+    "title": "Properties of Cosmic Helium Isotopes Measured by the Alpha Magnetic Spectrometer",
+    "year": 2019,
+    "published_date": "2019-11-01",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/201903",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1762930",
+    "venue": "Phys. Rev. Lett. 123 , 181102 (2019)",
+    "supplemental_links": [
+      {
+        "title": "SM-he3he4-REV2.pdf",
+        "url": "https://ams02.space/sites/default/files/2019-11/SM-he3he4-REV2.pdf"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201903/table-smxxii.csv"
+      },
+      {
+        "title": "Download the ROOT table",
+        "url": "https://ams02.space/sites/default/files/publication/579/tables-smi-smxxi.root"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201903/tables-smi-smxxi.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201903/table-smxxiii.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "ac1762ef101ff8f726070dfb3734f1fa",
+        "url": "https://inspirehep.net/files/ac1762ef101ff8f726070dfb3734f1fa",
+        "filename": "PhysRevLett.123.181102.pdf"
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.122.101101",
+    "doi": "10.1103/PhysRevLett.122.101101",
+    "title": "Towards Understanding the Origin of Cosmic-Ray Electrons",
+    "year": 2019,
+    "published_date": "2019-03-13",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/201902",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1725636",
+    "venue": "Phys. Rev. Lett. 122 , 101101 (2019)",
+    "supplemental_links": [
+      {
+        "title": "SM-electron-1400-REV.pdf",
+        "url": "https://ams02.space/sites/default/files/2019-05/SM-electron-1400-REV.pdf"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201902/table-si.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201902/table-sii.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "1a0c0b7b5099af8766bd00e3da6e796a",
+        "url": "https://inspirehep.net/files/1a0c0b7b5099af8766bd00e3da6e796a",
+        "filename": "10.1103_PhysRevLett.122.101101.pdf",
+        "description": "Fulltext from Publisher"
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.122.041102",
+    "doi": "10.1103/PhysRevLett.122.041102",
+    "title": "Towards Understanding the Origin of Cosmic-Ray Positrons",
+    "year": 2019,
+    "published_date": "2019-01-29",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/201901",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1718083",
+    "venue": "Phys. Rev. Lett. 122 , 041102 (2019)",
+    "supplemental_links": [
+      {
+        "title": "SM-positron_1000-REV.pdf",
+        "url": "https://ams02.space/sites/default/files/2019-05/SM-positron_1000-REV.pdf"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201901/table-si.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "9df1fdf637a21085e5f15c77706e0c99",
+        "url": "https://inspirehep.net/files/9df1fdf637a21085e5f15c77706e0c99",
+        "filename": "10.1103_PhysRevLett.122.041102.pdf",
+        "description": "Fulltext from Publisher"
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.121.051102",
+    "doi": "10.1103/PhysRevLett.121.051102",
+    "title": "Observation of Complex Time Structures in the Cosmic-Ray Electron and Positron Fluxes with the Alpha Magnetic Spectrometer on the International Space Station",
+    "year": 2018,
+    "published_date": "2018-07-31",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/201803",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1685021",
+    "venue": "Phys. Rev. Lett. 121 , 051102 (2018)",
+    "supplemental_links": [
+      {
+        "title": "SM-eplus-eminus-vs-BR-Rev.pdf",
+        "url": "https://ams02.space/sites/default/files/2019-05/SM-eplus-eminus-vs-BR-Rev.pdf"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201803/table-smi.csv"
+      },
+      {
+        "title": "Download the root table",
+        "url": "https://ams02.space/sites/default/files/publication/530/tables-smii.root"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201803/tables-smii.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "6ddfc57e4b6eb9d864f47e2b5b28adbd",
+        "url": "https://inspirehep.net/files/6ddfc57e4b6eb9d864f47e2b5b28adbd",
+        "filename": "10.1103_PhysRevLett.121.051102.pdf",
+        "fulltext": true
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.121.051101",
+    "doi": "10.1103/PhysRevLett.121.051101",
+    "title": "Observation of Fine Time Structures in the Cosmic Proton and Helium Fluxes with the Alpha Magnetic Spectrometer on the International Space Station",
+    "year": 2018,
+    "published_date": "2018-07-31",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/201802",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1685025",
+    "venue": "Phys. Rev. Lett. 121 , 051101 (2018)",
+    "supplemental_links": [
+      {
+        "title": "SM-p-He-vs-BR-REV.pdf",
+        "url": "https://ams02.space/sites/default/files/2019-05/SM-p-He-vs-BR-REV.pdf"
+      },
+      {
+        "title": "Download the root table",
+        "url": "https://ams02.space/sites/default/files/publication/518/tables-sm-all.root"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201802/tables-sm-all.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "372d56f1386246a67e3cd76a53a1dbed",
+        "url": "https://inspirehep.net/files/372d56f1386246a67e3cd76a53a1dbed",
+        "filename": "10.1103_PhysRevLett.121.051101.pdf",
+        "fulltext": true
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.121.051103",
+    "doi": "10.1103/PhysRevLett.121.051103",
+    "title": "Precision Measurement of Cosmic-Ray Nitrogen and its Primary and Secondary Components with the Alpha Magnetic Spectrometer on the International Space Station",
+    "year": 2018,
+    "published_date": "2018-07-31",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/201804",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1685026",
+    "venue": "Phys. Rev. Lett. 121 , 051103 (2018)",
+    "supplemental_links": [
+      {
+        "title": "SM-N-REV.pdf",
+        "url": "https://ams02.space/sites/default/files/2019-05/SM-N-REV.pdf"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201804/table-smi.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201804/table-smii.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201804/table-smiii.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "84f2673db08d36e5def9120e2176836a",
+        "url": "https://inspirehep.net/files/84f2673db08d36e5def9120e2176836a",
+        "filename": "10.1103_PhysRevLett.121.051103.pdf",
+        "fulltext": true
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.120.021101",
+    "doi": "10.1103/PhysRevLett.120.021101",
+    "title": "Observation of New Properties of Secondary Cosmic Rays Lithium, Beryllium, and Boron by the Alpha Magnetic Spectrometer on the International Space Station",
+    "year": 2018,
+    "published_date": "2018-01-11",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/201801",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1648089",
+    "venue": "Phys. Rev. Lett. 120 , 021101 (2018)",
+    "supplemental_links": [
+      {
+        "title": "libeb-SM-3300-REV.pdf",
+        "url": "https://ams02.space/sites/default/files/2019-05/libeb-SM-3300-REV.pdf"
+      },
+      {
+        "title": "Download the Lithium table",
+        "url": "https://ams02.space/sites/default/files/publication/201801/table-smi-li.csv"
+      },
+      {
+        "title": "Download the Beryllium table",
+        "url": "https://ams02.space/sites/default/files/publication/201801/table-smii-be.csv"
+      },
+      {
+        "title": "Download the Boron table",
+        "url": "https://ams02.space/sites/default/files/publication/201801/table-smiii-b.csv"
+      },
+      {
+        "title": "Download the Li/C table",
+        "url": "https://ams02.space/sites/default/files/publication/201801/table-smiv-lic.csv"
+      },
+      {
+        "title": "Download the Be/C table",
+        "url": "https://ams02.space/sites/default/files/publication/201801/table-smv-bec.csv"
+      },
+      {
+        "title": "Download the B/C table",
+        "url": "https://ams02.space/sites/default/files/publication/201801/table-smvi-bc.csv"
+      },
+      {
+        "title": "Download the Li/O table",
+        "url": "https://ams02.space/sites/default/files/publication/201801/table-smvii-lio.csv"
+      },
+      {
+        "title": "Download the Be/O table",
+        "url": "https://ams02.space/sites/default/files/publication/201801/table-smviii-beo.csv"
+      },
+      {
+        "title": "Download the B/O table",
+        "url": "https://ams02.space/sites/default/files/publication/201801/table-smix-bo.csv"
+      },
+      {
+        "title": "Download the Li/B table",
+        "url": "https://ams02.space/sites/default/files/publication/201801/table-smx-lib.csv"
+      },
+      {
+        "title": "Download the Be/B table",
+        "url": "https://ams02.space/sites/default/files/publication/201801/table-smxi-beb.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "ef153fabbd7322b8ede50fab3a6e146c",
+        "url": "https://inspirehep.net/files/ef153fabbd7322b8ede50fab3a6e146c",
+        "filename": "10.1103_PhysRevLett.120.021101.pdf",
+        "fulltext": true
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.119.251101",
+    "doi": "10.1103/PhysRevLett.119.251101",
+    "title": "Observation of the Identical Rigidity Dependence of He, C, and O Cosmic Rays at High Rigidities by the Alpha Magnetic Spectrometer on the International Space Station",
+    "year": 2017,
+    "published_date": "2017-12-18",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/201701",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1644260",
+    "venue": "Phys. Rev. Lett. 119 , 251101 (2017)",
+    "supplemental_links": [
+      {
+        "title": "heco-SM-3000-REV.pdf",
+        "url": "https://ams02.space/sites/default/files/2019-05/heco-SM-3000-REV.pdf"
+      },
+      {
+        "title": "Download the Helium table",
+        "url": "https://ams02.space/sites/default/files/publication/201701/table-smi-he.csv"
+      },
+      {
+        "title": "Download the Carbon table",
+        "url": "https://ams02.space/sites/default/files/publication/201701/table-smii-c.csv"
+      },
+      {
+        "title": "Download the Oxygen table",
+        "url": "https://ams02.space/sites/default/files/publication/201701/table-smiii-o.csv"
+      },
+      {
+        "title": "Download the He/O table",
+        "url": "https://ams02.space/sites/default/files/publication/201701/table-smiv-heo.csv"
+      },
+      {
+        "title": "Download the C/O table",
+        "url": "https://ams02.space/sites/default/files/publication/201701/table-smv-co.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "4d52ce2182c65ae717423c5aebfd5220",
+        "url": "https://inspirehep.net/files/4d52ce2182c65ae717423c5aebfd5220",
+        "filename": "10.1103_PhysRevLett.119.251101.pdf",
+        "fulltext": true
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.117.231102",
+    "doi": "10.1103/PhysRevLett.117.231102",
+    "title": "Precision Measurement of the Boron to Carbon Flux Ratio in Cosmic Rays from 1.9 GV to 2.6 TV with the Alpha Magnetic Spectrometer on the International Space Station",
+    "year": 2016,
+    "published_date": "2016-11-28",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/201602",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1501164",
+    "venue": "Phys. Rev. Lett. 117 , 231102 (2016)",
+    "supplemental_links": [
+      {
+        "title": "bc_2600-SM_Rev.pdf",
+        "url": "https://ams02.space/sites/default/files/2019-05/bc_2600-SM_Rev.pdf"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201602/table-smi.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201602/table-smii.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "e9c6322907bf26ec70288b8e3655346f",
+        "url": "https://inspirehep.net/files/e9c6322907bf26ec70288b8e3655346f",
+        "filename": "10.1103_PhysRevLett.117.231102.pdf",
+        "fulltext": true
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.117.091103",
+    "doi": "10.1103/PhysRevLett.117.091103",
+    "title": "Antiproton Flux, Antiproton-to-Proton Flux Ratio, and Properties of Elementary Particle Fluxes in Primary Cosmic Rays Measured with the Alpha Magnetic Spectrometer on the International Space Station",
+    "year": 2016,
+    "published_date": "2016-08-26",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/201601",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1484387",
+    "venue": "Phys. Rev. Lett. 117 , 091103 (2016)",
+    "supplemental_links": [
+      {
+        "title": "antiprotons-SM-REV.pdf",
+        "url": "https://ams02.space/sites/default/files/2019-05/antiprotons-SM-REV.pdf"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201601/table-smi.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201601/table-smii.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201601/table-smiii.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "54a3a0be8d67063649162b64b99184f8",
+        "url": "https://inspirehep.net/files/54a3a0be8d67063649162b64b99184f8",
+        "filename": "10.1103_PhysRevLett.117.091103.pdf",
+        "fulltext": true
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.115.211101",
+    "doi": "10.1103/PhysRevLett.115.211101",
+    "title": "Precision Measurement of the Helium Flux in Primary Cosmic Rays of Rigidities 1.9 GV to 3 TV with the Alpha Magnetic Spectrometer on the International Space Station",
+    "year": 2015,
+    "published_date": "2015-11-17",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/201502",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1405556",
+    "venue": "Phys. Rev. Lett. 115 , 211101 (2015)",
+    "supplemental_links": [
+      {
+        "title": "he_3000-SM.pdf",
+        "url": "https://ams02.space/sites/default/files/2019-05/he_3000-SM.pdf"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201502/table-ii.csv"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201502/table-i.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "7bdd0e215b0208577f82d119f6df6ba4",
+        "url": "https://inspirehep.net/files/7bdd0e215b0208577f82d119f6df6ba4",
+        "filename": "10.1103_PhysRevLett.115.211101.pdf",
+        "fulltext": true
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.114.171103",
+    "doi": "10.1103/PhysRevLett.114.171103",
+    "title": "Precision Measurement of the Proton Flux in Primary Cosmic Rays from Rigidity 1 GV to 1.8 TV with the Alpha Magnetic Spectrometer on the International Space Station",
+    "year": 2015,
+    "published_date": "2015-04-30",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/201501",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1365898",
+    "venue": "Phys. Rev. Lett. 114 , 171103 (2015)",
+    "supplemental_links": [
+      {
+        "title": "protons_1800-SM.pdf",
+        "url": "https://ams02.space/sites/default/files/2019-05/protons_1800-SM.pdf"
+      },
+      {
+        "title": "Download the  table",
+        "url": "https://ams02.space/sites/default/files/publication/201501/table-i.csv"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [
+      {
+        "key": "ed7f2f6d78e428e80538d56fdacd44b2",
+        "url": "https://inspirehep.net/files/ed7f2f6d78e428e80538d56fdacd44b2",
+        "filename": "10.1103_PhysRevLett.114.171103.pdf",
+        "fulltext": true
+      }
+    ],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.113.221102",
+    "doi": "10.1103/PhysRevLett.113.221102",
+    "title": "Precision Measurement of the (${\\rm e}^+$ + ${\\rm e}^−$) Flux in Primary Cosmic Rays from 0.5 GeV to 1 TeV with the Alpha Magnetic Spectrometer on the International Space Station",
+    "year": 2014,
+    "published_date": "2014-11-26",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/201403",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1331153",
+    "venue": "Phys. Rev. Lett. 113 , 221102 (2014)",
+    "supplemental_links": [],
+    "arxiv_id": "",
+    "pdf_candidates": [],
+    "metadata_urls": []
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.113.121102",
+    "doi": "10.1103/PhysRevLett.113.121102",
+    "title": "Electron and Positron Fluxes in Primary Cosmic Rays Measured with the Alpha Magnetic Spectrometer on the International Space Station",
+    "year": 2014,
+    "published_date": "2014-09-18",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/201402",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1317848",
+    "venue": "Phys. Rev. Lett. 113 , 121102 (2014)",
+    "supplemental_links": [],
+    "arxiv_id": "",
+    "pdf_candidates": [],
+    "metadata_urls": [
+      {
+        "value": "http://www.interactions.org/cms/?pid=1034119",
+        "description": "Interactions.org article"
+      }
+    ]
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.113.121101",
+    "doi": "10.1103/PhysRevLett.113.121101",
+    "title": "High Statistics Measurement of the Positron Fraction in Primary Cosmic Rays of 0.5 – 500 GeV with the Alpha Magnetic Spectrometer on the International Space Station",
+    "year": 2014,
+    "published_date": "2014-09-18",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/201401",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1317847",
+    "venue": "Phys. Rev. Lett. 113 , 121101 (2014)",
+    "supplemental_links": [],
+    "arxiv_id": "",
+    "pdf_candidates": [],
+    "metadata_urls": [
+      {
+        "value": "http://news.discovery.com/space/mystery-signal-could-be-dark-matter-hint-in-iss-detector-140918.htm",
+        "description": "Discovery.com article"
+      },
+      {
+        "value": "http://www.symmetrymagazine.org/article/september-2014/pursuit-of-dark-matter-progresses-at-ams",
+        "description": "Symmetry Magazine article"
+      },
+      {
+        "value": "http://www.interactions.org/cms/?pid=1034119",
+        "description": "Interactions.org article"
+      }
+    ]
+  },
+  {
+    "paper_id": "doi:10.1103/PhysRevLett.110.141102",
+    "doi": "10.1103/PhysRevLett.110.141102",
+    "title": "First Result from the Alpha Magnetic Spectrometer on the International Space Station: Precision Measurement of the Positron Fraction in Primary Cosmic Rays of 0.5–350 GeV",
+    "year": 2013,
+    "published_date": "2013-04-03",
+    "assigned_domain": "Physics",
+    "url": "https://ams02.space/publications/201301",
+    "source_url": "https://ams02.space/publications",
+    "inspire_id": "1227034",
+    "venue": "Phys. Rev. Lett. 110 , 141102 (2013)",
+    "supplemental_links": [
+      {
+        "title": "positron-fraction-05-350-Sup.pdf",
+        "url": "https://ams02.space/sites/default/files/2019-03/positron-fraction-05-350-Sup.pdf"
+      }
+    ],
+    "arxiv_id": "",
+    "pdf_candidates": [],
+    "metadata_urls": [
+      {
+        "value": "http://www.interactions.org/cms/?pid=1032740",
+        "description": "Interactions.org article"
+      },
+      {
+        "value": "http://www.symmetrymagazine.org/article/april-2013/ams-tiptoes-toward-answer-to-dark-matter-question",
+        "description": "Symmetry Magazine article"
+      },
+      {
+        "value": "http://press.web.cern.ch/backgrounders/first-result-ams-experiment",
+        "description": "Press Release"
+      }
+    ]
+  }
+]

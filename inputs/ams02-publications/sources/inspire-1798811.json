@@ -1,0 +1,6632 @@
+{
+  "updated": "2025-11-20T21:24:01.173292+00:00",
+  "created": "2020-06-02T00:00:00+00:00",
+  "uuid": "de671fea-8d89-413d-857b-b934202747f0",
+  "links": {
+    "bibtex": "https://inspirehep.net/api/literature/1798811?format=bibtex",
+    "latex-eu": "https://inspirehep.net/api/literature/1798811?format=latex-eu",
+    "latex-us": "https://inspirehep.net/api/literature/1798811?format=latex-us",
+    "json": "https://inspirehep.net/api/literature/1798811?format=json",
+    "json-expanded": "https://inspirehep.net/api/literature/1798811?format=json-expanded",
+    "cv": "https://inspirehep.net/api/literature/1798811?format=cv",
+    "citations": "https://inspirehep.net/api/literature/?q=refersto%3Arecid%3A1798811"
+  },
+  "revision_id": 107,
+  "metadata": {
+    "publication_info": [
+      {
+        "year": 2020,
+        "artid": "211102",
+        "journal_issue": "21",
+        "journal_title": "Phys.Rev.Lett.",
+        "journal_record": {
+          "$ref": "https://inspirehep.net/api/journals/1214495"
+        },
+        "journal_volume": "124"
+      }
+    ],
+    "citation_count_without_self_citations": 84,
+    "citation_count": 141,
+    "documents": [
+      {
+        "key": "9c450194994b132c3e0d4c0cddc6dd23",
+        "url": "https://inspirehep.net/files/9c450194994b132c3e0d4c0cddc6dd23",
+        "filename": "10.1103_PhysRevLett.124.211102.pdf",
+        "description": "Fulltext from Publisher"
+      }
+    ],
+    "core": true,
+    "dois": [
+      {
+        "value": "10.1103/PhysRevLett.124.211102",
+        "source": "APS"
+      }
+    ],
+    "titles": [
+      {
+        "title": "Properties of Neon, Magnesium, and Silicon Primary Cosmic Rays Results from the Alpha Magnetic Spectrometer",
+        "source": "APS"
+      }
+    ],
+    "$schema": "https://inspirehep.net/schemas/records/hep.json",
+    "authors": [
+      {
+        "uuid": "6d04f45d-38e0-4fbd-ba7c-5056c38c3b32",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1026157"
+        },
+        "full_name": "Aguilar, M.",
+        "affiliations": [
+          {
+            "value": "Madrid, CIEMAT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/905312"
+            }
+          }
+        ],
+        "signature_block": "AGALARm",
+        "raw_affiliations": [
+          {
+            "value": "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) , 28040 Madrid, Spain"
+          }
+        ]
+      },
+      {
+        "uuid": "02677956-fc1a-4fb1-96a1-63d26c5c8757",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2431727"
+        },
+        "full_name": "Ali Cavasonza, L.",
+        "affiliations": [
+          {
+            "value": "Aachen, Tech. Hochsch.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902624"
+            }
+          }
+        ],
+        "signature_block": "CAVASANSl",
+        "raw_affiliations": [
+          {
+            "value": "I. Physics Institute and JARA-FAME, RWTH Aachen University , 52056 Aachen, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "4fe5d20d-7c16-4216-a1dc-bb0888e0ad38",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1018508"
+        },
+        "full_name": "Ambrosi, G.",
+        "affiliations": [
+          {
+            "value": "INFN, Perugia",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904996"
+            }
+          }
+        ],
+        "signature_block": "ANBRASg",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Perugia , 06100 Perugia, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "c857f174-dd2d-4c6a-97b4-9836e782305e",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1511368"
+        },
+        "full_name": "Arruda, L.",
+        "affiliations": [
+          {
+            "value": "LIP, Lisbon",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/905303"
+            }
+          },
+          {
+            "value": "Lisbon, CFTP",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/911028"
+            }
+          }
+        ],
+        "signature_block": "ARADl",
+        "raw_affiliations": [
+          {
+            "value": "Laboratório de Instrumentação e Física Experimental de Partículas (LIP) , 1649-003 Lisboa, Portugal"
+          }
+        ]
+      },
+      {
+        "uuid": "36a4b450-98ff-4fc4-a2e0-03166cea90f2",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879227"
+        },
+        "full_name": "Attig, N.",
+        "affiliations": [
+          {
+            "value": "IAS, Julich",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/911932"
+            }
+          },
+          {
+            "value": "JCHP, Julich",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/911539"
+            }
+          }
+        ],
+        "signature_block": "ATAGn",
+        "raw_affiliations": [
+          {
+            "value": "Jülich Supercomputing Centre and JARA-FAME , Research Centre Jülich 52425 Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "2c0c60b7-82c4-4bd0-a3d7-a79e4a674c5f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1017419"
+        },
+        "full_name": "Barao, F.",
+        "affiliations": [
+          {
+            "value": "LIP, Lisbon",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/905303"
+            }
+          },
+          {
+            "value": "Lisbon, CFTP",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/911028"
+            }
+          }
+        ],
+        "signature_block": "BARf",
+        "raw_affiliations": [
+          {
+            "value": "Laboratório de Instrumentação e Física Experimental de Partículas (LIP) , 1649-003 Lisboa, Portugal"
+          }
+        ]
+      },
+      {
+        "uuid": "022067ec-4437-4d96-80f9-8665356b79ff",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1017260"
+        },
+        "full_name": "Barrin, L.",
+        "affiliations": [
+          {
+            "value": "CERN",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902725"
+            }
+          }
+        ],
+        "signature_block": "BARANl",
+        "raw_affiliations": [
+          {
+            "value": "European Organization for Nuclear Research (CERN) , 1211 Geneva 23, Switzerland"
+          }
+        ]
+      },
+      {
+        "uuid": "d3328973-42e7-45ae-b2dd-0a290c82f6c9",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1062220"
+        },
+        "full_name": "Bartoloni, A.",
+        "affiliations": [
+          {
+            "value": "INFN, Rome",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902887"
+            }
+          }
+        ],
+        "signature_block": "BARTALANa",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Roma 1 , 00185 Roma, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "c152eef9-7322-4de4-84a9-a6d4dd77bbad",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1064439"
+        },
+        "full_name": "Başeğmez-du Pree, S.",
+        "affiliations": [
+          {
+            "value": "Kapteyn Astron. Inst., Groningen",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904916"
+            }
+          }
+        ],
+        "signature_block": "PRYs",
+        "raw_affiliations": [
+          {
+            "value": "Kapteyn Astronomical Institute, University of Groningen , 9700 AV Groningen, Netherlands"
+          }
+        ]
+      },
+      {
+        "uuid": "09260101-7e17-477b-871f-89683fa91d48",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1017123"
+        },
+        "full_name": "Battiston, R.",
+        "affiliations": [
+          {
+            "value": "TIFPA-INFN, Trento",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1333919"
+            }
+          },
+          {
+            "value": "Trento U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903286"
+            }
+          }
+        ],
+        "signature_block": "BATASTANr",
+        "raw_affiliations": [
+          {
+            "value": "INFN TIFPA , 38123 Povo, Trento, Italy"
+          },
+          {
+            "value": "Università di Trento , 38123 Povo, Trento, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "88627db2-e2fc-4de1-bb73-2e07974efe2c",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1272995"
+        },
+        "full_name": "Becker, U.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "BACARu",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "bbbd0329-06cf-4f18-a641-612a7c6301b6",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879228"
+        },
+        "full_name": "Behlmann, M.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "BALNANm",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "63e659e0-ab30-44bc-b896-e50e2defb566",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2220584"
+        },
+        "full_name": "Beischer, B.",
+        "affiliations": [
+          {
+            "value": "Aachen, Tech. Hochsch.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902624"
+            }
+          }
+        ],
+        "signature_block": "BASARb",
+        "raw_affiliations": [
+          {
+            "value": "I. Physics Institute and JARA-FAME, RWTH Aachen University , 52056 Aachen, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "92655522-b3b2-4b48-9b21-259a161ce390",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1016693"
+        },
+        "full_name": "Berdugo, J.",
+        "affiliations": [
+          {
+            "value": "Madrid, CIEMAT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/905312"
+            }
+          }
+        ],
+        "signature_block": "BARDAGj",
+        "raw_affiliations": [
+          {
+            "value": "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) , 28040 Madrid, Spain"
+          }
+        ]
+      },
+      {
+        "uuid": "27ce4417-b609-4219-8cdc-791e6dec465f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1016515"
+        },
+        "full_name": "Bertucci, B.",
+        "affiliations": [
+          {
+            "value": "INFN, Perugia",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904996"
+            }
+          },
+          {
+            "value": "Perugia U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904144"
+            }
+          }
+        ],
+        "signature_block": "BARTACb",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Perugia , 06100 Perugia, Italy"
+          },
+          {
+            "value": "Università di Perugia , 06100 Perugia, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "d16f1024-f35e-428d-9ab9-b44cbc57d3d0",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2250221"
+        },
+        "full_name": "Bindi, V.",
+        "affiliations": [
+          {
+            "value": "Hawaii U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902838"
+            }
+          }
+        ],
+        "signature_block": "BANDv",
+        "raw_affiliations": [
+          {
+            "value": "Physics and Astronomy Department, University of Hawaii , Honolulu, Hawaii 96822, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "42a6e01b-791a-4e26-9213-dc4323431850",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1016012"
+        },
+        "full_name": "de Boer, W.",
+        "affiliations": [
+          {
+            "value": "KIT, Karlsruhe, ETP",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1693600"
+            }
+          }
+        ],
+        "signature_block": "BARw",
+        "raw_affiliations": [
+          {
+            "value": "Institut für Experimentelle Teilchenphysik, Karlsruhe Institute of Technology (KIT) , 76131 Karlsruhe, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "f72251f7-37ed-47f3-aca5-92ac341be3d4",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879231"
+        },
+        "full_name": "Bollweg, K.",
+        "affiliations": [
+          {
+            "value": "NASA, Houston",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903051"
+            }
+          }
+        ],
+        "signature_block": "BALWAGk",
+        "raw_affiliations": [
+          {
+            "value": "National Aeronautics and Space Administration Johnson Space Center (JSC) , Houston, Texas 77058, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "70cfec76-d105-4659-b27d-c00e64bbf7ee",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1015771"
+        },
+        "full_name": "Borgia, B.",
+        "affiliations": [
+          {
+            "value": "INFN, Rome",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902887"
+            }
+          },
+          {
+            "value": "U. Rome La Sapienza (main)",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/945357"
+            }
+          }
+        ],
+        "signature_block": "BARGb",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Roma 1 , 00185 Roma, Italy"
+          },
+          {
+            "value": "Università di Roma La Sapienza , 00185 Roma, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "7ad1ec33-3533-427a-8af7-9dfd4b4e8c03",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1933104"
+        },
+        "full_name": "Boschini, M.J.",
+        "affiliations": [
+          {
+            "value": "INFN, Milan Bicocca",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/909939"
+            }
+          }
+        ],
+        "signature_block": "BASANm",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Milano–Bicocca , 20126 Milano, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "a52b49b9-0a76-467e-8d1a-08dfe19a1b69",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1015594"
+        },
+        "full_name": "Bourquin, M.",
+        "affiliations": [
+          {
+            "value": "Geneva U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902813"
+            }
+          }
+        ],
+        "signature_block": "BARGANm",
+        "raw_affiliations": [
+          {
+            "value": "DPNC, Université de Genève , 1211 Genève 4, Switzerland"
+          }
+        ]
+      },
+      {
+        "uuid": "6c227b28-8ef6-46c6-86c6-43dc27a4a6a3",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2040505"
+        },
+        "full_name": "Bueno, E.F.",
+        "affiliations": [
+          {
+            "value": "Kapteyn Astron. Inst., Groningen",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904916"
+            }
+          }
+        ],
+        "signature_block": "BANe",
+        "curated_relation": true,
+        "raw_affiliations": [
+          {
+            "value": "Kapteyn Astronomical Institute, University of Groningen , 9700 AV Groningen, Netherlands"
+          }
+        ]
+      },
+      {
+        "uuid": "05e93478-7721-44dc-ae12-73ce4a00fafe",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1014956"
+        },
+        "full_name": "Burger, J.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "BARGARj",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "65342cf2-9449-44a4-8040-f3bdd06bbad1",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2015038"
+        },
+        "full_name": "Burger, W.J.",
+        "affiliations": [
+          {
+            "value": "TIFPA-INFN, Trento",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1333919"
+            }
+          }
+        ],
+        "signature_block": "BARGARw",
+        "raw_affiliations": [
+          {
+            "value": "INFN TIFPA , 38123 Povo, Trento, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "b7d9cf70-47e0-4ba5-b698-bb0bb876db67",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879235"
+        },
+        "full_name": "Burmeister, S.",
+        "affiliations": [
+          {
+            "value": "Kiel U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902924"
+            }
+          }
+        ],
+        "signature_block": "BARNASTARs",
+        "raw_affiliations": [
+          {
+            "value": "Institut für Experimentelle und Angewandte Physik, Christian-Alberts-Universität zu Kiel , 24118 Kiel, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "8d018fb4-1394-4d05-a204-dd850bf118aa",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1014766"
+        },
+        "full_name": "Cai, X.D.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "Cx",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "bc424bc0-4834-4ae4-928b-b5a107047277",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1997593"
+        },
+        "full_name": "Capell, M.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "CAPALm",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "67c30577-e17a-4651-ad0b-3475a6ee15d1",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1014356"
+        },
+        "full_name": "Casaus, J.",
+        "affiliations": [
+          {
+            "value": "Madrid, CIEMAT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/905312"
+            }
+          }
+        ],
+        "signature_block": "CASj",
+        "raw_affiliations": [
+          {
+            "value": "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) , 28040 Madrid, Spain"
+          }
+        ]
+      },
+      {
+        "uuid": "b36e8568-2ccb-4aad-b4f4-a26ca6c75cf1",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1014304"
+        },
+        "full_name": "Castellini, G.",
+        "affiliations": [
+          {
+            "value": "INOA, Florence",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/910286"
+            }
+          }
+        ],
+        "signature_block": "CASTALANg",
+        "raw_affiliations": [
+          {
+            "value": "CNR–IROE , 50125 Firenze, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "8723667a-8dd0-45aa-b7c9-d1e78348436e",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1059554"
+        },
+        "full_name": "Cervelli, F.",
+        "affiliations": [
+          {
+            "value": "INFN, Pisa",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902886"
+            }
+          }
+        ],
+        "signature_block": "CARVALf",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Pisa , 56100 Pisa, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "44c0fef3-cba8-463b-ac08-02f143501ded",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1014040"
+        },
+        "full_name": "Chang, Y.H.",
+        "affiliations": [
+          {
+            "value": "Taiwan, Inst. Phys.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904413"
+            }
+          },
+          {
+            "value": "Taiwan, Natl. Central U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903838"
+            }
+          }
+        ],
+        "signature_block": "CANGy",
+        "raw_affiliations": [
+          {
+            "value": "Institute of Physics , Academia Sinica, Nankang, Taipei 11529, Taiwan"
+          },
+          {
+            "value": "Physics Department and Center for High Energy and High Field Physics, National Central University (NCU) , Tao Yuan 32054, Taiwan"
+          }
+        ]
+      },
+      {
+        "uuid": "b13b12ef-309a-4bd8-bba0-853fdb95bfb0",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1911316"
+        },
+        "full_name": "Chen, G.M.",
+        "affiliations": [
+          {
+            "value": "Beijing, Inst. High Energy Phys.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903123"
+            }
+          },
+          {
+            "value": "Beijing, GUCAS",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904611"
+            }
+          }
+        ],
+        "signature_block": "CANg",
+        "raw_affiliations": [
+          {
+            "value": "Institute of High Energy Physics (IHEP), Chinese Academy of Sciences , Beijing 100049, China"
+          },
+          {
+            "value": "University of Chinese Academy of Sciences (UCAS), Beijing 100049, China"
+          }
+        ]
+      },
+      {
+        "uuid": "6c06cbbd-7597-4024-b299-053885abf683",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1908887"
+        },
+        "full_name": "Chen, H.S.",
+        "affiliations": [
+          {
+            "value": "Beijing, Inst. High Energy Phys.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903123"
+            }
+          },
+          {
+            "value": "Beijing, GUCAS",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904611"
+            }
+          }
+        ],
+        "signature_block": "CANh",
+        "raw_affiliations": [
+          {
+            "value": "Institute of High Energy Physics (IHEP), Chinese Academy of Sciences , Beijing 100049, China"
+          },
+          {
+            "value": "University of Chinese Academy of Sciences (UCAS), Beijing 100049, China"
+          }
+        ]
+      },
+      {
+        "uuid": "af832857-3d50-4a9d-a1bc-356d279e7078",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1735761"
+        },
+        "full_name": "Chen, Y.",
+        "affiliations": [
+          {
+            "value": "Geneva U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902813"
+            }
+          }
+        ],
+        "signature_block": "CANy",
+        "raw_affiliations": [
+          {
+            "value": "DPNC, Université de Genève , 1211 Genève 4, Switzerland"
+          }
+        ]
+      },
+      {
+        "uuid": "2d562035-5acf-4ec0-8ddd-78fa9f6c4491",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1333620"
+        },
+        "full_name": "Cheng, L.",
+        "affiliations": [
+          {
+            "value": "Shandong U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904187"
+            }
+          }
+        ],
+        "signature_block": "CANGl",
+        "raw_affiliations": [
+          {
+            "value": "Shandong Institute of Advanced Technology (SDIAT) , Jinan, Shandong 250100, China"
+          }
+        ]
+      },
+      {
+        "uuid": "ab0ff7ea-53b1-4d29-b943-ccc57eaed49b",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879239"
+        },
+        "full_name": "Chou, H.Y.",
+        "affiliations": [
+          {
+            "value": "Taiwan, Natl. Central U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903838"
+            }
+          }
+        ],
+        "signature_block": "Ch",
+        "raw_affiliations": [
+          {
+            "value": "Physics Department and Center for High Energy and High Field Physics, National Central University (NCU) , Tao Yuan 32054, Taiwan"
+          }
+        ]
+      },
+      {
+        "uuid": "33571cf1-b20c-4be9-beb7-4fa89b5348ef",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1013599"
+        },
+        "full_name": "Chouridou, S.",
+        "affiliations": [
+          {
+            "value": "Aachen, Tech. Hochsch.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902624"
+            }
+          }
+        ],
+        "signature_block": "CARADs",
+        "raw_affiliations": [
+          {
+            "value": "I. Physics Institute and JARA-FAME, RWTH Aachen University , 52056 Aachen, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "af38b584-dff3-4074-af78-312b761cf1ef",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1013598"
+        },
+        "full_name": "Choutko, V.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "CATCv",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "69ad9d9f-f16e-4b70-b226-fe4ac944d47f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1013526"
+        },
+        "full_name": "Chung, C.H.",
+        "affiliations": [
+          {
+            "value": "Aachen, Tech. Hochsch.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902624"
+            }
+          }
+        ],
+        "signature_block": "CANGc",
+        "raw_affiliations": [
+          {
+            "value": "I. Physics Institute and JARA-FAME, RWTH Aachen University , 52056 Aachen, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "572f5ddd-6e36-462f-bb2b-ef9cb0e77cb6",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1013426"
+        },
+        "full_name": "Clark, C.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          },
+          {
+            "value": "NASA, Houston",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903051"
+            }
+          }
+        ],
+        "signature_block": "CLARCc",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          },
+          {
+            "value": "National Aeronautics and Space Administration Johnson Space Center (JSC) , Houston, Texas 77058, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "326c83ac-1d02-4141-91d7-52e5b26650ac",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1013284"
+        },
+        "full_name": "Coignet, G.",
+        "affiliations": [
+          {
+            "value": "Annecy, LAPP",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903421"
+            }
+          }
+        ],
+        "signature_block": "CAGNATg",
+        "raw_affiliations": [
+          {
+            "value": "Univ. Grenoble Alpes , Univ. Savoie Mont Blanc, CNRS, LAPP-IN2P3, 74000 Annecy, France"
+          }
+        ]
+      },
+      {
+        "uuid": "856b727c-5ef3-4cf1-a0f4-0d124998d902",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2220663"
+        },
+        "full_name": "Consolandi, C.",
+        "affiliations": [
+          {
+            "value": "Hawaii U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902838"
+            }
+          }
+        ],
+        "signature_block": "CANSALANDc",
+        "raw_affiliations": [
+          {
+            "value": "Physics and Astronomy Department, University of Hawaii , Honolulu, Hawaii 96822, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "211d1e93-f50b-403c-8a57-ad3828cbc16d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1013119"
+        },
+        "full_name": "Contin, A.",
+        "affiliations": [
+          {
+            "value": "INFN, Bologna",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902878"
+            }
+          },
+          {
+            "value": "U. Bologna (main)",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/929417"
+            }
+          }
+        ],
+        "signature_block": "CANTANa",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Bologna , 40126 Bologna, Italy"
+          },
+          {
+            "value": "Università di Bologna , 40126 Bologna, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "ed08630b-04f5-4d31-87fd-ca59a4c765f6",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1270306"
+        },
+        "full_name": "Corti, C.",
+        "affiliations": [
+          {
+            "value": "Hawaii U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902838"
+            }
+          }
+        ],
+        "signature_block": "CARTc",
+        "raw_affiliations": [
+          {
+            "value": "Physics and Astronomy Department, University of Hawaii , Honolulu, Hawaii 96822, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "1954072c-d040-481a-b771-b99ab113945d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1913049"
+        },
+        "full_name": "Cui, Z.",
+        "affiliations": [
+          {
+            "value": "Shandong U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904187"
+            }
+          }
+        ],
+        "signature_block": "Cz",
+        "raw_affiliations": [
+          {
+            "value": "Shandong Institute of Advanced Technology (SDIAT) , Jinan, Shandong 250100, China"
+          },
+          {
+            "value": "Shandong University (SDU) , Jinan, Shandong 250100, China"
+          }
+        ]
+      },
+      {
+        "uuid": "875c019c-a9e6-43ff-a3af-a61272fdd204",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879242"
+        },
+        "full_name": "Dadzie, K.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "DADSYk",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "4fadd342-edf7-4276-84f6-20e612bea3e0",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2197199"
+        },
+        "full_name": "Dai, Y.M.",
+        "affiliations": [
+          {
+            "value": "Inst. Electr. Engin., Beijing",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/922851"
+            }
+          }
+        ],
+        "signature_block": "Dy",
+        "raw_affiliations": [
+          {
+            "value": "Institute of Electrical Engineering (IEE), Chinese Academy of Sciences , Beijing 100190, China"
+          }
+        ]
+      },
+      {
+        "uuid": "571fee94-f320-47b1-b8d9-db0ff4b3de4e",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1058099"
+        },
+        "full_name": "Delgado, C.",
+        "affiliations": [
+          {
+            "value": "Madrid, CIEMAT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/905312"
+            }
+          }
+        ],
+        "signature_block": "DALGADc",
+        "raw_affiliations": [
+          {
+            "value": "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) , 28040 Madrid, Spain"
+          }
+        ]
+      },
+      {
+        "uuid": "6c2e44fd-971d-435e-9d43-4b670bce6d69",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1415227"
+        },
+        "full_name": "Della Torre, S.",
+        "affiliations": [
+          {
+            "value": "INFN, Milan Bicocca",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/909939"
+            }
+          }
+        ],
+        "signature_block": "TARs",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Milano–Bicocca , 20126 Milano, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "a8d11a42-8e85-49a8-bd8f-9715a86fad50",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879243"
+        },
+        "full_name": "Demirköz, M.B.",
+        "affiliations": [
+          {
+            "value": "Middle East Tech. U., Ankara",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903008"
+            }
+          }
+        ],
+        "signature_block": "DANARCm",
+        "raw_affiliations": [
+          {
+            "value": "Department of Physics, Middle East Technical University (METU) , 06800 Ankara, Turkey"
+          }
+        ]
+      },
+      {
+        "uuid": "e6d5e8a1-a372-4d09-9842-c725b5147cb4",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1026161"
+        },
+        "full_name": "Derome, L.",
+        "affiliations": [
+          {
+            "value": "LPSC, Grenoble",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902828"
+            }
+          }
+        ],
+        "signature_block": "DARANl",
+        "raw_affiliations": [
+          {
+            "value": "Univ. Grenoble Alpes , CNRS, Grenoble INP, LPSC-IN2P3, 38000 Grenoble, France"
+          }
+        ]
+      },
+      {
+        "uuid": "b1061cea-8da0-4b33-9f67-8eb39eefd91f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1031268"
+        },
+        "full_name": "Di Falco, S.",
+        "affiliations": [
+          {
+            "value": "INFN, Pisa",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902886"
+            }
+          }
+        ],
+        "signature_block": "FALCs",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Pisa , 56100 Pisa, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "667956f8-59df-4fe5-bfb2-edfd4fdcea08",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1053472"
+        },
+        "full_name": "Di Felice, V.",
+        "affiliations": [
+          {
+            "value": "INFN, Rome2",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907691"
+            }
+          }
+        ],
+        "signature_block": "FALACv",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Roma Tor Vergata , 00133 Roma, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "a1e1de7f-d3e4-4ff6-bf71-8dafbc8cb9f6",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1932112"
+        },
+        "full_name": "Díaz, C.",
+        "affiliations": [
+          {
+            "value": "Madrid, CIEMAT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/905312"
+            }
+          }
+        ],
+        "signature_block": "Dc",
+        "raw_affiliations": [
+          {
+            "value": "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) , 28040 Madrid, Spain"
+          }
+        ]
+      },
+      {
+        "uuid": "45f61c0a-837a-48b9-9857-367e99a6971c",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1423642"
+        },
+        "full_name": "Dimiccoli, F.",
+        "affiliations": [
+          {
+            "value": "TIFPA-INFN, Trento",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1333919"
+            }
+          }
+        ],
+        "signature_block": "DANACALf",
+        "raw_affiliations": [
+          {
+            "value": "INFN TIFPA , 38123 Povo, Trento, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "9880f5cb-719f-4dd8-95c0-6a3a49e329a1",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1046260"
+        },
+        "full_name": "von Doetinchem, P.",
+        "affiliations": [
+          {
+            "value": "Hawaii U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902838"
+            }
+          }
+        ],
+        "signature_block": "DATANCANp",
+        "raw_affiliations": [
+          {
+            "value": "Physics and Astronomy Department, University of Hawaii , Honolulu, Hawaii 96822, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "b9f9837a-6c74-4a98-8c43-d93d49dc4f10",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1960435"
+        },
+        "full_name": "Dong, F.",
+        "affiliations": [
+          {
+            "value": "Southeast U., Nanjing",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/908605"
+            }
+          }
+        ],
+        "signature_block": "DANGf",
+        "raw_affiliations": [
+          {
+            "value": "Southeast University (SEU) , Nanjing 210096, China"
+          }
+        ]
+      },
+      {
+        "uuid": "5d1a5afa-2470-4040-8663-dd8c73013546",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1423740"
+        },
+        "full_name": "Donnini, F.",
+        "affiliations": [
+          {
+            "value": "INFN, Rome2",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907691"
+            }
+          }
+        ],
+        "signature_block": "DANANf",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Roma Tor Vergata , 00133 Roma, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "df723a8a-29d1-467a-8a76-3d43b1ebada4",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1207367"
+        },
+        "full_name": "Duranti, M.",
+        "affiliations": [
+          {
+            "value": "INFN, Perugia",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904996"
+            }
+          }
+        ],
+        "signature_block": "DARANTm",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Perugia , 06100 Perugia, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "2e3b39a7-175e-450d-a4b6-3734ac0099e8",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1010956"
+        },
+        "full_name": "Egorov, A.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "EGARAVa",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "6b3e40be-728e-4bd1-9ea9-a49a5e1d02fa",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1074030"
+        },
+        "full_name": "Eline, A.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "ELANa",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "9c2b3f5a-7edd-4ede-8724-8771b051e04b",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1676789"
+        },
+        "full_name": "Feng, J.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "FANGj",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "e154be5d-2c9f-4751-b7b6-c64bf966ba85",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1010041"
+        },
+        "full_name": "Fiandrini, E.",
+        "affiliations": [
+          {
+            "value": "INFN, Perugia",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904996"
+            }
+          },
+          {
+            "value": "Perugia U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904144"
+            }
+          }
+        ],
+        "signature_block": "FANDRANe",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Perugia , 06100 Perugia, Italy"
+          },
+          {
+            "value": "Università di Perugia , 06100 Perugia, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "758bb7bc-df95-4d8a-b2da-54a6ef31bc2d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1009891"
+        },
+        "full_name": "Fisher, P.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "FASARp",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "ee436112-d59a-457b-832f-33bae9ffd802",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1288226"
+        },
+        "full_name": "Formato, V.",
+        "affiliations": [
+          {
+            "value": "INFN, Rome2",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907691"
+            }
+          }
+        ],
+        "signature_block": "FARNATv",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Roma Tor Vergata , 00133 Roma, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "5b604b96-5dd3-433d-a0ba-75fb8b2fc5da",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879246"
+        },
+        "full_name": "Freeman, C.",
+        "affiliations": [
+          {
+            "value": "Hawaii U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902838"
+            }
+          }
+        ],
+        "signature_block": "FRANANc",
+        "raw_affiliations": [
+          {
+            "value": "Physics and Astronomy Department, University of Hawaii , Honolulu, Hawaii 96822, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "7478c473-fff2-4c3e-91ad-df14bff459bb",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2215517"
+        },
+        "full_name": "Galaktionov, Y.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "GALACTANAVy",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "23f14c48-7607-432a-9c88-5c574ca5aae1",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879247"
+        },
+        "full_name": "Gámez, C.",
+        "affiliations": [
+          {
+            "value": "Madrid, CIEMAT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/905312"
+            }
+          }
+        ],
+        "signature_block": "GANc",
+        "raw_affiliations": [
+          {
+            "value": "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) , 28040 Madrid, Spain"
+          }
+        ]
+      },
+      {
+        "uuid": "cac8f57b-f1f4-41b9-baa5-949111493d24",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1026163"
+        },
+        "full_name": "García-López, R.J.",
+        "affiliations": [
+          {
+            "value": "Laguna U., Tenerife",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/905888"
+            }
+          },
+          {
+            "value": "IAC, La Laguna",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/910482"
+            }
+          }
+        ],
+        "signature_block": "LAPr",
+        "raw_affiliations": [
+          {
+            "value": "Instituto de Astrofísica de Canarias (IAC), 38205 La Laguna, and Departamento de Astrofísica, Universidad de La Laguna , 38206 La Laguna, Tenerife, Spain"
+          }
+        ]
+      },
+      {
+        "uuid": "8bcafbcf-841b-43b4-83ef-bb1c50790006",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1062197"
+        },
+        "full_name": "Gargiulo, C.",
+        "affiliations": [
+          {
+            "value": "CERN",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902725"
+            }
+          }
+        ],
+        "signature_block": "GARGALc",
+        "raw_affiliations": [
+          {
+            "value": "European Organization for Nuclear Research (CERN) , 1211 Geneva 23, Switzerland"
+          }
+        ]
+      },
+      {
+        "uuid": "a963af00-f2e1-4e77-b56f-e376f0895b2c",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1034690"
+        },
+        "full_name": "Gast, H.",
+        "affiliations": [
+          {
+            "value": "Aachen, Tech. Hochsch.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902624"
+            }
+          }
+        ],
+        "signature_block": "GASTh",
+        "raw_affiliations": [
+          {
+            "value": "I. Physics Institute and JARA-FAME, RWTH Aachen University , 52056 Aachen, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "a08dc055-5662-430a-9821-6e69b550b7bd",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1045710"
+        },
+        "full_name": "Gebauer, I.",
+        "affiliations": [
+          {
+            "value": "KIT, Karlsruhe, ETP",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1693600"
+            }
+          }
+        ],
+        "signature_block": "GABARi",
+        "raw_affiliations": [
+          {
+            "value": "Institut für Experimentelle Teilchenphysik, Karlsruhe Institute of Technology (KIT) , 76131 Karlsruhe, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "f5ffcec2-3140-4cc8-a5b4-c36fd26862de",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1423937"
+        },
+        "full_name": "Gervasi, M.",
+        "affiliations": [
+          {
+            "value": "INFN, Milan Bicocca",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/909939"
+            }
+          },
+          {
+            "value": "Milan Bicocca U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907960"
+            }
+          }
+        ],
+        "signature_block": "GARVASm",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Milano–Bicocca , 20126 Milano, Italy"
+          },
+          {
+            "value": "Università di Milano–Bicocca , 20126 Milano, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "4b452e01-1268-46e1-befe-4c2123efa423",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879248"
+        },
+        "full_name": "Giovacchini, F.",
+        "affiliations": [
+          {
+            "value": "Madrid, CIEMAT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/905312"
+            }
+          }
+        ],
+        "signature_block": "GAVACANf",
+        "raw_affiliations": [
+          {
+            "value": "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) , 28040 Madrid, Spain"
+          }
+        ]
+      },
+      {
+        "uuid": "9adbfbaf-101b-4587-8c4b-865c3d8fdf3a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879249"
+        },
+        "full_name": "Gómez-Coral, D.M.",
+        "affiliations": [
+          {
+            "value": "Hawaii U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902838"
+            }
+          }
+        ],
+        "signature_block": "GANd",
+        "raw_affiliations": [
+          {
+            "value": "Physics and Astronomy Department, University of Hawaii , Honolulu, Hawaii 96822, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "e986d36e-4711-4f6a-90b2-6c302b3fb44f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1065917"
+        },
+        "full_name": "Gong, J.",
+        "affiliations": [
+          {
+            "value": "Southeast U., Nanjing",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/908605"
+            }
+          }
+        ],
+        "signature_block": "GANGj",
+        "raw_affiliations": [
+          {
+            "value": "Southeast University (SEU) , Nanjing 210096, China"
+          }
+        ]
+      },
+      {
+        "uuid": "54b8b3e2-f9c8-4300-a8e4-55ed8a7a8751",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1007808"
+        },
+        "full_name": "Goy, C.",
+        "affiliations": [
+          {
+            "value": "Annecy, LAPP",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903421"
+            }
+          }
+        ],
+        "signature_block": "GYc",
+        "raw_affiliations": [
+          {
+            "value": "Univ. Grenoble Alpes , Univ. Savoie Mont Blanc, CNRS, LAPP-IN2P3, 74000 Annecy, France"
+          }
+        ]
+      },
+      {
+        "uuid": "939cc18c-bbf4-4a59-a74c-310f0dc902d6",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1007788"
+        },
+        "full_name": "Grabski, V.",
+        "affiliations": [
+          {
+            "value": "Mexico U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903003"
+            }
+          }
+        ],
+        "signature_block": "GRABSCv",
+        "raw_affiliations": [
+          {
+            "value": "Instituto de Física, Universidad Nacional Autónoma de México (UNAM) , Ciudad de México, 01000 Mexico"
+          }
+        ]
+      },
+      {
+        "uuid": "1a9859a5-5d70-4799-80f7-b45392ec026a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1259908"
+        },
+        "full_name": "Grandi, D.",
+        "affiliations": [
+          {
+            "value": "INFN, Milan Bicocca",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/909939"
+            }
+          },
+          {
+            "value": "Milan Bicocca U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907960"
+            }
+          }
+        ],
+        "signature_block": "GRANDd",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Milano–Bicocca , 20126 Milano, Italy"
+          },
+          {
+            "value": "Università di Milano–Bicocca , 20126 Milano, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "eb29ed04-f9ac-4504-92aa-c305e44ac9db",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1423826"
+        },
+        "full_name": "Graziani, M.",
+        "affiliations": [
+          {
+            "value": "INFN, Perugia",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904996"
+            }
+          },
+          {
+            "value": "Perugia U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904144"
+            }
+          }
+        ],
+        "signature_block": "GRASANm",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Perugia , 06100 Perugia, Italy"
+          },
+          {
+            "value": "Università di Perugia , 06100 Perugia, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "875d62ad-c765-4992-a356-04c87d516858",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2593170"
+        },
+        "full_name": "Guo, K.H.",
+        "affiliations": [
+          {
+            "value": "SYSU, Guangzhou",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1283410"
+            }
+          }
+        ],
+        "signature_block": "Gk",
+        "raw_affiliations": [
+          {
+            "value": "Sun Yat–Sen University (SYSU) , Guangzhou 510275, China"
+          }
+        ]
+      },
+      {
+        "uuid": "6ce06d74-4d97-49c2-aa3b-049da212e088",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1044269"
+        },
+        "full_name": "Haino, S.",
+        "affiliations": [
+          {
+            "value": "Taiwan, Inst. Phys.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904413"
+            }
+          }
+        ],
+        "signature_block": "HANs",
+        "raw_affiliations": [
+          {
+            "value": "Institute of Physics , Academia Sinica, Nankang, Taipei 11529, Taiwan"
+          }
+        ]
+      },
+      {
+        "uuid": "ce2d3df6-4594-42a9-8466-d071dae7c21c",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1084026"
+        },
+        "full_name": "Han, K.C.",
+        "affiliations": [
+          {
+            "value": "CSIST, Taiwan",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/908277"
+            }
+          }
+        ],
+        "signature_block": "HANk",
+        "raw_affiliations": [
+          {
+            "value": "National Chung–Shan Institute of Science and Technology (NCSIST) , Longtan, Tao Yuan 32546, Taiwan"
+          }
+        ]
+      },
+      {
+        "uuid": "1309ef06-18c2-4737-9ca0-e5d408cd3b90",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879250"
+        },
+        "full_name": "Hashmani, R.K.",
+        "affiliations": [
+          {
+            "value": "Middle East Tech. U., Ankara",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903008"
+            }
+          }
+        ],
+        "signature_block": "HASNANr",
+        "raw_affiliations": [
+          {
+            "value": "Department of Physics, Middle East Technical University (METU) , 06800 Ankara, Turkey"
+          }
+        ]
+      },
+      {
+        "uuid": "402b7d55-4c0a-4d78-92de-f15d72167727",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879251"
+        },
+        "full_name": "He, Z.H.",
+        "affiliations": [
+          {
+            "value": "SYSU, Guangzhou",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1283410"
+            }
+          }
+        ],
+        "signature_block": "Hz",
+        "raw_affiliations": [
+          {
+            "value": "Sun Yat–Sen University (SYSU) , Guangzhou 510275, China"
+          }
+        ]
+      },
+      {
+        "uuid": "3f097b3d-96d0-4cc4-afea-b5489e2758cb",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879252"
+        },
+        "full_name": "Heber, B.",
+        "affiliations": [
+          {
+            "value": "Kiel U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902924"
+            }
+          }
+        ],
+        "signature_block": "HABARb",
+        "raw_affiliations": [
+          {
+            "value": "Institut für Experimentelle und Angewandte Physik, Christian-Alberts-Universität zu Kiel , 24118 Kiel, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "dc4a92c8-0acf-4bcf-a578-23578e248e4e",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1026500"
+        },
+        "full_name": "Hsieh, T.H.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "HSt",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "64d77716-0e0a-4810-b399-efee0b2e741c",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1340885"
+        },
+        "full_name": "Hu, J.Y.",
+        "affiliations": [
+          {
+            "value": "Beijing, Inst. High Energy Phys.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903123"
+            }
+          },
+          {
+            "value": "Beijing, GUCAS",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904611"
+            }
+          }
+        ],
+        "signature_block": "Hj",
+        "raw_affiliations": [
+          {
+            "value": "Institute of High Energy Physics (IHEP), Chinese Academy of Sciences , Beijing 100049, China"
+          },
+          {
+            "value": "University of Chinese Academy of Sciences (UCAS), Beijing 100049, China"
+          }
+        ]
+      },
+      {
+        "uuid": "c87a7ce7-2168-440e-832a-8febaf67a456",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1894838"
+        },
+        "full_name": "Huang, Z.C.",
+        "affiliations": [
+          {
+            "value": "SYSU, Guangzhou",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1283410"
+            }
+          }
+        ],
+        "signature_block": "HANGz",
+        "raw_affiliations": [
+          {
+            "value": "Sun Yat–Sen University (SYSU) , Guangzhou 510275, China"
+          }
+        ]
+      },
+      {
+        "uuid": "b4e7b00f-0759-4736-ad59-f80d8c534e5c",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1021840"
+        },
+        "full_name": "Incagli, M.",
+        "affiliations": [
+          {
+            "value": "INFN, Pisa",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902886"
+            }
+          }
+        ],
+        "signature_block": "INCAGLm",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Pisa , 56100 Pisa, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "ce135b0c-be50-4447-aa01-5c3de9e0d687",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2094259"
+        },
+        "full_name": "Jang, W.Y.",
+        "affiliations": [
+          {
+            "value": "CHEP, Taegu",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/908315"
+            }
+          }
+        ],
+        "signature_block": "JANGw",
+        "raw_affiliations": [
+          {
+            "value": "CHEP, Kyungpook National University , 41566 Daegu, Korea"
+          }
+        ]
+      },
+      {
+        "uuid": "3c6aab16-4929-44b5-bf3f-8de4f63926a4",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1597953"
+        },
+        "full_name": "Jia, Yi",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "Jy",
+        "curated_relation": true,
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "adf0b319-5652-4994-a233-1587414de67e",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879254"
+        },
+        "full_name": "Jinchi, H.",
+        "affiliations": [
+          {
+            "value": "CSIST, Taiwan",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/908277"
+            }
+          }
+        ],
+        "signature_block": "JANCh",
+        "raw_affiliations": [
+          {
+            "value": "National Chung–Shan Institute of Science and Technology (NCSIST) , Longtan, Tao Yuan 32546, Taiwan"
+          }
+        ]
+      },
+      {
+        "uuid": "8ce0a91f-5f90-44f9-91da-d4bffd92eee7",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1048129"
+        },
+        "full_name": "Kanishev, K.",
+        "affiliations": [
+          {
+            "value": "TIFPA-INFN, Trento",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1333919"
+            }
+          }
+        ],
+        "signature_block": "CANASAFk",
+        "raw_affiliations": [
+          {
+            "value": "INFN TIFPA , 38123 Povo, Trento, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "3827b0db-63c5-4903-bf2b-5167e96fa29d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1839165"
+        },
+        "full_name": "Khiali, B.",
+        "affiliations": [
+          {
+            "value": "INFN, Rome2",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907691"
+            }
+          }
+        ],
+        "signature_block": "CALb",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Roma Tor Vergata , 00133 Roma, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "73898497-b4d6-4d86-b631-e1730ef33f5a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1002967"
+        },
+        "full_name": "Kim, G.N.",
+        "affiliations": [
+          {
+            "value": "CHEP, Taegu",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/908315"
+            }
+          }
+        ],
+        "signature_block": "CANg",
+        "raw_affiliations": [
+          {
+            "value": "CHEP, Kyungpook National University , 41566 Daegu, Korea"
+          }
+        ]
+      },
+      {
+        "uuid": "7bca3b4c-f396-4faf-bc3b-6fe5afba4693",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1002799"
+        },
+        "full_name": "Kirn, Th.",
+        "affiliations": [
+          {
+            "value": "Aachen, Tech. Hochsch.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902624"
+            }
+          }
+        ],
+        "signature_block": "CARNt",
+        "raw_affiliations": [
+          {
+            "value": "I. Physics Institute and JARA-FAME, RWTH Aachen University , 52056 Aachen, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "bfe41452-8e24-4fe0-b0c9-75c5cadd53ae",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1065096"
+        },
+        "full_name": "Konyushikhin, M.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "CANASACANm",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "705bdb97-7009-4a82-8dd7-20712d4b454c",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879255"
+        },
+        "full_name": "Kounina, O.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "CANANo",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "4c7aebe4-6cb6-4c5a-acb6-cfaa25e41de6",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1002036"
+        },
+        "full_name": "Kounine, A.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "CANANa",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "4f0dabd8-b047-4f8d-8304-78f95eb30095",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1997615"
+        },
+        "full_name": "Koutsenko, V.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "CATSANCv",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "ea737ba0-a79a-4d49-ac5e-c245d50b9665",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1032325"
+        },
+        "full_name": "Kuhlman, A.",
+        "affiliations": [
+          {
+            "value": "Hawaii U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902838"
+            }
+          }
+        ],
+        "signature_block": "CALNANa",
+        "raw_affiliations": [
+          {
+            "value": "Physics and Astronomy Department, University of Hawaii , Honolulu, Hawaii 96822, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "cb9b0d5b-9509-4a01-ac53-1ed4954acaa1",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879257"
+        },
+        "full_name": "Kulemzin, A.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "CALANSANa",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "246a9500-1423-4099-8d4c-271846a84b64",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1273965"
+        },
+        "full_name": "La Vacca, G.",
+        "affiliations": [
+          {
+            "value": "INFN, Milan Bicocca",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/909939"
+            }
+          },
+          {
+            "value": "Milan Bicocca U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907960"
+            }
+          }
+        ],
+        "signature_block": "VACg",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Milano–Bicocca , 20126 Milano, Italy"
+          },
+          {
+            "value": "Università di Milano–Bicocca , 20126 Milano, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "5f203c4d-e30d-4667-a52e-b9022f7a74c8",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1343712"
+        },
+        "full_name": "Laudi, E.",
+        "affiliations": [
+          {
+            "value": "CERN",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902725"
+            }
+          }
+        ],
+        "signature_block": "LADe",
+        "raw_affiliations": [
+          {
+            "value": "European Organization for Nuclear Research (CERN) , 1211 Geneva 23, Switzerland"
+          }
+        ]
+      },
+      {
+        "uuid": "c946d3d0-2e38-4760-b1a6-f4ba0a610828",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1000961"
+        },
+        "full_name": "Laurenti, G.",
+        "affiliations": [
+          {
+            "value": "INFN, Bologna",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902878"
+            }
+          }
+        ],
+        "signature_block": "LARANTg",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Bologna , 40126 Bologna, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "e29dfaea-6d71-4836-ae10-a420af883fbd",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1000886"
+        },
+        "full_name": "Lazzizzera, I.",
+        "affiliations": [
+          {
+            "value": "TIFPA-INFN, Trento",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1333919"
+            }
+          },
+          {
+            "value": "Trento U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903286"
+            }
+          }
+        ],
+        "signature_block": "LASASARi",
+        "raw_affiliations": [
+          {
+            "value": "INFN TIFPA , 38123 Povo, Trento, Italy"
+          },
+          {
+            "value": "Università di Trento , 38123 Povo, Trento, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "1d22ef7d-8fb5-4212-8087-d6a14fe8c2ce",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1042385"
+        },
+        "full_name": "Lebedev, A.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "LABADAFa",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "84136c10-e0a1-407a-9b80-34a572705db1",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1000728"
+        },
+        "full_name": "Lee, H.T.",
+        "affiliations": [
+          {
+            "value": "Taipei, Computing Ctr.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904490"
+            }
+          }
+        ],
+        "signature_block": "LYh",
+        "raw_affiliations": [
+          {
+            "value": "Academia Sinica Grid Center (ASGC) , Nankang, Taipei 11529, Taiwan"
+          }
+        ]
+      },
+      {
+        "uuid": "6661f0a7-8a9b-4ed5-a563-b1ad8cf3ec3b",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1938253"
+        },
+        "full_name": "Lee, S.C.",
+        "affiliations": [
+          {
+            "value": "Taiwan, Inst. Phys.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904413"
+            }
+          }
+        ],
+        "signature_block": "LYs",
+        "raw_affiliations": [
+          {
+            "value": "Institute of Physics , Academia Sinica, Nankang, Taipei 11529, Taiwan"
+          }
+        ]
+      },
+      {
+        "uuid": "9c7a1b9e-e2f5-492c-99eb-e62952a5f88b",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1042598"
+        },
+        "full_name": "Li, J.Q.",
+        "affiliations": [
+          {
+            "value": "Southeast U., Nanjing",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/908605"
+            }
+          }
+        ],
+        "signature_block": "Lj",
+        "raw_affiliations": [
+          {
+            "value": "Southeast University (SEU) , Nanjing 210096, China"
+          }
+        ]
+      },
+      {
+        "uuid": "37512357-2edd-49d7-9c73-ae17c37114f4",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1397585"
+        },
+        "full_name": "Li, M.",
+        "affiliations": [
+          {
+            "value": "Aachen, Tech. Hochsch.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902624"
+            }
+          }
+        ],
+        "signature_block": "Lm",
+        "raw_affiliations": [
+          {
+            "value": "I. Physics Institute and JARA-FAME, RWTH Aachen University , 52056 Aachen, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "82264697-d1dc-48b5-8b4b-47d11ecbdbf3",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1691784"
+        },
+        "full_name": "Li, Q.",
+        "affiliations": [
+          {
+            "value": "Southeast U., Nanjing",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/908605"
+            }
+          }
+        ],
+        "signature_block": "Lq",
+        "raw_affiliations": [
+          {
+            "value": "Southeast University (SEU) , Nanjing 210096, China"
+          }
+        ]
+      },
+      {
+        "uuid": "4093e437-4bb0-4c02-bcf1-3a5342d1cd6f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2165367"
+        },
+        "full_name": "Li, S.",
+        "affiliations": [
+          {
+            "value": "Aachen, Tech. Hochsch.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902624"
+            }
+          }
+        ],
+        "signature_block": "Ls",
+        "raw_affiliations": [
+          {
+            "value": "I. Physics Institute and JARA-FAME, RWTH Aachen University , 52056 Aachen, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "96918f46-7194-4162-9e01-c8ca70532457",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1904579"
+        },
+        "full_name": "Li, T.X.",
+        "affiliations": [
+          {
+            "value": "SYSU, Guangzhou",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1283410"
+            }
+          }
+        ],
+        "signature_block": "Lt",
+        "raw_affiliations": [
+          {
+            "value": "Sun Yat–Sen University (SYSU) , Guangzhou 510275, China"
+          }
+        ]
+      },
+      {
+        "uuid": "4baf85c3-45fe-491b-83b6-9155b504a300",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1917529"
+        },
+        "full_name": "Li, Z.H.",
+        "affiliations": [
+          {
+            "value": "Beijing, Inst. High Energy Phys.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903123"
+            }
+          }
+        ],
+        "signature_block": "Lz",
+        "raw_affiliations": [
+          {
+            "value": "Institute of High Energy Physics (IHEP), Chinese Academy of Sciences , Beijing 100049, China"
+          }
+        ]
+      },
+      {
+        "uuid": "4e5f6137-dbbd-45be-82b2-9c992c2d14ae",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879262"
+        },
+        "full_name": "Light, C.",
+        "affiliations": [
+          {
+            "value": "Hawaii U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902838"
+            }
+          }
+        ],
+        "signature_block": "LAGTc",
+        "raw_affiliations": [
+          {
+            "value": "Physics and Astronomy Department, University of Hawaii , Honolulu, Hawaii 96822, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "c8f21fde-a7f4-47ac-8989-7640aab2fa3d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1000209"
+        },
+        "full_name": "Lin, C.H.",
+        "affiliations": [
+          {
+            "value": "Taiwan, Inst. Phys.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904413"
+            }
+          }
+        ],
+        "signature_block": "LANc",
+        "raw_affiliations": [
+          {
+            "value": "Institute of Physics , Academia Sinica, Nankang, Taipei 11529, Taiwan"
+          }
+        ]
+      },
+      {
+        "uuid": "ae13a190-1824-4d5a-827f-88a2836e0142",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1000081"
+        },
+        "full_name": "Lippert, T.",
+        "affiliations": [
+          {
+            "value": "IAS, Julich",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/911932"
+            }
+          },
+          {
+            "value": "JCHP, Julich",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/911539"
+            }
+          }
+        ],
+        "signature_block": "LAPADt",
+        "raw_affiliations": [
+          {
+            "value": "Jülich Supercomputing Centre and JARA-FAME , Research Centre Jülich 52425 Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "c7f91f0c-6a7e-4d5a-ba92-b8abd6d6d282",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1513081"
+        },
+        "full_name": "Liu, Z.",
+        "affiliations": [
+          {
+            "value": "Geneva U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902813"
+            }
+          }
+        ],
+        "signature_block": "Lz",
+        "curated_relation": true,
+        "raw_affiliations": [
+          {
+            "value": "DPNC, Université de Genève , 1211 Genève 4, Switzerland"
+          }
+        ]
+      },
+      {
+        "uuid": "0b504c16-7247-4f14-b88b-3a027a397868",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1303840"
+        },
+        "full_name": "Lu, S.Q.",
+        "affiliations": [
+          {
+            "value": "SYSU, Guangzhou",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1283410"
+            }
+          }
+        ],
+        "signature_block": "Ls",
+        "raw_affiliations": [
+          {
+            "value": "Sun Yat–Sen University (SYSU) , Guangzhou 510275, China"
+          }
+        ]
+      },
+      {
+        "uuid": "7e8ac375-a8d2-451e-b085-d8e3ddd195e5",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/999676"
+        },
+        "full_name": "Lu, Y.S.",
+        "affiliations": [
+          {
+            "value": "Beijing, Inst. High Energy Phys.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903123"
+            }
+          }
+        ],
+        "signature_block": "Ly",
+        "raw_affiliations": [
+          {
+            "value": "Institute of High Energy Physics (IHEP), Chinese Academy of Sciences , Beijing 100049, China"
+          }
+        ]
+      },
+      {
+        "uuid": "1c7892e9-43cc-4574-840f-4923d877915c",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879264"
+        },
+        "full_name": "Luebelsmeyer, K.",
+        "affiliations": [
+          {
+            "value": "Aachen, Tech. Hochsch.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902624"
+            }
+          }
+        ],
+        "signature_block": "LABALSNYARk",
+        "raw_affiliations": [
+          {
+            "value": "I. Physics Institute and JARA-FAME, RWTH Aachen University , 52056 Aachen, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "e9e32384-ae33-4ca1-92ee-099accc43acf",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879265"
+        },
+        "full_name": "Luo, J.Z.",
+        "affiliations": [
+          {
+            "value": "Southeast U., Nanjing",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/908605"
+            }
+          }
+        ],
+        "signature_block": "Lj",
+        "raw_affiliations": [
+          {
+            "value": "Southeast University (SEU) , Nanjing 210096, China"
+          }
+        ]
+      },
+      {
+        "uuid": "252f32f7-2ff9-4d07-8f13-2fdb9e555bf8",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2559130"
+        },
+        "full_name": "Lyu, S.S.",
+        "affiliations": [
+          {
+            "value": "SYSU, Guangzhou",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1283410"
+            }
+          }
+        ],
+        "signature_block": "Ls",
+        "raw_affiliations": [
+          {
+            "value": "Sun Yat–Sen University (SYSU) , Guangzhou 510275, China"
+          }
+        ]
+      },
+      {
+        "uuid": "b102d940-0e38-4f1c-a07d-390a3d8031ab",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879267"
+        },
+        "full_name": "Machate, F.",
+        "affiliations": [
+          {
+            "value": "Aachen, Tech. Hochsch.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902624"
+            }
+          }
+        ],
+        "signature_block": "MCATf",
+        "raw_affiliations": [
+          {
+            "value": "I. Physics Institute and JARA-FAME, RWTH Aachen University , 52056 Aachen, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "0e473a4b-8d72-4643-8cf5-2aae1ba1634e",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1907273"
+        },
+        "full_name": "Mañá, C.",
+        "affiliations": [
+          {
+            "value": "Madrid, CIEMAT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/905312"
+            }
+          }
+        ],
+        "signature_block": "MANc",
+        "raw_affiliations": [
+          {
+            "value": "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) , 28040 Madrid, Spain"
+          }
+        ]
+      },
+      {
+        "uuid": "c6aa78db-a8ca-4f1e-87d2-a26892bfeb94",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1064598"
+        },
+        "full_name": "Marín, J.",
+        "affiliations": [
+          {
+            "value": "Madrid, CIEMAT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/905312"
+            }
+          }
+        ],
+        "signature_block": "MARANj",
+        "raw_affiliations": [
+          {
+            "value": "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) , 28040 Madrid, Spain"
+          }
+        ]
+      },
+      {
+        "uuid": "bafdd359-42a5-43ca-a4cc-4b089ae41df8",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879269"
+        },
+        "full_name": "Marquardt, J.",
+        "affiliations": [
+          {
+            "value": "Kiel U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902924"
+            }
+          }
+        ],
+        "signature_block": "MARGARDj",
+        "raw_affiliations": [
+          {
+            "value": "Institut für Experimentelle und Angewandte Physik, Christian-Alberts-Universität zu Kiel , 24118 Kiel, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "68c34c70-20b2-4755-9e6f-4f3bb7b389cf",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1022978"
+        },
+        "full_name": "Martin, T.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          },
+          {
+            "value": "NASA, Houston",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903051"
+            }
+          }
+        ],
+        "signature_block": "MARTANt",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          },
+          {
+            "value": "National Aeronautics and Space Administration Johnson Space Center (JSC) , Houston, Texas 77058, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "afa3397b-6989-4fdd-8efb-5ce56f9caa68",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/998584"
+        },
+        "full_name": "Martínez, G.",
+        "affiliations": [
+          {
+            "value": "Madrid, CIEMAT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/905312"
+            }
+          }
+        ],
+        "signature_block": "MARTANg",
+        "raw_affiliations": [
+          {
+            "value": "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) , 28040 Madrid, Spain"
+          }
+        ]
+      },
+      {
+        "uuid": "512a9add-dc34-4fe3-9941-99c0047c8047",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1355315"
+        },
+        "full_name": "Masi, N.",
+        "affiliations": [
+          {
+            "value": "INFN, Bologna",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902878"
+            }
+          },
+          {
+            "value": "U. Bologna (main)",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/929417"
+            }
+          }
+        ],
+        "signature_block": "MASn",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Bologna , 40126 Bologna, Italy"
+          },
+          {
+            "value": "Università di Bologna , 40126 Bologna, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "e7c7b081-ee8b-4c1e-8fb9-8251d0ef9c84",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1038235"
+        },
+        "full_name": "Maurin, D.",
+        "affiliations": [
+          {
+            "value": "LPSC, Grenoble",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902828"
+            }
+          }
+        ],
+        "signature_block": "MARANd",
+        "raw_affiliations": [
+          {
+            "value": "Univ. Grenoble Alpes , CNRS, Grenoble INP, LPSC-IN2P3, 38000 Grenoble, France"
+          }
+        ]
+      },
+      {
+        "uuid": "c300d57c-bed8-44b4-816b-5a619f8562d0",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1068829"
+        },
+        "full_name": "Menchaca-Rocha, A.",
+        "affiliations": [
+          {
+            "value": "Mexico U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903003"
+            }
+          }
+        ],
+        "signature_block": "RACa",
+        "raw_affiliations": [
+          {
+            "value": "Instituto de Física, Universidad Nacional Autónoma de México (UNAM) , Ciudad de México, 01000 Mexico"
+          }
+        ]
+      },
+      {
+        "uuid": "8ee3760a-3c5f-4a44-bb9c-7d802b0cea2c",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1823102"
+        },
+        "full_name": "Meng, Q.",
+        "affiliations": [
+          {
+            "value": "Southeast U., Nanjing",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/908605"
+            }
+          }
+        ],
+        "signature_block": "MANGq",
+        "raw_affiliations": [
+          {
+            "value": "Southeast University (SEU) , Nanjing 210096, China"
+          }
+        ]
+      },
+      {
+        "uuid": "f0c42dab-1562-400f-94a8-7e2236e6a2cd",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2220879"
+        },
+        "full_name": "Mo, D.C.",
+        "affiliations": [
+          {
+            "value": "SYSU, Guangzhou",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1283410"
+            }
+          }
+        ],
+        "signature_block": "Md",
+        "raw_affiliations": [
+          {
+            "value": "Sun Yat–Sen University (SYSU) , Guangzhou 510275, China"
+          }
+        ]
+      },
+      {
+        "uuid": "c9657bae-384f-4e42-9e5a-3030d46ea668",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1935036"
+        },
+        "full_name": "Molero, M.",
+        "affiliations": [
+          {
+            "value": "Madrid, CIEMAT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/905312"
+            }
+          }
+        ],
+        "signature_block": "MALARm",
+        "curated_relation": true,
+        "raw_affiliations": [
+          {
+            "value": "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) , 28040 Madrid, Spain"
+          }
+        ]
+      },
+      {
+        "uuid": "8615c72e-d5f0-4658-a887-73f61b5e9d03",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1997621"
+        },
+        "full_name": "Mott, P.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          },
+          {
+            "value": "NASA, Houston",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903051"
+            }
+          }
+        ],
+        "signature_block": "MATp",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          },
+          {
+            "value": "National Aeronautics and Space Administration Johnson Space Center (JSC) , Houston, Texas 77058, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "087d3d25-ec6b-43c8-92a2-a09fbe625e8f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879273"
+        },
+        "full_name": "Mussolin, L.",
+        "affiliations": [
+          {
+            "value": "INFN, Perugia",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904996"
+            }
+          },
+          {
+            "value": "Perugia U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904144"
+            }
+          }
+        ],
+        "signature_block": "MASALANl",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Perugia , 06100 Perugia, Italy"
+          },
+          {
+            "value": "Università di Perugia , 06100 Perugia, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "f232da67-ab54-4ea0-8fa4-5b563a85ebce",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2220893"
+        },
+        "full_name": "Ni, J.Q.",
+        "affiliations": [
+          {
+            "value": "SYSU, Guangzhou",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1283410"
+            }
+          }
+        ],
+        "signature_block": "Nj",
+        "raw_affiliations": [
+          {
+            "value": "Sun Yat–Sen University (SYSU) , Guangzhou 510275, China"
+          }
+        ]
+      },
+      {
+        "uuid": "3921ce7d-3daf-47f6-ab9c-d3bb29a00a1d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1038893"
+        },
+        "full_name": "Nikonov, N.",
+        "affiliations": [
+          {
+            "value": "Aachen, Tech. Hochsch.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902624"
+            }
+          }
+        ],
+        "signature_block": "NACANAVn",
+        "raw_affiliations": [
+          {
+            "value": "I. Physics Institute and JARA-FAME, RWTH Aachen University , 52056 Aachen, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "f3469195-6b05-4a9a-aa92-f3ef3a4aacce",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1025592"
+        },
+        "full_name": "Nozzoli, F.",
+        "affiliations": [
+          {
+            "value": "TIFPA-INFN, Trento",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1333919"
+            }
+          }
+        ],
+        "signature_block": "NASALf",
+        "curated_relation": true,
+        "raw_affiliations": [
+          {
+            "value": "INFN TIFPA , 38123 Povo, Trento, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "adcd59ae-6648-4ca2-a90f-e2e21282d882",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1271872"
+        },
+        "full_name": "Oliva, A.",
+        "affiliations": [
+          {
+            "value": "INFN, Bologna",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902878"
+            }
+          }
+        ],
+        "signature_block": "OLAVa",
+        "curated_relation": true,
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Bologna , 40126 Bologna, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "1a524fd0-0921-446c-af31-538605a7ea0e",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1650811"
+        },
+        "full_name": "Orcinha, M.",
+        "affiliations": [
+          {
+            "value": "LIP, Lisbon",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/905303"
+            }
+          },
+          {
+            "value": "Lisbon, CFTP",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/911028"
+            }
+          }
+        ],
+        "signature_block": "ORCANm",
+        "curated_relation": true,
+        "raw_affiliations": [
+          {
+            "value": "Laboratório de Instrumentação e Física Experimental de Partículas (LIP) , 1649-003 Lisboa, Portugal"
+          }
+        ]
+      },
+      {
+        "uuid": "1bdd412f-cca3-4b17-99f2-6f879b73d339",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1415491"
+        },
+        "full_name": "Palermo, M.",
+        "affiliations": [
+          {
+            "value": "Hawaii U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902838"
+            }
+          }
+        ],
+        "signature_block": "PALARNm",
+        "raw_affiliations": [
+          {
+            "value": "Physics and Astronomy Department, University of Hawaii , Honolulu, Hawaii 96822, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "03e9a564-f8e7-4b31-96ed-05846a294e54",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1061969"
+        },
+        "full_name": "Palmonari, F.",
+        "affiliations": [
+          {
+            "value": "INFN, Bologna",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902878"
+            }
+          },
+          {
+            "value": "U. Bologna (main)",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/929417"
+            }
+          }
+        ],
+        "signature_block": "PALNANARf",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Bologna , 40126 Bologna, Italy"
+          },
+          {
+            "value": "Università di Bologna , 40126 Bologna, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "3bacac63-7119-44e6-826c-cfdca0d6dae3",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1058701"
+        },
+        "full_name": "Paniccia, M.",
+        "affiliations": [
+          {
+            "value": "Geneva U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902813"
+            }
+          }
+        ],
+        "signature_block": "PANACm",
+        "raw_affiliations": [
+          {
+            "value": "DPNC, Université de Genève , 1211 Genève 4, Switzerland"
+          }
+        ]
+      },
+      {
+        "uuid": "aa4f97b0-8d3c-41d1-8b07-87a5ce29e43c",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1076456"
+        },
+        "full_name": "Pashnin, A.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "PASNANa",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "28c5f640-4533-4514-8f18-3ef61917984b",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/994029"
+        },
+        "full_name": "Pauluzzi, M.",
+        "affiliations": [
+          {
+            "value": "INFN, Perugia",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904996"
+            }
+          },
+          {
+            "value": "Perugia U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904144"
+            }
+          }
+        ],
+        "signature_block": "PALASm",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Perugia , 06100 Perugia, Italy"
+          },
+          {
+            "value": "Università di Perugia , 06100 Perugia, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "2a25181d-5a95-4f95-a310-36b90fec9a64",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1423777"
+        },
+        "full_name": "Pensotti, S.",
+        "affiliations": [
+          {
+            "value": "INFN, Milan Bicocca",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/909939"
+            }
+          },
+          {
+            "value": "Milan Bicocca U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907960"
+            }
+          }
+        ],
+        "signature_block": "PANSATs",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Milano–Bicocca , 20126 Milano, Italy"
+          },
+          {
+            "value": "Università di Milano–Bicocca , 20126 Milano, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "9ea01a87-6315-4be3-ac42-db49fe83f243",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1997622"
+        },
+        "full_name": "Phan, H.D.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "FANh",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "0184968c-d48c-426d-ad2b-1f1745306122",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1073540"
+        },
+        "full_name": "Piandani, R.",
+        "affiliations": [
+          {
+            "value": "KIT, Karlsruhe, ETP",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1693600"
+            }
+          }
+        ],
+        "signature_block": "PANDANr",
+        "raw_affiliations": [
+          {
+            "value": "Institut für Experimentelle Teilchenphysik, Karlsruhe Institute of Technology (KIT) , 76131 Karlsruhe, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "232cd06d-76f4-4856-b12c-3e6440c6f09b",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/993145"
+        },
+        "full_name": "Plyaskin, V.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "PLASCANv",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "154a49e2-7752-482f-a088-95e5bf597c60",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1916333"
+        },
+        "full_name": "Poluianov, S.",
+        "affiliations": [
+          {
+            "value": "Oulu U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903111"
+            }
+          }
+        ],
+        "signature_block": "PALANAVs",
+        "raw_affiliations": [
+          {
+            "value": "Sodankylä Geophysical Observatory and Space Physics and Astromony Research Unit, University of Oulu , 90014 Oulu, Finland"
+          }
+        ]
+      },
+      {
+        "uuid": "65cbaa0d-aa6b-44b7-a70e-03d5ed70c63e",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2220916"
+        },
+        "full_name": "Qi, X.M.",
+        "affiliations": [
+          {
+            "value": "SYSU, Guangzhou",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1283410"
+            }
+          }
+        ],
+        "signature_block": "Qx",
+        "raw_affiliations": [
+          {
+            "value": "Sun Yat–Sen University (SYSU) , Guangzhou 510275, China"
+          }
+        ]
+      },
+      {
+        "uuid": "da194259-5865-4ac9-a36a-f30d25ff8902",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1909276"
+        },
+        "full_name": "Qin, X.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "QANx",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "8dcda132-644d-4d11-90d0-7348c24e46c2",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879277"
+        },
+        "full_name": "Qu, Z.Y.",
+        "affiliations": [
+          {
+            "value": "Taiwan, Inst. Phys.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904413"
+            }
+          }
+        ],
+        "signature_block": "Qz",
+        "raw_affiliations": [
+          {
+            "value": "Institute of Physics , Academia Sinica, Nankang, Taipei 11529, Taiwan"
+          }
+        ]
+      },
+      {
+        "uuid": "f5bb45e5-7e3b-4cdb-a78e-fd1c0854060c",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879278"
+        },
+        "full_name": "Quadrani, L.",
+        "affiliations": [
+          {
+            "value": "INFN, Bologna",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902878"
+            }
+          },
+          {
+            "value": "U. Bologna (main)",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/929417"
+            }
+          }
+        ],
+        "signature_block": "QADRANl",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Bologna , 40126 Bologna, Italy"
+          },
+          {
+            "value": "Università di Bologna , 40126 Bologna, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "1ab1d425-ef37-4b37-aee8-8acd49446493",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/992316"
+        },
+        "full_name": "Rancoita, P.G.",
+        "affiliations": [
+          {
+            "value": "INFN, Milan Bicocca",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/909939"
+            }
+          }
+        ],
+        "signature_block": "RANCATp",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Milano–Bicocca , 20126 Milano, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "8ea95231-2c61-4422-bb7c-c7bbdee16a96",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/992275"
+        },
+        "full_name": "Rapin, D.",
+        "affiliations": [
+          {
+            "value": "Geneva U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902813"
+            }
+          }
+        ],
+        "signature_block": "RAPANd",
+        "raw_affiliations": [
+          {
+            "value": "DPNC, Université de Genève , 1211 Genève 4, Switzerland"
+          }
+        ]
+      },
+      {
+        "uuid": "1c583ca0-77ef-4a13-8973-8abf7989a368",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2591597"
+        },
+        "full_name": "Reina Conde, A.",
+        "affiliations": [
+          {
+            "value": "Laguna U., Tenerife",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/905888"
+            }
+          },
+          {
+            "value": "IAC, La Laguna",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/910482"
+            }
+          }
+        ],
+        "signature_block": "CANDa",
+        "raw_affiliations": [
+          {
+            "value": "Instituto de Astrofísica de Canarias (IAC), 38205 La Laguna, and Departamento de Astrofísica, Universidad de La Laguna , 38206 La Laguna, Tenerife, Spain"
+          }
+        ]
+      },
+      {
+        "uuid": "6ec5c00f-1b87-4ed0-b8da-b935a10bf91f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1025196"
+        },
+        "full_name": "Rosier-Lees, S.",
+        "affiliations": [
+          {
+            "value": "Annecy, LAPP",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903421"
+            }
+          }
+        ],
+        "signature_block": "LYs",
+        "raw_affiliations": [
+          {
+            "value": "Univ. Grenoble Alpes , Univ. Savoie Mont Blanc, CNRS, LAPP-IN2P3, 74000 Annecy, France"
+          }
+        ]
+      },
+      {
+        "uuid": "416334c3-4310-4b25-a867-0f7d308a0ead",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879281"
+        },
+        "full_name": "Rozhkov, A.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "RASHCAVa",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "7b61c198-df14-4824-bff1-e10d79794fc8",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1423656"
+        },
+        "full_name": "Rozza, D.",
+        "affiliations": [
+          {
+            "value": "INFN, Milan Bicocca",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/909939"
+            }
+          },
+          {
+            "value": "Milan Bicocca U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907960"
+            }
+          }
+        ],
+        "signature_block": "RASd",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Milano–Bicocca , 20126 Milano, Italy"
+          },
+          {
+            "value": "Università di Milano–Bicocca , 20126 Milano, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "ab933194-36cd-4be2-8bac-718074178b81",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1051956"
+        },
+        "full_name": "Sagdeev, R.",
+        "affiliations": [
+          {
+            "value": "Maryland U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902990"
+            }
+          }
+        ],
+        "signature_block": "SAGDAFr",
+        "raw_affiliations": [
+          {
+            "value": "East–West Center for Space Science, University of Maryland , College Park, Maryland 20742, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "74639e7b-7d6f-4603-976b-b14a0495127d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/990044"
+        },
+        "full_name": "Schael, S.",
+        "affiliations": [
+          {
+            "value": "Aachen, Tech. Hochsch.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902624"
+            }
+          }
+        ],
+        "signature_block": "SALs",
+        "raw_affiliations": [
+          {
+            "value": "I. Physics Institute and JARA-FAME, RWTH Aachen University , 52056 Aachen, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "6f1a13d5-0b60-475b-9d8b-59ce3ab036f2",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/989819"
+        },
+        "full_name": "Schmidt, S.M.",
+        "affiliations": [
+          {
+            "value": "IAS, Julich",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/911932"
+            }
+          },
+          {
+            "value": "JCHP, Julich",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/911539"
+            }
+          }
+        ],
+        "signature_block": "SNADs",
+        "raw_affiliations": [
+          {
+            "value": "Jülich Supercomputing Centre and JARA-FAME , Research Centre Jülich 52425 Jülich, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "65d40eaa-1e6b-4053-85cd-1a2a938e39b1",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2220944"
+        },
+        "full_name": "Schulz von Dratzig, A.",
+        "affiliations": [
+          {
+            "value": "Aachen, Tech. Hochsch.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902624"
+            }
+          }
+        ],
+        "signature_block": "SALa",
+        "raw_affiliations": [
+          {
+            "value": "I. Physics Institute and JARA-FAME, RWTH Aachen University , 52056 Aachen, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "87e7be80-e9e8-45a7-8886-b33a97020a79",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/989564"
+        },
+        "full_name": "Schwering, G.",
+        "affiliations": [
+          {
+            "value": "Aachen, Tech. Hochsch.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902624"
+            }
+          }
+        ],
+        "signature_block": "SWARANGg",
+        "raw_affiliations": [
+          {
+            "value": "I. Physics Institute and JARA-FAME, RWTH Aachen University , 52056 Aachen, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "a977b9b9-d94d-4b87-acca-1956ca3400b2",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/989299"
+        },
+        "full_name": "Seo, E.S.",
+        "affiliations": [
+          {
+            "value": "Maryland U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902990"
+            }
+          }
+        ],
+        "signature_block": "Se",
+        "raw_affiliations": [
+          {
+            "value": "IPST, University of Maryland , College Park, Maryland 20742, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "92a72d75-b967-42ba-abcd-56cbc9995814",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879283"
+        },
+        "full_name": "Shan, B.S.",
+        "affiliations": [
+          {
+            "value": "Beihang U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/908524"
+            }
+          }
+        ],
+        "signature_block": "SANb",
+        "raw_affiliations": [
+          {
+            "value": "Beihang University (BUAA) , Beijing 100191, China"
+          }
+        ]
+      },
+      {
+        "uuid": "a6a2ecff-34b6-4242-b2e5-1674b05d3c8d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2142193"
+        },
+        "full_name": "Shi, J.Y.",
+        "affiliations": [
+          {
+            "value": "Southeast U., Nanjing",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/908605"
+            }
+          }
+        ],
+        "signature_block": "Sj",
+        "raw_affiliations": [
+          {
+            "value": "Southeast University (SEU) , Nanjing 210096, China"
+          }
+        ]
+      },
+      {
+        "uuid": "4b0255ed-47ef-43a1-8eb3-7d2c8be7e8ff",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/988760"
+        },
+        "full_name": "Siedenburg, T.",
+        "affiliations": [
+          {
+            "value": "Aachen, Tech. Hochsch.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902624"
+            }
+          }
+        ],
+        "signature_block": "SADANBARGt",
+        "raw_affiliations": [
+          {
+            "value": "I. Physics Institute and JARA-FAME, RWTH Aachen University , 52056 Aachen, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "92a7dab3-7976-4911-9e8c-0761a1ec4069",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/988155"
+        },
+        "full_name": "Solano, C.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "SALANc",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "fdd88210-f23e-485e-9200-631cd0a13789",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879285"
+        },
+        "full_name": "Sonnabend, R.",
+        "affiliations": [
+          {
+            "value": "Aachen, Tech. Hochsch.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902624"
+            }
+          }
+        ],
+        "signature_block": "SANABADr",
+        "raw_affiliations": [
+          {
+            "value": "I. Physics Institute and JARA-FAME, RWTH Aachen University , 52056 Aachen, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "fb928e4f-1155-43ec-83da-da87248e785d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879284"
+        },
+        "full_name": "Song, J.W.",
+        "affiliations": [
+          {
+            "value": "Shandong U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904187"
+            }
+          }
+        ],
+        "signature_block": "SANGj",
+        "raw_affiliations": [
+          {
+            "value": "Shandong University (SDU) , Jinan, Shandong 250100, China"
+          }
+        ]
+      },
+      {
+        "uuid": "9512d2ea-18f0-4fbd-89de-b237c96f921a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1739123"
+        },
+        "full_name": "Sun, Q.",
+        "affiliations": [
+          {
+            "value": "Shandong U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904187"
+            }
+          }
+        ],
+        "signature_block": "SANq",
+        "raw_affiliations": [
+          {
+            "value": "Shandong University (SDU) , Jinan, Shandong 250100, China"
+          }
+        ]
+      },
+      {
+        "uuid": "01eb49b4-7ba4-4e9b-a1dd-8d2134f50c50",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2122157"
+        },
+        "full_name": "Sun, Z.T.",
+        "affiliations": [
+          {
+            "value": "Beijing, Inst. High Energy Phys.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903123"
+            }
+          },
+          {
+            "value": "Beijing, GUCAS",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904611"
+            }
+          }
+        ],
+        "signature_block": "SANz",
+        "raw_affiliations": [
+          {
+            "value": "Institute of High Energy Physics (IHEP), Chinese Academy of Sciences , Beijing 100049, China"
+          },
+          {
+            "value": "University of Chinese Academy of Sciences (UCAS), Beijing 100049, China"
+          }
+        ]
+      },
+      {
+        "uuid": "a5831ef1-3905-4c4c-b48c-ca99707cdf0f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1259910"
+        },
+        "full_name": "Tacconi, M.",
+        "affiliations": [
+          {
+            "value": "INFN, Milan Bicocca",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/909939"
+            }
+          },
+          {
+            "value": "Milan Bicocca U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907960"
+            }
+          }
+        ],
+        "signature_block": "TACANm",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Milano–Bicocca , 20126 Milano, Italy"
+          },
+          {
+            "value": "Università di Milano–Bicocca , 20126 Milano, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "72aa1f97-495c-4a55-bb55-f69c31425661",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1019872"
+        },
+        "full_name": "Tang, X.W.",
+        "affiliations": [
+          {
+            "value": "Beijing, Inst. High Energy Phys.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903123"
+            }
+          }
+        ],
+        "signature_block": "TANGx",
+        "raw_affiliations": [
+          {
+            "value": "Institute of High Energy Physics (IHEP), Chinese Academy of Sciences , Beijing 100049, China"
+          }
+        ]
+      },
+      {
+        "uuid": "833bb750-9f6d-41b3-86cb-f3debbe51506",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1257693"
+        },
+        "full_name": "Tang, Z.C.",
+        "affiliations": [
+          {
+            "value": "Beijing, Inst. High Energy Phys.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903123"
+            }
+          }
+        ],
+        "signature_block": "TANGz",
+        "raw_affiliations": [
+          {
+            "value": "Institute of High Energy Physics (IHEP), Chinese Academy of Sciences , Beijing 100049, China"
+          }
+        ]
+      },
+      {
+        "uuid": "0d81eb00-02d2-44b3-987c-bbdb79d3f9e2",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1057530"
+        },
+        "full_name": "Tian, J.",
+        "affiliations": [
+          {
+            "value": "INFN, Perugia",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904996"
+            }
+          },
+          {
+            "value": "Perugia U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904144"
+            }
+          }
+        ],
+        "signature_block": "TANj",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Perugia , 06100 Perugia, Italy"
+          },
+          {
+            "value": "Università di Perugia , 06100 Perugia, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "e9b0efa4-5312-4247-b171-80ec88c9d05b",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/986072"
+        },
+        "full_name": "Ting, Samuel C.C.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          },
+          {
+            "value": "CERN",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902725"
+            }
+          }
+        ],
+        "signature_block": "TANGs",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          },
+          {
+            "value": "European Organization for Nuclear Research (CERN) , 1211 Geneva 23, Switzerland"
+          }
+        ]
+      },
+      {
+        "uuid": "57792217-bf73-42f6-b4fb-d2e002d430e2",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1074009"
+        },
+        "full_name": "Ting, S.M.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "TANGs",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "ba296842-9739-4aa3-9faf-838a739a924f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1347338"
+        },
+        "full_name": "Tomassetti, N.",
+        "affiliations": [
+          {
+            "value": "INFN, Perugia",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904996"
+            }
+          },
+          {
+            "value": "Perugia U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904144"
+            }
+          }
+        ],
+        "signature_block": "TANASATn",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Perugia , 06100 Perugia, Italy"
+          },
+          {
+            "value": "Università di Perugia , 06100 Perugia, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "10240d88-efd3-48f2-8642-e755498cd8c1",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2331391"
+        },
+        "full_name": "Torsti, J.",
+        "affiliations": [
+          {
+            "value": "Turku U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903664"
+            }
+          }
+        ],
+        "signature_block": "TARSTj",
+        "raw_affiliations": [
+          {
+            "value": "Space Research Laboratory, Department of Physics and Astronomy, University of Turku , 20014 Turku, Finland"
+          }
+        ]
+      },
+      {
+        "uuid": "a7cfb717-a6c2-4bd6-a12c-78b178dfc997",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1776884"
+        },
+        "full_name": "Tüysüz, C.",
+        "affiliations": [
+          {
+            "value": "Middle East Tech. U., Ankara",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903008"
+            }
+          }
+        ],
+        "signature_block": "TYSc",
+        "curated_relation": true,
+        "raw_affiliations": [
+          {
+            "value": "Department of Physics, Middle East Technical University (METU) , 06800 Ankara, Turkey"
+          }
+        ]
+      },
+      {
+        "uuid": "18513a6a-eec6-4505-affe-8b7184aad19f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879288"
+        },
+        "full_name": "Urban, T.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          },
+          {
+            "value": "NASA, Houston",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903051"
+            }
+          }
+        ],
+        "signature_block": "URBANt",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          },
+          {
+            "value": "National Aeronautics and Space Administration Johnson Space Center (JSC) , Houston, Texas 77058, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "1180d413-5f13-42a7-bac6-96c208659f46",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2037348"
+        },
+        "full_name": "Usoskin, I.",
+        "affiliations": [
+          {
+            "value": "Oulu U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903111"
+            }
+          }
+        ],
+        "signature_block": "USASCANi",
+        "raw_affiliations": [
+          {
+            "value": "Sodankylä Geophysical Observatory and Space Physics and Astromony Research Unit, University of Oulu , 90014 Oulu, Finland"
+          }
+        ]
+      },
+      {
+        "uuid": "f13e5bf0-60e0-433d-b8c9-08653e4b2338",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1067852"
+        },
+        "full_name": "Vagelli, V.",
+        "affiliations": [
+          {
+            "value": "ASI, Rome",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/910349"
+            }
+          }
+        ],
+        "signature_block": "VAGALv",
+        "raw_affiliations": [
+          {
+            "value": "Agenzia Spaziale Italiana (ASI) , 00133 Roma, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "4b62c592-2cd2-4592-ad62-e048ee098bc5",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1876403"
+        },
+        "full_name": "Vainio, R.",
+        "affiliations": [
+          {
+            "value": "Turku U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903664"
+            }
+          }
+        ],
+        "signature_block": "VANr",
+        "raw_affiliations": [
+          {
+            "value": "Space Research Laboratory, Department of Physics and Astronomy, University of Turku , 20014 Turku, Finland"
+          }
+        ]
+      },
+      {
+        "uuid": "2101c48e-e40c-4fac-815c-365bbe5b076d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/985088"
+        },
+        "full_name": "Valente, E.",
+        "affiliations": [
+          {
+            "value": "INFN, Rome",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902887"
+            }
+          },
+          {
+            "value": "U. Rome La Sapienza (main)",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/945357"
+            }
+          }
+        ],
+        "signature_block": "VALANTe",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Roma 1 , 00185 Roma, Italy"
+          },
+          {
+            "value": "Università di Roma La Sapienza , 00185 Roma, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "fac608d8-44af-4bb1-8730-382f2008d667",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879292"
+        },
+        "full_name": "Valtonen, E.",
+        "affiliations": [
+          {
+            "value": "Turku U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903664"
+            }
+          }
+        ],
+        "signature_block": "VALTANANe",
+        "raw_affiliations": [
+          {
+            "value": "Space Research Laboratory, Department of Physics and Astronomy, University of Turku , 20014 Turku, Finland"
+          }
+        ]
+      },
+      {
+        "uuid": "2c4010ca-ac80-43c8-8b06-76f6720ee9ec",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1021037"
+        },
+        "full_name": "Vázquez Acosta, M.",
+        "affiliations": [
+          {
+            "value": "Laguna U., Tenerife",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/905888"
+            }
+          },
+          {
+            "value": "IAC, La Laguna",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/910482"
+            }
+          }
+        ],
+        "signature_block": "ACASTm",
+        "curated_relation": true,
+        "raw_affiliations": [
+          {
+            "value": "Instituto de Astrofísica de Canarias (IAC), 38205 La Laguna, and Departamento de Astrofísica, Universidad de La Laguna , 38206 La Laguna, Tenerife, Spain"
+          }
+        ]
+      },
+      {
+        "uuid": "9fe11d6e-831c-4fcf-ac0a-9f103186c063",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1271167"
+        },
+        "full_name": "Vecchi, M.",
+        "affiliations": [
+          {
+            "value": "Kapteyn Astron. Inst., Groningen",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904916"
+            }
+          }
+        ],
+        "signature_block": "VACm",
+        "raw_affiliations": [
+          {
+            "value": "Kapteyn Astronomical Institute, University of Groningen , 9700 AV Groningen, Netherlands"
+          }
+        ]
+      },
+      {
+        "uuid": "d7cebd8b-6491-4875-9833-b9496dbec743",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1322660"
+        },
+        "full_name": "Velasco, M.",
+        "affiliations": [
+          {
+            "value": "Madrid, CIEMAT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/905312"
+            }
+          }
+        ],
+        "signature_block": "VALASCm",
+        "curated_relation": true,
+        "raw_affiliations": [
+          {
+            "value": "Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (CIEMAT) , 28040 Madrid, Spain"
+          }
+        ]
+      },
+      {
+        "uuid": "8b720b45-dde0-4e2b-bbf2-1b1356aad253",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1997625"
+        },
+        "full_name": "Vialle, J.P.",
+        "affiliations": [
+          {
+            "value": "Annecy, LAPP",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903421"
+            }
+          }
+        ],
+        "signature_block": "VALj",
+        "raw_affiliations": [
+          {
+            "value": "Univ. Grenoble Alpes , Univ. Savoie Mont Blanc, CNRS, LAPP-IN2P3, 74000 Annecy, France"
+          }
+        ]
+      },
+      {
+        "uuid": "a382d1a3-038f-4290-85d3-38b3f0ec6b68",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2604722"
+        },
+        "full_name": "Wallmann, C.",
+        "affiliations": [
+          {
+            "value": "Kiel U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902924"
+            }
+          }
+        ],
+        "signature_block": "WALNANc",
+        "raw_affiliations": [
+          {
+            "value": "Institut für Experimentelle und Angewandte Physik, Christian-Alberts-Universität zu Kiel , 24118 Kiel, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "41f050a4-e799-43a3-a627-34724f847fa4",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879295"
+        },
+        "full_name": "Wang, L.Q.",
+        "affiliations": [
+          {
+            "value": "Shandong U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904187"
+            }
+          }
+        ],
+        "signature_block": "WANGl",
+        "raw_affiliations": [
+          {
+            "value": "Shandong University (SDU) , Jinan, Shandong 250100, China"
+          }
+        ]
+      },
+      {
+        "uuid": "cd3d14f8-a436-4e8d-b356-bb561571cb8c",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1519874"
+        },
+        "full_name": "Wang, N.H.",
+        "affiliations": [
+          {
+            "value": "Shandong U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904187"
+            }
+          }
+        ],
+        "signature_block": "WANGn",
+        "raw_affiliations": [
+          {
+            "value": "Shandong University (SDU) , Jinan, Shandong 250100, China"
+          }
+        ]
+      },
+      {
+        "uuid": "0d5537ee-6dec-4d1a-8cc4-e2ebdaf68780",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879295"
+        },
+        "full_name": "Wang, Q.L.",
+        "affiliations": [
+          {
+            "value": "Inst. Electr. Engin., Beijing",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/922851"
+            }
+          }
+        ],
+        "signature_block": "WANGq",
+        "raw_affiliations": [
+          {
+            "value": "Institute of Electrical Engineering (IEE), Chinese Academy of Sciences , Beijing 100190, China"
+          }
+        ]
+      },
+      {
+        "uuid": "24cf6d9d-8726-4142-a297-58b7fc668928",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1512452"
+        },
+        "full_name": "Wang, S.",
+        "affiliations": [
+          {
+            "value": "Hawaii U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902838"
+            }
+          }
+        ],
+        "signature_block": "WANGs",
+        "raw_affiliations": [
+          {
+            "value": "Physics and Astronomy Department, University of Hawaii , Honolulu, Hawaii 96822, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "5a4d883a-ed03-4d65-b9b2-a76f327ef5ab",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2087139"
+        },
+        "full_name": "Wang, X.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "WANGx",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "b015a94c-a4bd-47ed-89ca-47bbba4d216f",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2027640"
+        },
+        "full_name": "Wang, Z.X.",
+        "affiliations": [
+          {
+            "value": "SYSU, Guangzhou",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1283410"
+            }
+          }
+        ],
+        "signature_block": "WANGz",
+        "raw_affiliations": [
+          {
+            "value": "Sun Yat–Sen University (SYSU) , Guangzhou 510275, China"
+          }
+        ]
+      },
+      {
+        "uuid": "440a5a1d-06b2-4a27-a4bd-ea683d34ef90",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1785059"
+        },
+        "full_name": "Wei, J.",
+        "affiliations": [
+          {
+            "value": "Geneva U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902813"
+            }
+          }
+        ],
+        "signature_block": "Wj",
+        "curated_relation": true,
+        "raw_affiliations": [
+          {
+            "value": "DPNC, Université de Genève , 1211 Genève 4, Switzerland"
+          }
+        ]
+      },
+      {
+        "uuid": "27e0d8dc-867a-4bc0-9b40-cb3b29e868fa",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1071677"
+        },
+        "full_name": "Weng, Z.L.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "WANGz",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "26eded04-d81a-402d-bdf7-305a09612ead",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1078703"
+        },
+        "full_name": "Wu, H.",
+        "affiliations": [
+          {
+            "value": "Southeast U., Nanjing",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/908605"
+            }
+          }
+        ],
+        "signature_block": "Wh",
+        "raw_affiliations": [
+          {
+            "value": "Southeast University (SEU) , Nanjing 210096, China"
+          }
+        ]
+      },
+      {
+        "uuid": "d144f7e5-29fe-47b4-81d1-a7c36f824781",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879298"
+        },
+        "full_name": "Xiong, R.Q.",
+        "affiliations": [
+          {
+            "value": "Southeast U., Nanjing",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/908605"
+            }
+          }
+        ],
+        "signature_block": "XANGr",
+        "raw_affiliations": [
+          {
+            "value": "Southeast University (SEU) , Nanjing 210096, China"
+          }
+        ]
+      },
+      {
+        "uuid": "ab79bd1c-326d-4e5d-829b-01681dba44e5",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1065963"
+        },
+        "full_name": "Xu, W.",
+        "affiliations": [
+          {
+            "value": "Shandong U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904187"
+            }
+          }
+        ],
+        "signature_block": "Xw",
+        "raw_affiliations": [
+          {
+            "value": "Shandong Institute of Advanced Technology (SDIAT) , Jinan, Shandong 250100, China"
+          },
+          {
+            "value": "Shandong University (SDU) , Jinan, Shandong 250100, China"
+          }
+        ]
+      },
+      {
+        "uuid": "421c3e3f-07ca-4700-9fd7-05e97c865d7a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1372678"
+        },
+        "full_name": "Yan, Q.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "YANq",
+        "curated_relation": true,
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "40be6857-07c9-4825-ab1e-32f47be5dc1a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1897773"
+        },
+        "full_name": "Yang, Y.",
+        "affiliations": [
+          {
+            "value": "Taiwan, Natl. Cheng Kung U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903244"
+            }
+          }
+        ],
+        "signature_block": "YANGy",
+        "raw_affiliations": [
+          {
+            "value": "National Cheng Kung University , Tainan 70101, Taiwan"
+          }
+        ]
+      },
+      {
+        "uuid": "86c69f3f-cb60-4c9b-a152-6bb2c0e3e762",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1695422"
+        },
+        "full_name": "Yi, H.",
+        "affiliations": [
+          {
+            "value": "Southeast U., Nanjing",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/908605"
+            }
+          }
+        ],
+        "signature_block": "Yh",
+        "raw_affiliations": [
+          {
+            "value": "Southeast University (SEU) , Nanjing 210096, China"
+          }
+        ]
+      },
+      {
+        "uuid": "3735e97a-3086-45ca-926b-268cdc2cc8a3",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/982527"
+        },
+        "full_name": "Yu, Y.J.",
+        "affiliations": [
+          {
+            "value": "Inst. Electr. Engin., Beijing",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/922851"
+            }
+          }
+        ],
+        "signature_block": "Yy",
+        "raw_affiliations": [
+          {
+            "value": "Institute of Electrical Engineering (IEE), Chinese Academy of Sciences , Beijing 100190, China"
+          }
+        ]
+      },
+      {
+        "uuid": "86d50b84-d51b-4f66-a134-2e7e1452c1d4",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1393705"
+        },
+        "full_name": "Yu, Z.Q.",
+        "affiliations": [
+          {
+            "value": "Beijing, Inst. High Energy Phys.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903123"
+            }
+          }
+        ],
+        "signature_block": "Yz",
+        "raw_affiliations": [
+          {
+            "value": "Institute of High Energy Physics (IHEP), Chinese Academy of Sciences , Beijing 100049, China"
+          }
+        ]
+      },
+      {
+        "uuid": "aae486a2-c997-448f-81d4-5905ab1b2350",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879302"
+        },
+        "full_name": "Zannoni, M.",
+        "affiliations": [
+          {
+            "value": "INFN, Milan Bicocca",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/909939"
+            }
+          },
+          {
+            "value": "Milan Bicocca U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907960"
+            }
+          }
+        ],
+        "signature_block": "ZANANm",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Milano–Bicocca , 20126 Milano, Italy"
+          },
+          {
+            "value": "Università di Milano–Bicocca , 20126 Milano, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "b1e6fa20-d9e5-4568-9618-f3d2a2e3032e",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1325238"
+        },
+        "full_name": "Zhang, C.",
+        "affiliations": [
+          {
+            "value": "Beijing, Inst. High Energy Phys.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903123"
+            }
+          }
+        ],
+        "signature_block": "ZANGc",
+        "raw_affiliations": [
+          {
+            "value": "Institute of High Energy Physics (IHEP), Chinese Academy of Sciences , Beijing 100049, China"
+          }
+        ]
+      },
+      {
+        "uuid": "502528d4-33df-41dd-bef7-214d17f3df32",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1028789"
+        },
+        "full_name": "Zhang, F.",
+        "affiliations": [
+          {
+            "value": "Beijing, Inst. High Energy Phys.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903123"
+            }
+          }
+        ],
+        "signature_block": "ZANGf",
+        "raw_affiliations": [
+          {
+            "value": "Institute of High Energy Physics (IHEP), Chinese Academy of Sciences , Beijing 100049, China"
+          }
+        ]
+      },
+      {
+        "uuid": "2d7be956-9013-4905-9b5f-6d3f2bb356e4",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1042806"
+        },
+        "full_name": "Zhang, F.Z.",
+        "affiliations": [
+          {
+            "value": "Beijing, Inst. High Energy Phys.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903123"
+            }
+          },
+          {
+            "value": "Beijing, GUCAS",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904611"
+            }
+          }
+        ],
+        "signature_block": "ZANGf",
+        "raw_affiliations": [
+          {
+            "value": "Institute of High Energy Physics (IHEP), Chinese Academy of Sciences , Beijing 100049, China"
+          },
+          {
+            "value": "University of Chinese Academy of Sciences (UCAS), Beijing 100049, China"
+          }
+        ]
+      },
+      {
+        "uuid": "8c82d601-a6b2-4bec-84b0-156b54a2e4be",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2127000"
+        },
+        "full_name": "Zhang, J.H.",
+        "affiliations": [
+          {
+            "value": "Southeast U., Nanjing",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/908605"
+            }
+          }
+        ],
+        "signature_block": "ZANGj",
+        "raw_affiliations": [
+          {
+            "value": "Southeast University (SEU) , Nanjing 210096, China"
+          }
+        ]
+      },
+      {
+        "uuid": "07d0cc27-c4cb-488b-bb75-52bdf5e834a2",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1393624"
+        },
+        "full_name": "Zhang, Z.",
+        "affiliations": [
+          {
+            "value": "MIT",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/907455"
+            }
+          }
+        ],
+        "signature_block": "ZANGz",
+        "raw_affiliations": [
+          {
+            "value": "Massachusetts Institute of Technology (MIT), Cambridge, Massachusetts 02139, USA"
+          }
+        ]
+      },
+      {
+        "uuid": "5b4083d5-0094-492e-9685-c250d42b97bd",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1076353"
+        },
+        "full_name": "Zhao, F.",
+        "affiliations": [
+          {
+            "value": "Beijing, Inst. High Energy Phys.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903123"
+            }
+          },
+          {
+            "value": "Beijing, GUCAS",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/904611"
+            }
+          }
+        ],
+        "signature_block": "Zf",
+        "raw_affiliations": [
+          {
+            "value": "Institute of High Energy Physics (IHEP), Chinese Academy of Sciences , Beijing 100049, China"
+          },
+          {
+            "value": "University of Chinese Academy of Sciences (UCAS), Beijing 100049, China"
+          }
+        ]
+      },
+      {
+        "uuid": "b746768e-4238-4065-93ee-ff60ee139f1a",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1879305"
+        },
+        "full_name": "Zheng, Z.M.",
+        "affiliations": [
+          {
+            "value": "Beihang U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/908524"
+            }
+          }
+        ],
+        "signature_block": "ZANGz",
+        "raw_affiliations": [
+          {
+            "value": "Beihang University (BUAA) , Beijing 100191, China"
+          }
+        ]
+      },
+      {
+        "uuid": "e70e9a2c-3658-4323-86c5-a1d611d797c7",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/982050"
+        },
+        "full_name": "Zhuang, H.L.",
+        "affiliations": [
+          {
+            "value": "Beijing, Inst. High Energy Phys.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903123"
+            }
+          }
+        ],
+        "signature_block": "ZANGh",
+        "raw_affiliations": [
+          {
+            "value": "Institute of High Energy Physics (IHEP), Chinese Academy of Sciences , Beijing 100049, China"
+          }
+        ]
+      },
+      {
+        "uuid": "4adff79f-bc1c-4a54-b8dc-b66e238fe7a8",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1064675"
+        },
+        "full_name": "Zhukov, V.",
+        "affiliations": [
+          {
+            "value": "Aachen, Tech. Hochsch.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902624"
+            }
+          }
+        ],
+        "signature_block": "ZACAVv",
+        "raw_affiliations": [
+          {
+            "value": "I. Physics Institute and JARA-FAME, RWTH Aachen University , 52056 Aachen, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "ef5721ae-51f0-4441-8c52-61543c3ed1dc",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/1062046"
+        },
+        "full_name": "Zichichi, A.",
+        "affiliations": [
+          {
+            "value": "INFN, Bologna",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902878"
+            }
+          },
+          {
+            "value": "U. Bologna (main)",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/929417"
+            }
+          }
+        ],
+        "signature_block": "ZACACa",
+        "raw_affiliations": [
+          {
+            "value": "INFN Sezione di Bologna , 40126 Bologna, Italy"
+          },
+          {
+            "value": "Università di Bologna , 40126 Bologna, Italy"
+          }
+        ]
+      },
+      {
+        "uuid": "9a5565e2-22dc-497a-a7db-43a70980dfe5",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/2221047"
+        },
+        "full_name": "Zimmermann, N.",
+        "affiliations": [
+          {
+            "value": "Aachen, Tech. Hochsch.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/902624"
+            }
+          }
+        ],
+        "signature_block": "ZANARNANn",
+        "raw_affiliations": [
+          {
+            "value": "I. Physics Institute and JARA-FAME, RWTH Aachen University , 52056 Aachen, Germany"
+          }
+        ]
+      },
+      {
+        "uuid": "9f2a3b37-6cf2-4223-b906-304f0422709d",
+        "record": {
+          "$ref": "https://inspirehep.net/api/authors/981920"
+        },
+        "full_name": "Zuccon, P.",
+        "affiliations": [
+          {
+            "value": "TIFPA-INFN, Trento",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/1333919"
+            }
+          },
+          {
+            "value": "Trento U.",
+            "record": {
+              "$ref": "https://inspirehep.net/api/institutions/903286"
+            }
+          }
+        ],
+        "signature_block": "ZACANp",
+        "raw_affiliations": [
+          {
+            "value": "INFN TIFPA , 38123 Povo, Trento, Italy"
+          },
+          {
+            "value": "Università di Trento , 38123 Povo, Trento, Italy"
+          }
+        ]
+      }
+    ],
+    "curated": true,
+    "license": [
+      {
+        "url": "https://creativecommons.org/licenses/by/4.0/",
+        "license": "CC-BY-4.0",
+        "imposing": "APS",
+        "material": "publication"
+      }
+    ],
+    "texkeys": [
+      "AMS:2020cai",
+      "Aguilar:2020ohx"
+    ],
+    "citeable": true,
+    "imprints": [
+      {
+        "date": "2020-05-30"
+      }
+    ],
+    "keywords": [
+      {
+        "value": "Gravitation and Astrophysics",
+        "source": "publisher"
+      },
+      {
+        "value": "cosmic radiation: primary",
+        "schema": "INSPIRE"
+      },
+      {
+        "value": "magnetic spectrometer",
+        "schema": "INSPIRE"
+      },
+      {
+        "value": "magnesium",
+        "schema": "INSPIRE"
+      },
+      {
+        "value": "silicon",
+        "schema": "INSPIRE"
+      },
+      {
+        "value": "neon",
+        "schema": "INSPIRE"
+      },
+      {
+        "value": "carbon",
+        "schema": "INSPIRE"
+      },
+      {
+        "value": "oxygen",
+        "schema": "INSPIRE"
+      },
+      {
+        "value": "satellite",
+        "schema": "INSPIRE"
+      },
+      {
+        "value": "nucleus",
+        "schema": "INSPIRE"
+      }
+    ],
+    "refereed": true,
+    "abstracts": [
+      {
+        "value": "We report the observation of new properties of primary cosmic rays, neon (Ne), magnesium (Mg), and silicon (Si), measured in the rigidity range 2.15 GV to 3.0 TV with $1.8×10^6$ Ne, $2.2×10^6$ Mg, and $1.6×10^6$ Si nuclei collected by the Alpha Magnetic Spectrometer experiment on the International Space Station. The Ne and Mg spectra have identical rigidity dependence above 3.65 GV. The three spectra have identical rigidity dependence above 86.5 GV, deviate from a single power law above 200 GV, and harden in an identical way. Unexpectedly, above 86.5 GV the rigidity dependence of primary cosmic rays Ne, Mg, and Si spectra is different from the rigidity dependence of primary cosmic rays He, C, and O. This shows that the Ne, Mg, and Si and He, C, and O are two different classes of primary cosmic rays.",
+        "source": "APS"
+      }
+    ],
+    "copyright": [
+      {
+        "year": 2020,
+        "holder": "authors"
+      }
+    ],
+    "references": [
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1414858"
+        },
+        "reference": {
+          "dois": [
+            "10.1146/annurev-astro-082214-122457"
+          ],
+          "label": "1",
+          "authors": [
+            {
+              "full_name": "Grenier, I.A."
+            },
+            {
+              "full_name": "Black, J.H."
+            },
+            {
+              "full_name": "Strong, A.W."
+            }
+          ],
+          "publication_info": {
+            "year": 2015,
+            "artid": "199",
+            "page_start": "199",
+            "journal_title": "Ann.Rev.Astron.Astrophys.",
+            "journal_volume": "53"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1266711"
+        },
+        "reference": {
+          "dois": [
+            "10.1007/s00159-013-0070-7"
+          ],
+          "label": "1",
+          "authors": [
+            {
+              "full_name": "Blasi, P."
+            }
+          ],
+          "publication_info": {
+            "year": 2013,
+            "artid": "70",
+            "page_start": "70",
+            "journal_title": "Astron.Astrophys.Rev.",
+            "journal_volume": "21"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/742625"
+        },
+        "reference": {
+          "dois": [
+            "10.1146/annurev.nucl.57.090506.123011"
+          ],
+          "label": "1",
+          "authors": [
+            {
+              "full_name": "Strong, A.W."
+            },
+            {
+              "full_name": "Moskalenko, I.V."
+            },
+            {
+              "full_name": "Ptuskin, V.S."
+            }
+          ],
+          "publication_info": {
+            "year": 2007,
+            "artid": "285",
+            "page_start": "285",
+            "journal_title": "Ann.Rev.Nucl.Part.Sci.",
+            "journal_volume": "57"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/679774"
+        },
+        "reference": {
+          "dois": [
+            "10.1016/j.astropartphys.2005.06.006"
+          ],
+          "label": "1",
+          "authors": [
+            {
+              "full_name": "Castellina, A."
+            },
+            {
+              "full_name": "Donato, F."
+            }
+          ],
+          "publication_info": {
+            "year": 2005,
+            "artid": "146",
+            "page_start": "146",
+            "journal_title": "Astropart.Phys.",
+            "journal_volume": "24"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1644260"
+        },
+        "reference": {
+          "dois": [
+            "10.1103/PhysRevLett.119.251101"
+          ],
+          "label": "2",
+          "authors": [
+            {
+              "full_name": "Aguilar, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2017,
+            "artid": "251101",
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "119"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1420103"
+        },
+        "reference": {
+          "dois": [
+            "10.3847/0004-637X/824/1/16"
+          ],
+          "label": "3",
+          "authors": [
+            {
+              "full_name": "Jóhannesson, G."
+            }
+          ],
+          "publication_info": {
+            "year": 2016,
+            "artid": "16",
+            "page_start": "16",
+            "journal_title": "Astrophys.J.",
+            "journal_volume": "824"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1593898"
+        },
+        "reference": {
+          "dois": [
+            "10.3847/1538-4357/aa6e4f"
+          ],
+          "label": "4",
+          "authors": [
+            {
+              "full_name": "Boschini, M.J."
+            }
+          ],
+          "publication_info": {
+            "year": 2017,
+            "artid": "115",
+            "page_start": "115",
+            "journal_title": "Astrophys.J.",
+            "journal_volume": "840"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1668968"
+        },
+        "reference": {
+          "dois": [
+            "10.3847/1538-4357/aabc54"
+          ],
+          "misc": [
+            "In the 2018 paper, for each individual primary cosmic ray He, C, and O, a set of distinct parameters are chosen so that, with their model, they can describe our measured data, 61"
+          ],
+          "label": "4",
+          "authors": [
+            {
+              "full_name": "Boschini, M.J."
+            }
+          ],
+          "publication_info": {
+            "year": 2018,
+            "artid": "61",
+            "page_start": "61",
+            "journal_title": "Astrophys.J.",
+            "journal_volume": "858"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/2736450"
+        },
+        "reference": {
+          "dois": [
+            "10.1088/0004-637X/770/2/117"
+          ],
+          "label": "5",
+          "authors": [
+            {
+              "full_name": "Lave, K.A."
+            }
+          ],
+          "publication_info": {
+            "year": 2013,
+            "artid": "117",
+            "page_start": "117",
+            "journal_title": "Astrophys.J.",
+            "journal_volume": "770"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/346161"
+        },
+        "reference": {
+          "dois": [
+            "10.1016/0927-6505(92)90007-M"
+          ],
+          "label": "5",
+          "authors": [
+            {
+              "full_name": "Esposito, J.A."
+            }
+          ],
+          "publication_info": {
+            "year": 1992,
+            "artid": "33",
+            "page_start": "33",
+            "journal_title": "Astropart.Phys.",
+            "journal_volume": "1"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/342278"
+        },
+        "reference": {
+          "dois": [
+            "10.1103/PhysRevD.48.1949"
+          ],
+          "label": "5",
+          "authors": [
+            {
+              "full_name": "Ichimura, M."
+            }
+          ],
+          "publication_info": {
+            "year": 1993,
+            "artid": "1949",
+            "page_start": "1949",
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "48"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/313704"
+        },
+        "reference": {
+          "label": "6",
+          "authors": [
+            {
+              "full_name": "Engelmann, J.J."
+            }
+          ],
+          "publication_info": {
+            "year": 1990,
+            "artid": "96",
+            "page_start": "96",
+            "journal_title": "Astron.Astrophys.",
+            "journal_volume": "233"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "reference": {
+          "dois": [
+            "10.1086/168349"
+          ],
+          "label": "7",
+          "authors": [
+            {
+              "full_name": "Swordy, S.P."
+            },
+            {
+              "full_name": "Müller, D."
+            },
+            {
+              "full_name": "Meyer, P."
+            },
+            {
+              "full_name": "L'Heureux, J."
+            },
+            {
+              "full_name": "Grunsfeld, J.M."
+            }
+          ],
+          "publication_info": {
+            "year": 1990,
+            "artid": "625",
+            "page_start": "625",
+            "journal_title": "Astrophys.J.",
+            "journal_volume": "349"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/884687"
+        },
+        "reference": {
+          "dois": [
+            "10.3103/S1062873809050098"
+          ],
+          "label": "8",
+          "authors": [
+            {
+              "full_name": "Panov, A.D."
+            }
+          ],
+          "publication_info": {
+            "year": 2009,
+            "artid": "564",
+            "page_start": "564",
+            "journal_title": "Bull.Russ.Acad.Sci.Phys.",
+            "journal_volume": "73"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1425991"
+        },
+        "reference": {
+          "dois": [
+            "10.1088/0004-637X/715/2/1400"
+          ],
+          "label": "9",
+          "authors": [
+            {
+              "full_name": "Ahn, H.S."
+            }
+          ],
+          "publication_info": {
+            "year": 2010,
+            "artid": "1400",
+            "page_start": "1400",
+            "journal_title": "Astrophys.J.",
+            "journal_volume": "715"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/851085"
+        },
+        "reference": {
+          "dois": [
+            "10.1088/2041-8205/714/1/L89"
+          ],
+          "label": "9",
+          "authors": [
+            {
+              "full_name": "Ahn, H.S."
+            }
+          ],
+          "publication_info": {
+            "year": 2010,
+            "artid": "L89",
+            "page_start": "L89",
+            "journal_title": "Astrophys.J.",
+            "journal_volume": "714"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/836548"
+        },
+        "reference": {
+          "dois": [
+            "10.1088/0004-637X/707/1/593"
+          ],
+          "label": "9",
+          "authors": [
+            {
+              "full_name": "Ahn, H.S."
+            }
+          ],
+          "publication_info": {
+            "year": 2009,
+            "artid": "593",
+            "page_start": "593",
+            "journal_title": "Astrophys.J.",
+            "journal_volume": "707"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/658930"
+        },
+        "reference": {
+          "dois": [
+            "10.1086/383304"
+          ],
+          "label": "10",
+          "authors": [
+            {
+              "full_name": "Gahbauer, F."
+            },
+            {
+              "full_name": "Hermann, G."
+            },
+            {
+              "full_name": "Hörandel, J.R."
+            },
+            {
+              "full_name": "Müller, D."
+            },
+            {
+              "full_name": "Radu, A.A."
+            }
+          ],
+          "publication_info": {
+            "year": 2004,
+            "artid": "333",
+            "page_start": "333",
+            "journal_title": "Astrophys.J.",
+            "journal_volume": "607"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/776763"
+        },
+        "reference": {
+          "dois": [
+            "10.1086/529424"
+          ],
+          "label": "11",
+          "authors": [
+            {
+              "full_name": "Ave, M."
+            },
+            {
+              "full_name": "Boyle, P.J."
+            },
+            {
+              "full_name": "Gahbauer, F."
+            },
+            {
+              "full_name": "Höppner, C."
+            },
+            {
+              "full_name": "Hörandel, J.R."
+            },
+            {
+              "full_name": "Ichimura, M."
+            },
+            {
+              "full_name": "Müller, D."
+            },
+            {
+              "full_name": "Romero-Wolf, A."
+            }
+          ],
+          "publication_info": {
+            "year": 2008,
+            "artid": "262",
+            "page_start": "262",
+            "journal_title": "Astrophys.J.",
+            "journal_volume": "678"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1262252"
+        },
+        "reference": {
+          "dois": [
+            "10.1142/S0218301312300056"
+          ],
+          "label": "12",
+          "authors": [
+            {
+              "full_name": "Kounine, A."
+            }
+          ],
+          "publication_info": {
+            "year": 2012,
+            "artid": "1230005",
+            "journal_title": "Int.J.Mod.Phys.E",
+            "journal_volume": "21"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "reference": {
+          "misc": [
+            "unpublished"
+          ],
+          "label": "12",
+          "title": {
+            "title": "Proceedings of Astroparticle Physics TEVPA/IDM, Amsterdam, 2014"
+          },
+          "authors": [
+            {
+              "full_name": "Rosier-Lees, S."
+            }
+          ]
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1263566"
+        },
+        "reference": {
+          "dois": [
+            "10.1016/j.nuclphysbps.2013.09.028"
+          ],
+          "label": "12",
+          "authors": [
+            {
+              "full_name": "Ting, S."
+            }
+          ],
+          "publication_info": {
+            "year": 2013,
+            "page_end": "244",
+            "page_start": "243",
+            "journal_title": "Nucl.Phys.B",
+            "journal_volume": " Proc.Suppl."
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "reference": {
+          "misc": [
+            "unpublished"
+          ],
+          "label": "12",
+          "title": {
+            "title": "Proceedings of the 20th International Conference on Supersymmetry and Unification of Fundamental Interactions (SUSY 2012), Beijing, 2012"
+          },
+          "authors": [
+            {
+              "full_name": "Lee, S.-C."
+            }
+          ]
+        }
+      },
+      {
+        "reference": {
+          "misc": [
+            "unpublished"
+          ],
+          "label": "12",
+          "title": {
+            "title": "Proceedings of the XL International Meeting on Fundamental Physics, Centro de Ciencias de Benasque Pedro Pascual, 2012"
+          },
+          "authors": [
+            {
+              "full_name": "Aguilar, M."
+            }
+          ]
+        }
+      },
+      {
+        "reference": {
+          "misc": [
+            "unpublished"
+          ],
+          "label": "12",
+          "title": {
+            "title": "Proceedings of the 10th Symposium on Sources and Detection of Dark Matter and Dark Energy in the Universe, Los Angeles, 2012"
+          },
+          "authors": [
+            {
+              "full_name": "Schael, S."
+            }
+          ]
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1128060"
+        },
+        "reference": {
+          "label": "12",
+          "authors": [
+            {
+              "full_name": "Bertucci, B."
+            }
+          ],
+          "publication_info": {
+            "year": 2011,
+            "artid": "067",
+            "page_start": "067",
+            "journal_title": "PoS",
+            "journal_volume": "EPS-HEP2011"
+          }
+        },
+        "legacy_curated": true,
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/853820"
+        },
+        "reference": {
+          "dois": [
+            "10.1063/1.3395995"
+          ],
+          "label": "12",
+          "authors": [
+            {
+              "full_name": "Incagli, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2010,
+            "artid": "43",
+            "page_start": "43",
+            "journal_title": "AIP Conf.Proc.",
+            "journal_volume": "1223"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/786971"
+        },
+        "reference": {
+          "dois": [
+            "10.1016/j.nima.2008.01.044"
+          ],
+          "label": "12",
+          "authors": [
+            {
+              "full_name": "Battiston, R."
+            }
+          ],
+          "publication_info": {
+            "year": 2008,
+            "artid": "227",
+            "page_start": "227",
+            "journal_title": "Nucl.Instrum.Meth.A",
+            "journal_volume": "588"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/945726"
+        },
+        "reference": {
+          "dois": [
+            "10.1016/j.nima.2011.06.051"
+          ],
+          "label": "13",
+          "authors": [
+            {
+              "full_name": "Lübelsmeyer, K."
+            }
+          ],
+          "publication_info": {
+            "year": 2011,
+            "artid": "639",
+            "page_start": "639",
+            "journal_title": "Nucl.Instrum.Meth.A",
+            "journal_volume": "654"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/853944"
+        },
+        "reference": {
+          "dois": [
+            "10.1016/j.nima.2009.11.065"
+          ],
+          "label": "14",
+          "authors": [
+            {
+              "full_name": "Alpat, B."
+            }
+          ],
+          "publication_info": {
+            "year": 2010,
+            "artid": "207",
+            "page_start": "207",
+            "journal_title": "Nucl.Instrum.Meth.A",
+            "journal_volume": "613"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1286392"
+        },
+        "reference": {
+          "dois": [
+            "10.1016/j.nima.2014.01.002"
+          ],
+          "label": "15",
+          "authors": [
+            {
+              "full_name": "Bindi, V."
+            }
+          ],
+          "publication_info": {
+            "year": 2014,
+            "artid": "22",
+            "page_start": "22",
+            "journal_title": "Nucl.Instrum.Meth.A",
+            "journal_volume": "743"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "reference": {
+          "misc": [
+            "See Supplemental material at for details of the AMS detector for details of the fits of the He, C, and O and Ne, Mg, and Si fluxes with Eq 5 for the tabulated neon, magnesium, and silicon fluxes, neon and silicon to magnesium flux ratios, neon, magnesium, and silicon to oxygen flux ratios, all as functions of rigidity and figures regarding charge resolution and selection, tracker coordinate resolution, and Ne, Mg, and Si to O flux ratios versus rigidity"
+          ],
+          "urls": [
+            {
+              "value": "http://link.aps.org/supplemental/10.1103/PhysRevLett.124.211102"
+            }
+          ],
+          "label": "16"
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1611499"
+        },
+        "reference": {
+          "dois": [
+            "10.1016/j.nima.2017.07.014"
+          ],
+          "label": "17",
+          "authors": [
+            {
+              "full_name": "Ambrosi, G."
+            },
+            {
+              "full_name": "Choutko, V."
+            },
+            {
+              "full_name": "Delgado, C."
+            },
+            {
+              "full_name": "Oliva, A."
+            },
+            {
+              "full_name": "Yan, Q."
+            },
+            {
+              "full_name": "Li, Y."
+            }
+          ],
+          "publication_info": {
+            "year": 2017,
+            "artid": "29",
+            "page_start": "29",
+            "journal_title": "Nucl.Instrum.Meth.A",
+            "journal_volume": "869"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1405556"
+        },
+        "reference": {
+          "dois": [
+            "10.1103/PhysRevLett.115.211101"
+          ],
+          "label": "18",
+          "authors": [
+            {
+              "full_name": "Aguilar, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2015,
+            "artid": "211101",
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "115"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1488031"
+        },
+        "reference": {
+          "dois": [
+            "10.1016/j.nima.2016.06.125"
+          ],
+          "label": "19",
+          "authors": [
+            {
+              "full_name": "Allison, J."
+            }
+          ],
+          "publication_info": {
+            "year": 2016,
+            "artid": "186",
+            "page_start": "186",
+            "journal_title": "Nucl.Instrum.Meth.A",
+            "journal_volume": "835"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/715388"
+        },
+        "reference": {
+          "dois": [
+            "10.1109/TNS.2006.869826"
+          ],
+          "label": "19",
+          "authors": [
+            {
+              "full_name": "Allison, J."
+            }
+          ],
+          "publication_info": {
+            "year": 2006,
+            "artid": "270",
+            "page_start": "270",
+            "journal_title": "IEEE Trans.Nucl.Sci.",
+            "journal_volume": "53"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/593382"
+        },
+        "reference": {
+          "dois": [
+            "10.1016/S0168-9002(03)01368-8"
+          ],
+          "label": "19",
+          "authors": [
+            {
+              "full_name": "Agostinelli, S."
+            }
+          ],
+          "publication_info": {
+            "year": 2003,
+            "artid": "250",
+            "page_start": "250",
+            "journal_title": "Nucl.Instrum.Meth.A",
+            "journal_volume": "506"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1365898"
+        },
+        "reference": {
+          "dois": [
+            "10.1103/PhysRevLett.114.171103"
+          ],
+          "label": "20",
+          "authors": [
+            {
+              "full_name": "Aguilar, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2015,
+            "artid": "171103",
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "114"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1501164"
+        },
+        "reference": {
+          "dois": [
+            "10.1103/PhysRevLett.117.231102"
+          ],
+          "label": "21",
+          "authors": [
+            {
+              "full_name": "Aguilar, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2016,
+            "artid": "231102",
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "117"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/533073"
+        },
+        "reference": {
+          "dois": [
+            "10.1016/S0370-2693(00)00588-8"
+          ],
+          "label": "22",
+          "authors": [
+            {
+              "full_name": "Alcaraz, J."
+            }
+          ],
+          "publication_info": {
+            "year": 2000,
+            "artid": "10",
+            "page_start": "10",
+            "journal_title": "Phys.Lett.B",
+            "journal_volume": "484"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/2736265"
+        },
+        "reference": {
+          "dois": [
+            "10.1111/j.1365-246X.2010.04804.x"
+          ],
+          "label": "23",
+          "authors": [
+            {
+              "full_name": "Finlay, C.C."
+            }
+          ],
+          "publication_info": {
+            "year": 2010,
+            "artid": "1216",
+            "page_start": "1216",
+            "journal_title": "Geophys.J.Int.",
+            "journal_volume": "183"
+          }
+        }
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/2732476"
+        },
+        "reference": {
+          "dois": [
+            "10.1186/s40623-015-0228-9"
+          ],
+          "label": "23",
+          "authors": [
+            {
+              "full_name": "Thébault, E."
+            }
+          ],
+          "publication_info": {
+            "year": 2015,
+            "artid": "79",
+            "page_start": "79",
+            "journal_title": "Earth Planets Space",
+            "journal_volume": "67"
+          }
+        }
+      },
+      {
+        "reference": {
+          "misc": [
+            "to be published"
+          ],
+          "label": "24",
+          "title": {
+            "title": "Measurement of the heavy nuclei cosmic rays fluxes with the Alpha Magnetic Spectrometer on the International Space Station"
+          },
+          "authors": [
+            {
+              "full_name": "Aguilar, M."
+            }
+          ],
+          "collaborations": [
+            "AMS Collaboration"
+          ]
+        },
+        "legacy_curated": true
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1856490"
+        },
+        "reference": {
+          "dois": [
+            "10.1016/j.nuclphysa.2020.121712"
+          ],
+          "label": "25",
+          "authors": [
+            {
+              "full_name": "Yan, Q."
+            },
+            {
+              "full_name": "Choutko, V."
+            },
+            {
+              "full_name": "Oliva, A."
+            },
+            {
+              "full_name": "Paniccia, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2020,
+            "artid": "121712",
+            "journal_title": "Nucl.Phys.A",
+            "journal_volume": "996"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1611498"
+        },
+        "reference": {
+          "dois": [
+            "10.1016/j.nima.2017.07.012"
+          ],
+          "label": "26",
+          "authors": [
+            {
+              "full_name": "Berdugo, J."
+            },
+            {
+              "full_name": "Choutko, V."
+            },
+            {
+              "full_name": "Delgado, C."
+            },
+            {
+              "full_name": "Yan, Q."
+            }
+          ],
+          "publication_info": {
+            "year": 2017,
+            "artid": "10",
+            "page_start": "10",
+            "journal_title": "Nucl.Instrum.Meth.A",
+            "journal_volume": "869"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/374024"
+        },
+        "reference": {
+          "dois": [
+            "10.1016/0168-9002(94)01112-5"
+          ],
+          "misc": [
+            "We have used Eq 6 with, 541"
+          ],
+          "label": "27",
+          "authors": [
+            {
+              "full_name": "Lafferty, G.D."
+            },
+            {
+              "full_name": "Wyatt, T.R."
+            }
+          ],
+          "publication_info": {
+            "year": 1995,
+            "artid": "541",
+            "page_start": "541",
+            "journal_title": "Nucl.Instrum.Meth.A",
+            "journal_volume": "355"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1648089"
+        },
+        "reference": {
+          "dois": [
+            "10.1103/PhysRevLett.120.021101"
+          ],
+          "label": "28",
+          "authors": [
+            {
+              "full_name": "Aguilar, M."
+            }
+          ],
+          "publication_info": {
+            "year": 2018,
+            "artid": "021101",
+            "journal_title": "Phys.Rev.Lett.",
+            "journal_volume": "120"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1220763"
+        },
+        "reference": {
+          "dois": [
+            "10.1051/0004-6361/201321344"
+          ],
+          "label": "29",
+          "authors": [
+            {
+              "full_name": "Maurin, D."
+            },
+            {
+              "full_name": "Melot, F."
+            },
+            {
+              "full_name": "Taillet, R."
+            }
+          ],
+          "publication_info": {
+            "year": 2014,
+            "artid": "A32",
+            "page_start": "A32",
+            "journal_title": "Astron.Astrophys.",
+            "journal_volume": "569"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "reference": {
+          "misc": [
+            "to be published"
+          ],
+          "label": "30",
+          "title": {
+            "title": "he Alpha Magnetic Spectrometer (AMS) on the International Space Station: Part II—Results from the first seven years"
+          },
+          "authors": [
+            {
+              "full_name": "Aguilar, M."
+            }
+          ]
+        },
+        "legacy_curated": true
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1730894"
+        },
+        "reference": {
+          "dois": [
+            "10.1103/PhysRevD.99.103023"
+          ],
+          "label": "31",
+          "authors": [
+            {
+              "full_name": "Evoli, C."
+            },
+            {
+              "full_name": "Aloisio, R."
+            },
+            {
+              "full_name": "Blasi, P."
+            }
+          ],
+          "publication_info": {
+            "year": 2019,
+            "artid": "103023",
+            "journal_title": "Phys.Rev.D",
+            "journal_volume": "99"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1763875"
+        },
+        "reference": {
+          "dois": [
+            "10.3847/1538-4357/ab64f1"
+          ],
+          "label": "31",
+          "authors": [
+            {
+              "full_name": "Boschini, M.J."
+            }
+          ],
+          "publication_info": {
+            "year": 2020,
+            "artid": "167",
+            "page_start": "167",
+            "journal_title": "Astrophys.J.",
+            "journal_volume": "889"
+          }
+        },
+        "curated_relation": false
+      },
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/literature/1782393"
+        },
+        "reference": {
+          "dois": [
+            "10.1051/0004-6361/202037875"
+          ],
+          "label": "31",
+          "title": {
+            "title": "Astron.Astrophys."
+          },
+          "authors": [
+            {
+              "full_name": "Weinrich, N."
+            },
+            {
+              "full_name": "Génolini, Y."
+            },
+            {
+              "full_name": "Boudaud, M."
+            },
+            {
+              "full_name": "Derome, L."
+            },
+            {
+              "full_name": "Maurin, D."
+            }
+          ]
+        },
+        "curated_relation": false
+      }
+    ],
+    "document_type": [
+      "article"
+    ],
+    "collaborations": [
+      {
+        "value": "AMS",
+        "record": {
+          "$ref": "https://inspirehep.net/api/experiments/1110577"
+        }
+      }
+    ],
+    "control_number": 1798811,
+    "legacy_version": "20200902092025.0",
+    "number_of_pages": 8,
+    "inspire_categories": [
+      {
+        "term": "Astrophysics"
+      },
+      {
+        "term": "Instrumentation"
+      }
+    ],
+    "legacy_creation_date": "2020-06-02",
+    "accelerator_experiments": [
+      {
+        "record": {
+          "$ref": "https://inspirehep.net/api/experiments/1110577"
+        },
+        "legacy_name": "AMS"
+      }
+    ],
+    "external_system_identifiers": [
+      {
+        "value": "2724788",
+        "schema": "CDS"
+      },
+      {
+        "value": "hal-02870846",
+        "schema": "HAL"
+      }
+    ]
+  },
+  "id": "1798811"
+}

@@ -1,0 +1,45 @@
+[build-system]
+requires = ["setuptools>=80"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hep-research-pipeline"
+version = "0.2.0"
+description = "Local HEP task generation, review, solving and evaluation with DeepSeek Harness"
+readme = "README.md"
+requires-python = ">=3.10,<3.11"
+dependencies = [
+  "requests==2.34.2",
+  "omegaconf==2.4.0",
+  "PyYAML==6.0.3",
+  "pymupdf==1.28.2",
+  "pymupdf4llm==0.3.4",
+  "python-dotenv==1.2.4",
+  "numpy==2.2.6",
+  "pandas==2.3.3",
+  "scipy==1.15.3",
+  "matplotlib==3.10.9",
+  "uproot==5.7.7",
+  "pillow==12.3.0",
+]
+
+[dependency-groups]
+dev = ["pytest==9.2.0"]
+
+[project.scripts]
+researchfactory = "researchfactory.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["sources/ResearchFactory"]
+include = ["researchfactory*"]
+
+[tool.setuptools.package-data]
+researchfactory = [
+  "config/*.yaml",
+  "capabilities/data/*.json",
+  "taskgen/tasks/researchclawbench/*.md",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["sources/ResearchFactory/tests"]
+markers = ["integration: 使用真实 AMS 缓存和真实模型产物的验收"]
