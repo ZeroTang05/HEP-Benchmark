@@ -13,7 +13,7 @@ from researchfactory.taskgen.core.registry import register_review_type
 from researchfactory.taskgen.core.types import PreparedTaskWorkspace, ReviewType
 from researchfactory.taskgen.tasks.researchclawbench.contract import CONTRACT
 from researchfactory.taskgen.tasks.researchclawbench.hep_rubric import (
-    CAPABILITY_SCHEMA, PACKAGE_METADATA, rubric_enabled, rubric_path, task_capabilities,
+    CAPABILITY_SCHEMA, PACKAGE_METADATA, rubric_enabled, rubric_path,
 )
 
 
@@ -146,6 +146,7 @@ class ResearchClawBenchReviewType(ReviewType):
         path = _resolve_skill_path(skill_path)
         return {
             "policy": REPORT_SCHEMA,
+            "reviewer_code": Path(__file__).read_text(encoding="utf-8"),
             "skill": path.read_text(encoding="utf-8"),
             "protocol": Path(__file__).with_name("hep_protocol.md").read_text(encoding="utf-8"),
             "provider": os.environ.get("DEEPSEEK_PROVIDER"),
@@ -258,8 +259,6 @@ class ResearchClawBenchReviewType(ReviewType):
             relative = Path("target_study") / PACKAGE_METADATA
             if (task_root / relative).read_bytes() != (source_task_root / relative).read_bytes():
                 validation.error("hep_package_contract_changed", "review changed the target paper metadata")
-            if validation.ok and not set(task_capabilities(source_task_root)).issubset(task_capabilities(task_root)):
-                validation.error("hep_capabilities_removed", "review removed a scored capability from the generated task")
         checks = [
             {
                 "code": issue.code,

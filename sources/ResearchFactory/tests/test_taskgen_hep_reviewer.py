@@ -85,6 +85,42 @@ def test_researchclawbench_review_type_is_registered() -> None:
 
 
 @pytest.mark.integration
+@pytest.mark.parametrize("workspace_name", [
+    "doi_10.1103_PhysRevLett.113.121102--1321fa577a46--power-law-threshold",
+    "doi_10.1103_PhysRevLett.121.051103--389fd6c70c59--nitrogen-ratio-trend",
+    "doi_10.1103_PhysRevLett.132.261001--cbb39eca9658--d4he-powerlaw",
+])
+def test_evidence_backed_capability_relabeling_passes_real_review(
+    tmp_path: Path, workspace_name: str,
+) -> None:
+    """复现三道真实误拒题，改标后的科学证据须通过审核。"""
+    from researchfactory.taskgen.tasks.researchclawbench.hep_rubric import task_capabilities
+
+    root = Path(__file__).resolve().parents[3] / "runs"
+    original = root / "20261122-105806-ams02-taskgen-full" / workspace_name / "task"
+    reviewed = root / "20261124-184841-ams02-full-review" / workspace_name
+    if not original.is_dir() or not reviewed.is_dir():
+        pytest.skip("需要本批真实 AMS 原题和审核修复后的题包")
+    removed = set(task_capabilities(original)) - set(task_capabilities(reviewed / "task"))
+    assert removed == {"tool_use"}
+    package = tmp_path / "task"
+    shutil.copytree(reviewed / "task", package)
+    science_path = tmp_path / SCIENTIFIC_REPORT_NAME
+    shutil.copy2(reviewed / SCIENTIFIC_REPORT_NAME, science_path)
+    reviewer = ResearchClawBenchReviewType()
+    reviewer.finalize(package, source_task_root=original)
+    report = json.loads((tmp_path / REPORT_NAME).read_text())
+    assert report["status"] == "repaired"
+    assert reviewer.validate(package).ok
+
+    scientific = json.loads(science_path.read_text())
+    scientific["checks"][-1]["assessment"] = "concern"
+    science_path.write_text(json.dumps(scientific), encoding="utf-8")
+    with pytest.raises(ValueError, match="通过审核的能力评分项必须有可观察的证据"):
+        reviewer.finalize(package, source_task_root=original)
+
+
+@pytest.mark.integration
 def test_declared_solver_output_fields_are_public_contract(hep_run: Path) -> None:
     """真实任务中公开声明的提交字段名可以与参考结果使用相同名称。"""
     from researchfactory.taskgen.tasks.researchclawbench.reviewer import _hidden_key_leaks
